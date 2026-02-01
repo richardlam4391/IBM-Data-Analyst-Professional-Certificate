@@ -1,4 +1,4 @@
-# Details of Python for Data Science, AI and Development
+# Details of Data Analyst Capstone Project
 
 This course tells you how to make the interactive dashboards and data visualizations with data analysis tools, including Python and Business Intelligence (BI).
 
