@@ -57,4 +57,4 @@ These files are from this online course program in Coursera.
 
 - Chapter 10: [Generative AI: Enhance your Data Analytics Career](https://www.coursera.org/learn/generative-ai-enhance-your-data-analytics-career?specialization=ibm-data-analyst)
 
-Chapter 11: [Data Analyst Career Guide and Interview Preparation](https://www.coursera.org/learn/career-guide-and-interview-prep-for-data-analyst?specialization=ibm-data-analyst)
+- Chapter 11: [Data Analyst Career Guide and Interview Preparation](https://www.coursera.org/learn/career-guide-and-interview-prep-for-data-analyst?specialization=ibm-data-analyst)
