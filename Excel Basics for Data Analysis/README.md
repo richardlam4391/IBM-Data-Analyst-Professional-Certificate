@@ -1,29 +1,31 @@
 # Details of Excel Basics for Data Analysis
 
-This course tells you how to learn the basic syntax, data types, expressions, variables and string operations and to understand the data structure and web-based data by web scraping. 
+This course tells you how to focus on the major tasks and data analysis in Microsoft Excel (spreadsheet software). 
 
 ## Key Skills
 
-- Programming Principles
+- Data Analysis
 
-- Python Programming Pandas (Python Package)
+- Data Quality
 
-- Data Structure
+- Information Privacy
 
-- Restful API
+- Spreadsheet Software
 
-- Automation
+- Excel Formulas
 
-- Object Oriented Programming (OOP)
-
-- JSON
-
-- File I/O
-
-- Jupyter
-
-- Data Import/Export
+- Data Wrangling
 
 - Data Manipulation
 
-- Numpy
+- Microsoft Excel
+
+- Data Science
+
+- Google Sheets
+
+- Data Cleaning
+
+- Pivot Tables and Charts
+
+- Data Import/Export
