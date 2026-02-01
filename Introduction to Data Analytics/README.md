@@ -6,7 +6,9 @@ This course tells you how to understand why Data Analytics tools and career role
 
 - Apache Hadoop
 
-- Data Visualization Data Collection
+- Data Visualization
+ 
+- Data Collection
 
 - Data Cleansing
 
