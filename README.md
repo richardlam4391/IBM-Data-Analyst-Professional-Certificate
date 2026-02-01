@@ -53,7 +53,7 @@ These files are from this online course program in Coursera.
 
 - Chapter 8: [Data Visualization with Python](https://www.coursera.org/learn/python-for-data-visualization?specialization=ibm-data-analyst)
 
-- Chapter 9: [IBM Data Analyst CApstone Project](https://www.coursera.org/learn/ibm-data-analyst-capstone-project?specialization=ibm-data-analyst)
+- Chapter 9: [IBM Data Analyst Capstone Project](https://www.coursera.org/learn/ibm-data-analyst-capstone-project?specialization=ibm-data-analyst)
 
 - Chapter 10: [Generative AI: Enhance your Data Analytics Career](https://www.coursera.org/learn/generative-ai-enhance-your-data-analytics-career?specialization=ibm-data-analyst)
 
