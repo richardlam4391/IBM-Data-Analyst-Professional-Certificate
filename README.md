@@ -1,7 +1,7 @@
-### IBM-Data-Analyst-Professional-Certificate
+# IBM-Data-Analyst-Professional-Certificate
 
 ## Professional Certificate
-The IBM Data Analyst Professional Certificate is an online course program that helps the beginning learners to prepare for the entry-level data analytics career role. The learners know how to use the data analysis tools, including Excel, SQL, Python and Looker Studio (Data Visualization tool) and gain technical experiences in data cleaning, data reports, data visualizations and statistical analysis.
+The IBM Data Analyst Professional Certificate is an online course program that helps the beginning learners to prepare for the entry-level data analytics career role. The learners know how to use the data analysis tools, including Excel, SQL, Python and Looker Studio (Data Visualization tool) and gain technical experiences in data cleaning, data reports, data visualizations and statistical analysis. There are 11 chapters in this online course program. 
 
 ## Files
 These files are from this online course program in Coursera.   
