@@ -33,6 +33,17 @@ The IBM Data Analyst Professional Certificate is an online course program that h
 
 - Data Visualization Software
 
+## Tools
+- Dashboard
+
+- Microsoft Excel
+
+- Plotly
+
+- Python Programming
+
+- Generative AI
+
 ## Chapters
 - Chapter 1: [Introduction to Data Analytics](https://www.coursera.org/learn/introduction-to-data-analytics?specialization=ibm-data-analyst)
 
