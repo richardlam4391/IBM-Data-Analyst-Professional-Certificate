@@ -26,4 +26,4 @@ This course tells you how to learn the basic syntax, data types, expressions, va
 
 - Data Manipulation
 
-- -Numoy
+- Numpy
