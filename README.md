@@ -29,7 +29,9 @@ The IBM Data Analyst Professional Certificate is an online course program that h
 
 - Excel Formulas
 
-- IBM Cognos Analytics Data Storytelling
+- IBM Cognos Analytics
+
+- Data Storytelling
 
 - Data Visualization Software
 
