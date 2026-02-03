@@ -37,5 +37,3 @@ This course tells you why Data Analytics tools and career roles are important.
 - Apache Hive
 
 - Data Mart
-
-- 
