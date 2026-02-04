@@ -2,6 +2,14 @@
 
 This course tells you how to make the interactive dashboards and data visualizations with data analysis tools, including Python and Business Intelligence (BI).
 
+## Summary of This Project
+
+- Generated interactive dashboards to present the hecnology tools for many people with different age and education in present and future.
+
+- Collected, scraped and wrangled data in technology trends from many web sources.
+
+- Cleaned and normalizaed the large datasets to handle the missing, repetitive and unnecessary data values and to enhance accuracy.   
+
 ## Key Skills
 
 - Data Cleansing
@@ -30,7 +38,7 @@ This course tells you how to make the interactive dashboards and data visualizat
 
 - Dashbard
 
-- IBM Cognos Analytics
+- IBM Cognos Analytics/Looker Studio
 
 - Data Wrangling
 
