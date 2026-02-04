@@ -3,7 +3,7 @@ Many labs, assignments and projects are on the list of this folder
 ## Summary of This Project
 Title: ***The Analysis of Current and Future Trends in Technical Skills*** 
 
-Date Completed: October 2025
+Date Completed: May 2025
 
 - Generated interactive dashboards to present the hecnology tools for many people with different age and education in present and future.
 
