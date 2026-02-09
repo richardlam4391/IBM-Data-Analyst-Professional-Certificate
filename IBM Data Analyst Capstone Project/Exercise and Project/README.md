@@ -9,4 +9,4 @@ Date Completed: May 2025
 
 - Collected, scraped and wrangled data in technology trends from many web sources.
 
-- Cleaned and normalizaed the large datasets to handle the missing, repetitive and unnecessary data values and to enhance accuracy.   
+- Cleaned and normalized the large datasets to handle the missing, repetitive and unnecessary data values and to enhance accuracy.   
