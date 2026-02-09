@@ -5,7 +5,7 @@ Title: ***The Analysis of Current and Future Trends in Technical Skills***
 
 Date Completed: May 2025
 
-- Generated interactive dashboards to present the hecnology tools for many people with different age and education in present and future.
+- Generated interactive dashboards to present the technology tools for many people with different age and education in present and future.
 
 - Collected, scraped and wrangled data in technology trends from many web sources.
 
