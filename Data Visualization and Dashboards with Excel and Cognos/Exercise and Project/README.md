@@ -1,4 +1,4 @@
-Many labs, assignments and projects are on the list of this folder
+Many projects are on the list of this folder
 ### Title: Making Dashboard of Sales and Services 
 #### Core Tasks
 - Utilize Excel formula to clean and organize the historical sales dataset. 
