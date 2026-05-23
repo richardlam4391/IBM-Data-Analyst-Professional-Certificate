@@ -1,5 +1,5 @@
 Many projects are on the list of this folder
-### Title: The Analysis of Current and Future Trends in Technical Skills*** 
+### Title: The Analysis of Current and Future Trends in Technical Skills
 Date Completed: May 2025
 #### Core Tasks
 - Generated interactive dashboards to present the technology tools for many people with different age and education in present and future.
