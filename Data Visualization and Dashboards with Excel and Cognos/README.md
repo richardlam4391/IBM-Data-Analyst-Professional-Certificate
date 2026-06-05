@@ -6,6 +6,8 @@ This course tells you how to visualize the data, to make the interactive dashboa
 
 - Looker Studio (Data Visualization Software)
 
+- Tableau
+
 - IBM Cognos Analytics
 
 - Scatter Plots
