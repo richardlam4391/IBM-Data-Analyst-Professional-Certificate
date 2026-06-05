@@ -14,5 +14,8 @@ Peer-Graded Assignment: Final Assignment – Part 2
 
 https://author-ide.skills.network/render?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZF9pbnN0cnVjdGlvbnNfdXJsIjoiaHR0cHM6Ly9jZi1jb3Vyc2VzLWRhdGEuczMudXMuY2xvdWQtb2JqZWN0LXN0b3JhZ2UuYXBwZG9tYWluLmNsb3VkL0lCTURldmVsb3BlclNraWxsc05ldHdvcmstRFYwMTMwRU4tU2tpbGxzTmV0d29yay9IYW5kcy1vbiUyMExhYnMvUGVlciUyMEdyYWRlZCUyMEFzc2lnbm1lbnQlMjAtJTIwUGFydCUyMDIvaW5zdHJ1Y3Rpb25zLm1kIiwidG9vbF90eXBlIjoiaW5zdHJ1Y3Rpb25hbC1sYWIiLCJhZG1pbiI6ZmFsc2UsImlhdCI6MTY3MTUzMzQ2NX0.5-sseC3q4Pcahc4AZVzg0oVhPWdfAu-fvpUIgPQIt7A
 
-Link
+Link Looker Studio
 https://datastudio.google.com/reporting/ed381464-02ae-4b01-bad3-c9b1038e2b13/page/XR1mF/edit
+
+Link Tableau Public
+https://public.tableau.com/authoring/SaleandDashboardServices/Service#2
