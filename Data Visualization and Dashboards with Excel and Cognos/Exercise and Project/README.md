@@ -4,7 +4,7 @@ Date Completed: April 2025
 #### Core Tasks
 - Utilize Excel formula to clean and organize the historical sales dataset. 
 - Utilize Tableau to create the interactive graphs and dashboards. 
-- Import Comma Separated Values (CSV) file from Excel to Looker Studio to analyze the dataset. 
+- Import Comma Separated Values (CSV) file from Excel to Tableau to analyze the dataset. 
 
 [Peer-Graded Assignment: Final Assignment – Part 1](https://author-ide.skills.network/render?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZF9pbnN0cnVjdGlvbnNfdXJsIjoiaHR0cHM6Ly9jZi1jb3Vyc2VzLWRhdGEuczMudXMuY2xvdWQtb2JqZWN0LXN0b3JhZ2UuYXBwZG9tYWluLmNsb3VkL0lCTURldmVsb3BlclNraWxsc05ldHdvcmstRFYwMTMwRU4tU2tpbGxzTmV0d29yay9IYW5kcy1vbiUyMExhYnMvUGVlciUyMEdyYWRlZCUyMEFzc2lnbm1lbnQlMjAtJTIwUGFydCUyMDEvaW5zdHJ1Y3Rpb25zLm1kIiwidG9vbF90eXBlIjoiaW5zdHJ1Y3Rpb25hbC1sYWIiLCJhZG1pbiI6ZmFsc2UsImlhdCI6MTY3MTU5ODU1NX0.zOnJssZ2ix6WBxvkJCqCAyKxM6xOorlxtAtcEO9SvjU)
 
