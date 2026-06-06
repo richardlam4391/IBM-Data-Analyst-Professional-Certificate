@@ -4,15 +4,13 @@ This course tells you how to visualize the data, to make the interactive dashboa
 
 ## Key Skills
 
-- Looker Studio (Data Visualization Software)
-
 - Tableau
 
 - IBM Cognos Analytics
 
 - Scatter Plots
 
-- Dashbard
+- Dashboard
 
 - Interactive Data Visualization
 
@@ -26,7 +24,7 @@ This course tells you how to visualize the data, to make the interactive dashboa
 
 - Data Visualization
 
-- Pivot TAbles and Charts
+- Pivot Tables and Charts
 
 - Data Presentation
 
