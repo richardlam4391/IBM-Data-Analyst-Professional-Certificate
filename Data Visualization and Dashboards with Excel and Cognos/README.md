@@ -31,3 +31,9 @@ This course tells you how to visualize the data, to make the interactive dashboa
 - Data Visualization
 
 - Data Analysis
+
+- Matplotlib
+
+- Seaborn
+
+- Box Plots
