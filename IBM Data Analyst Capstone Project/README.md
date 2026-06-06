@@ -30,7 +30,7 @@ This course tells you how to make the interactive dashboards and data visualizat
 
 - Dashbard
 
-- IBM Cognos Analytics/Looker Studio
+- IBM Cognos Analytics/Tableau
 
 - Data Wrangling
 
