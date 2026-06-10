@@ -7,5 +7,3 @@ Completed Date: May 2025
 - Perform the programmatic apps to dynamically change layouts and graphs baosed on user dropdown selections. 
 #### Tableau
 [Recession Statistics and Yearly Statistics Automobile Sales Statistics Dashboard](https://public.tableau.com/app/profile/richardlam4391/viz/RecessionStatisticsandYearlyStatisticsAutomobileSalesStatisticsDashboard/Dashboard1)
-#### Screenshot 
-![Recession Period Statistics](<img width="1432" height="603" alt="Screenshot 2026-06-06 at 4 58 14 PM" src="https://github.com/user-attachments/assets/da92316d-f804-42a4-807b-5c999305ed0f" />)
