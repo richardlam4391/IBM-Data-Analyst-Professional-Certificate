@@ -23,3 +23,12 @@ This course tells you how to understand the data fundamentals and structures and
 - Data Science
 
 - Data Presentation
+
+## Title: Extracting and Visualizing Stock Data
+
+Date Completed: April 2025
+
+## Core Tasks
+- Utilize Python library, which is yfinance, to download the dataset from the financial history. 
+- Use BeautifulSoup to webscrape the revenue data from HyperText Markup Language (HTML) tables. 
+- Utilize Python library to combine one of many datasets into a whole dashboard. 
