@@ -25,7 +25,7 @@ The IBM Data Analyst Professional Certificate is an online course program that h
 
 - [Generative AI: Enhance yout Data Analytics Career](https://github.com/richardlam4391/IBM-Data-Analyst-Professional-Certificate/tree/main/Generative%20AI%3A%20Enhance%20your%20Data%20Analytics%20Career)
 
-- Data Analyst Career Guide and Interview Prepartion
+- [Data Analyst Career Guide and Interview Prepartion](https://github.com/richardlam4391/IBM-Data-Analyst-Professional-Certificate/tree/main/Data%20Analyst%20Career%20Guide%20and%20Interview%20Preparation)
 
 ## Key Skills
 
