@@ -11,7 +11,7 @@ The IBM Data Analyst Professional Certificate is an online course program that h
 
 - [Data Visualization and Dashboards with Excel and Cognos](https://github.com/richardlam4391/IBM-Data-Analyst-Professional-Certificate/tree/main/Data%20Visualization%20and%20Dashboards%20with%20Excel%20and%20Cognos)
 
-- Python for Data Science, AI and Development
+- [Python for Data Science, AI and Development](https://github.com/richardlam4391/IBM-Data-Analyst-Professional-Certificate/tree/main/Python%20for%20Data%20Science%2C%20AI%20and%20Development)
 
 - Python Project for Data Science
 
