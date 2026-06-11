@@ -3,6 +3,30 @@
 ## Professional Certificate
 The IBM Data Analyst Professional Certificate is an online course program that helps the beginning learners to prepare for the entry-level data analytics career role. The learners know how to use the data analysis tools, including Excel, SQL, data visualization tools, and gain technical experiences in data cleaning, data reports, data visualizations and statistical analysis. There are 11 chapters in this online course program. 
 
+## Course Topics 
+
+- Introduction to Data Analystics
+
+- Excel Basics for Data Analysis
+
+- Data Visualization and Dashboards with Excel and Cognos
+
+- Python for Data Science, AI and Development
+
+- Python Project for Data Science
+
+- Databases and SQL for Data Science with Python
+
+- Data Analysis with Python
+
+- Data Visualization with Python
+
+- IBM Data Analyst Capstone Project
+
+- Generative AI: Enhance yout Data Analytics Career
+
+- Data Analyst Career Guide and Interview Prepartion
+
 ## Key Skills
 
 - Data Presentation
