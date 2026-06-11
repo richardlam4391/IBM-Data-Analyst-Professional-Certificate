@@ -13,6 +13,3 @@ Date Completed: April 2025
 #### Link Tableau Public
 [My Sales and Service Dashboard](https://public.tableau.com/app/profile/richardlam4391/viz/SaleandDashboardServices/Service)
 
-#### Screenshot
-![Sale Dashboard](https://github.com/richardlam4391/IBM-Data-Analyst-Professional-Certificate/blob/main/Data%20Visualization%20and%20Dashboards%20with%20Excel%20and%20Cognos/Exercise%20and%20Project/Sale%20Dashboard.png)
-![Service Dashboard](https://github.com/richardlam4391/IBM-Data-Analyst-Professional-Certificate/blob/main/Data%20Visualization%20and%20Dashboards%20with%20Excel%20and%20Cognos/Exercise%20and%20Project/Service%20Dashboard.png)
