@@ -50,7 +50,7 @@ Completed Date: May 2025
 - Utilize Python library, which is Plotly Dash, and Tableau to create the interactive dashboard on the website.
 - Perform the programmatic apps to dynamically change layouts and graphs baosed on user dropdown selections. 
 
-## Tableau
+## Link Tableau Public
 
 [Recession Statistics and Yearly Statistics Automobile Sales Statistics Dashboard](https://public.tableau.com/app/profile/richardlam4391/viz/RecessionStatisticsandYearlyStatisticsAutomobileSalesStatisticsDashboard/Dashboard1)
 
