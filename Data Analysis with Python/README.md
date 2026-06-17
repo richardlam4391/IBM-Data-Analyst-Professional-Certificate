@@ -1,50 +1,30 @@
 # Details of Data Analysis with Python
 
-This course tells you how to clean and to preare the data and analyze real-world datasets through exploratory data analysis (EDA) and statistcal analysis. 
-
-## Key Skills
-
-- Data Analysis 
-
-- Numpy
-
-- Data Cleansing
-
-- Scikit Learn (machine Learning Library)
-
-- Data Manipulation 
-
-- Data Visualization
-
-- Data Prerpocessing
-
-- Python Programming
-
-- Data Transformation
-
-- Analysis
-
-- Regression Analysis
-
-- Data Science
-
-- Matplotlib
-
-- Data-Driven Decision-Making
-
-- Predictive Modeling
-
-- Model Evaluation
-
-- Data Import/Exporrt
-
-- Exploratory Data Analysis
-
-- Pandas (Python Package)
-
 ## Title: House Sales in King County, USA
 
-Date Completed: May 2025
+This course tells you how to clean and to preare the data and analyze real-world datasets through exploratory data analysis (EDA) and statistcal analysis. 
+
+This repository contains importing, cleaning, exploring, and building predictive models on real-world datasets ccompleted in May 2025. 
+
+The project demonstrates the ability to transition from messy dataset into structured statistical testing and to culminate in machine learning model optimization.
+
+---
+
+### Core Objectives:
+1. **Data Wrangling & Preprocessing:** Identify and handle missing values, normalize features, and transform data types.
+2. **Exploratory Data Analysis (EDA):** Utilize descriptive statistics, correlation matrices, and data visualizations to surface key underlying patterns.
+3. **Model Development:** Implement and compare Simple Linear Regression, Multiple Linear Regression, and Polynomial regressions.
+4. **Model Evaluation & Refinement:** Use Ridge Regression and Grid Search optimization to prevent overfitting and tune hyperparameters.
+
+---
+
+## 🛠️ Tech Stack & Libraries
+* **Data Manipulation:** `Pandas`, `NumPy`
+* **Statistical Analysis & ML:** `Scipy`, `Scikit-Learn`
+* **Data Visualization:** `Matplotlib`, `Seaborn`
+* **Environment:** `Jupyter Notebook`
+
+---
 
 ## Core Tasks
 
