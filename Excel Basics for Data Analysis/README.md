@@ -1,4 +1,4 @@
-# Excel Basics for Data Analysis: Montgomery Fleet Equipment Inventory FA
+# Excel Basics for Data Analysis Montgomery Fleet Equipment Inventory FA
 
 This course tells you how to focus on the major tasks and data analysis in Microsoft Excel (spreadsheet software). 
 
