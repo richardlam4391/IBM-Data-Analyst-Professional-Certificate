@@ -1,5 +1,5 @@
 # Details of Python Project for Data Science
-This course tells you how to understand the data fundamentals and structures and to create interactive dashboard in Python libraries. 
+This course tells you how to understand the data fundamentals and structures and to extract the data from a dataset. 
 ## Key Skills
 
 - Jupyter
