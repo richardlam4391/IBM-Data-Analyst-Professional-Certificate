@@ -46,9 +46,7 @@ The program focuses on practical, hands-on learning of data analysis tools, meth
 ## 🏆 Capstone Project: [The Analysis of Current and Future Trends in Technical Skills](https://github.com/richardlam4391/IBM-Data-Analyst-Professional-Certificate/tree/main/IBM%20Data%20Analyst%20Capstone%20Project)
 
 ## 📌 Project Overview
-The technology landscape evolves rapidly, making it crucial for software companies, recruiters, and educational entities to know which programming languages, cloud environments, and database architectures dominate the market. 
-
-* **The Business Task:** Creating interactive dashboards to present the technology tools for many people with different age and education in present and future
+* **The Business Task:** The technology company wants to know the technology tools and skills for many people with different age and education in present and future
 * **Gold** Collected data via Web Scraping and APIs → Cleaned data in Python → Stored in SQL → Created a comprehensive dashboard in IBM Cognos.
 
 ## 🛠️ Technical Stack & Tools
