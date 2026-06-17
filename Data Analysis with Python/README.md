@@ -4,7 +4,7 @@
 
 This course tells you how to clean and to preare the data and analyze real-world datasets through exploratory data analysis (EDA) and statistcal analysis. 
 
-This repository contains importing, cleaning, exploring, and building predictive models on real-world datasets ccompleted in May 2025. 
+This repository contains importing, cleaning, exploring, and building data models on real-world datasets completed in May 2025. 
 
 The project demonstrates the ability to transition from messy dataset into structured statistical testing and to culminate in machine learning model optimization.
 
