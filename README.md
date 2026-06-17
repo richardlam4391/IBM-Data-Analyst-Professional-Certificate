@@ -48,8 +48,8 @@ The program focuses on practical, hands-on learning of data analysis tools, meth
 ## 📌 Project Overview
 The technology landscape evolves rapidly, making it crucial for software companies, recruiters, and educational entities to know which programming languages, cloud environments, and database architectures dominate the market. 
 
-* **The Business Task:** Collected, cleaned, analyzed, and visualized real-world tech stack data, which is found in the comprehensive Stack Overflow Developer Survey, to identify technology skills in current and future times and demographics. 
-* **The Goal:** Built a functional business dashboard detailing high-value technology insights for future strategic planning.
+* **The Business Task:** Creating interactive dashboards to present the technology tools for many people with different age and education in present and future
+* **Gold** Collected data via Web Scraping and APIs → Cleaned data in Python → Stored in SQL → Created a comprehensive dashboard in IBM Cognos.
 
 ## 🛠️ Technical Stack & Tools
 * **Data Ingestion:** Python, REST APIs, BeautifulSoup (Web Scraping)
