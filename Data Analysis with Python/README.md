@@ -6,7 +6,7 @@ This course tells you how to clean and to preare the data and analyze real-world
 
 This repository contains importing, cleaning, exploring, and building data models on real-world datasets completed in May 2025. 
 
-The project demonstrates the ability to transition from messy dataset into structured statistical testing and to culminate in machine learning model optimization.
+The project demonstrates the ability to transition from unclear dataset into structured statistical testing and to culminate in machine learning model optimization.
 
 ---
 
