@@ -89,10 +89,3 @@ Provide a brief summary of your final Capstone Project. Who was the stakeholder,
 
 ---
 
-## 📂 Repository Organization
-```text
-├── 1-Python-Data-Analysis/     # Notebooks on data wrangling, EDA, and regression
-├── 2-SQL-Databases/            # SQL query scripts and database connection files
-├── 3-Data-Visualizations/       # Dash app scripts and data presentation decks
-├── 4-Capstone-Project/         # Final capstone notebooks, datasets, and report slides
-└── README.md                    # Portfolio documentation (this file)
