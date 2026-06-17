@@ -55,5 +55,5 @@ Date Completed: April 2025
 
 ## Graph from Tableau Public
 
-![Sales Dashboard](https://github.com/richardlam4391/IBM-Data-Analyst-Professional-Certificate/blob/main/Data%20Visualization%20and%20Dashboards%20with%20Excel%20and%20Cognos/Sales%20(1).png)
-![Service Dashboard](https://github.com/richardlam4391/IBM-Data-Analyst-Professional-Certificate/blob/main/Data%20Visualization%20and%20Dashboards%20with%20Excel%20and%20Cognos/Service%20(1).png)
+![Sales Dashboard](https://github.com/richardlam4391/IBM-Data-Analyst-Professional-Certificate/blob/main/Data%20Visualization%20and%20Dashboards%20with%20Excel%20and%20Cognos/Sales%20(2).png)
+![Service Dashboard](https://github.com/richardlam4391/IBM-Data-Analyst-Professional-Certificate/blob/main/Data%20Visualization%20and%20Dashboards%20with%20Excel%20and%20Cognos/Service%20(2).png)
