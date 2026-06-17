@@ -34,12 +34,13 @@ The program focuses on practical, hands-on learning of data analysis tools, meth
 * **Key Lab:** Built a dashboard for the sales and service in the number of recalls per model and in the price and quantity sold by model
 
 ### 5. Excel Basics for Data Analysis
-* Focus on the major tasks and data analysis in Microsoft Excel
+* Focused on the data analysis tools in Microsoft Excel
 * **Key Lab:** Built the Pivot Table to summarize the Department, Equipment Class and Sum Equipment Count
 
 ### 6. Python Project for Data Science
 * Focused on understanding the data fundamentals and structures and extracted the data from a dataset within yfiance and webscraping
 *  **Key Lab:** Extracted stock and revenue data and plot stocks and revenue graphs
+
 ---
 
 ## 🏆 Capstone Project: [The Analysis of Current and Future Trends in Technical Skills](https://github.com/richardlam4391/IBM-Data-Analyst-Professional-Certificate/tree/main/IBM%20Data%20Analyst%20Capstone%20Project)
