@@ -4,7 +4,7 @@
 
 This course tells you how to visualize the data, to make the interactive dashboards and to generate the reports within the data visualization tools. 
 
-This repository contains turning raw operational and sales data into interactive, executive-ready business dashboards completed in April 2025. 
+This repository contains turning raw operational and sales data into interactive dashboards completed in April 2025. 
 
 The project demonstrates the ability to select the right visual elements and to tell a clear data story on both spreadsheet and enterprise business intelligence (BI) softwares.
 
