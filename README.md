@@ -47,7 +47,7 @@ The program focuses on practical, hands-on learning of data analysis tools, meth
 ### 📌 Project Overview
 Provide a brief summary of your final Capstone Project. Who was the stakeholder, and what did you achieve?
 * **Business Case:** Creating interactive dashboards to present the technology tools for many people with different age and education in present and future
-* **Methodology:** Collected data via Web Scraping and APIs → Cleaned data in Python → Stored in SQL → Created a comprehensive dashboard in IBM Cognos.
+* **Methodology:** Collected data via Web Scraping and APIs → Cleaned data in Python → Stored in SQL → Created a comprehensive dashboard in Tableau.
 
 ### 🛠️ Capstone Deliverables & Process
 1. **Data Collection:** Scraped data from job boards using `BeautifulSoup` and pulled live data using APIs.
