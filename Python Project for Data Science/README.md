@@ -1,32 +1,31 @@
 # Details of Python Project for Data Science
-This course tells you how to understand the data fundamentals and structures and to extract the data from a dataset. 
-## Key Skills
-
-- Jupyter
-
-- Data Analysis
-
-- Pandas (Python Package)
-
-- Dashboard
-
-- Web Scraping
-
-- Data Processing
-
-- Python Programming
-
-- Data Collection
-
-- Data Manipulation
-
-- Data Science
-
-- Data Presentation
 
 ## Title: Extracting and Visualizing Stock Data
 
-Date Completed: April 2025
+This course tells you how to understand the data fundamentals and structures and to extract the data from a dataset. 
+
+This repository contains extracting, cleaning, and visualizing historical financial and revenue data for major corporations (e.g., Tesla and GameStop) completed in April 2025. 
+
+The project demonstrates the ability to to analyze the relationship between a company's underlying earnings and its market valuation trends.
+
+---
+
+### Core Objectives:
+* **API Data Extraction:** Programmatically retrieve historical stock data using the `yfinance` library.
+* **Web Scraping (`BeautifulSoup`):** Extract and parse unstructured HTML tables from macrotrends web pages to isolate company revenue.
+* **Data Pipelines & Engineering:** Clean and format messy data structures into structured Pandas DataFrames.
+* **Dynamic Visualizations:** Build an interactive dual-axis data dashboard using `Plotly` to map revenue against historical stock prices.
+
+---
+
+## 🛠️ Technology Stack
+* **Language:** Python 
+* **Data Retrieval:** `yfinance` (Yahoo Finance API), `requests`
+* **Web Scraping:** `BeautifulSoup4`, `html5lib` / `lxml`
+* **Data Manipulation:** `Pandas`, `NumPy`
+* **Data Visualization:** `Plotly` (Graph Objects / Express), `Jupyter Notebooks`
+
+---
 
 ## Core Tasks
 - Utilize Python library, which is yfinance, to download the dataset from the financial history. 
