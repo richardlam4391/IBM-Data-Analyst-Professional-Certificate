@@ -3,7 +3,7 @@
 ## Professional Certificate
 The IBM Data Analyst Professional Certificate is an online course program that helps the beginning learners to prepare for the entry-level data analytics career role. The learners know how to use the data analysis tools, including Excel, SQL, data visualization tools, and gain technical experiences in data cleaning, data reports, data visualizations and statistical analysis. There are 11 chapters in this online course program. 
 
-## Course Topics 
+## Course Topics and Repository Structure 
 
 - [Introduction to Data Analystics](https://github.com/richardlam4391/IBM-Data-Analyst-Professional-Certificate/tree/main/Introduction%20to%20Data%20Analytics)
 
@@ -18,6 +18,11 @@ The IBM Data Analyst Professional Certificate is an online course program that h
 - [Databases and SQL for Data Science with Python](https://github.com/richardlam4391/IBM-Data-Analyst-Professional-Certificate/tree/main/Databases%20and%20SQL%20for%20Data%20Science%20with%20Python)
 
 - [Data Analysis with Python](https://github.com/richardlam4391/IBM-Data-Analyst-Professional-Certificate/tree/main/Data%20Analysis%20with%20Python)
+
+├── 📂  Data Analysis with Python/
+│   ├── Project          
+│   ├── README.md               
+│   ├── csv files         
 
 - [Data Visualization with Python](https://github.com/richardlam4391/IBM-Data-Analyst-Professional-Certificate/tree/main/Data%20Visualization%20with%20Python)
 
@@ -71,4 +76,3 @@ The IBM Data Analyst Professional Certificate is an online course program that h
 - Python Programming
 
 - Generative AI
-
