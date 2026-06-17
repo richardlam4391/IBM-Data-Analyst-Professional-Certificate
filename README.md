@@ -55,7 +55,7 @@ Provide a brief summary of your final Capstone Project. Who was the stakeholder,
 3. **Data Visualization:** Developed an interactive dashboard visualizing demographic profiles, top languages, and salary distributions.
 4. **Final Presentation:** Delivered a data-driven slide deck recommending technical focus areas for the upcoming year.
 
-> 📊 **Dashboard View:** [[The Analysis of Current and Future Trends in Technical Skills Dashboard](https://public.tableau.com/app/profile/richardlam4391/viz/IBMDataAnalystCapstoneProject_17807052494200/Dashboard3)
+> 📊 **Dashboard View:** [The Analysis of Current and Future Trends in Technical Skills Dashboard](https://public.tableau.com/app/profile/richardlam4391/viz/IBMDataAnalystCapstoneProject_17807052494200/Dashboard3)
 
 ![Current Technology Usage](https://github.com/richardlam4391/IBM-Data-Analyst-Professional-Certificate/blob/main/IBM%20Data%20Analyst%20Capstone%20Project/Current%20Technology%20Usage.png)
 ![Future Technology Trend](https://github.com/richardlam4391/IBM-Data-Analyst-Professional-Certificate/blob/main/IBM%20Data%20Analyst%20Capstone%20Project/Future%20Technology%20Trends.png)
