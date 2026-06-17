@@ -44,16 +44,18 @@ The program focuses on practical, hands-on learning of data analysis tools, meth
 
 ## 🏆 Capstone Project: [The Analysis of Current and Future Trends in Technical Skills](https://github.com/richardlam4391/IBM-Data-Analyst-Professional-Certificate/tree/main/IBM%20Data%20Analyst%20Capstone%20Project)
 
-### 📌 Project Overview
-Provide a brief summary of your final Capstone Project. Who was the stakeholder, and what did you achieve?
-* **Business Case:** Creating interactive dashboards to present the technology tools for many people with different age and education in present and future
-* **Methodology:** Collected data via Web Scraping and APIs → Cleaned data in Python → Stored in SQL → Created a comprehensive dashboard in Tableau.
+## 📌 Project Overview
+The technology landscape evolves rapidly, making it crucial for software companies, recruiters, and educational entities to know which programming languages, cloud environments, and database architectures dominate the market. 
 
-### 🛠️ Capstone Deliverables & Process
-1. **Data Collection:** Scraped data from job boards using `BeautifulSoup` and pulled live data using APIs.
-2. **Data Wrangling & EDA:** Handled duplicates, missing values, and outliers in a Jupyter Notebook.
-3. **Data Visualization:** Developed an interactive dashboard visualizing demographic profiles, top languages, and salary distributions.
-4. **Final Presentation:** Delivered a data-driven slide deck recommending technical focus areas for the upcoming year.
+* **The Business Task:** Collected, cleaned, analyzed, and visualized real-world tech stack data (derived from the comprehensive Stack Overflow Developer Survey) to identify technology skills in current and future times and demographics. 
+* **The Goal:** Build an end-to-end analytical pipeline and present a functional business dashboard detailing high-value technology insights for future strategic planning.
+
+## 🛠️ Technical Stack & Tools
+* **Data Ingestion:** Python, REST APIs, BeautifulSoup (Web Scraping)
+* **Data Transformation & Wrangling:** Pandas, NumPy (Handling duplicates, missing values, and numeric outliers)
+* **Exploratory Analytics:** SQL
+* **Data Visualization & Dashboards:** Tableau (or Excel / Tableau)
+* **Reporting:** PowerPoint/PDF executive slide presentations
 
 > 📊 **Dashboard View:** [The Analysis of Current and Future Trends in Technical Skills Dashboard](https://public.tableau.com/app/profile/richardlam4391/viz/IBMDataAnalystCapstoneProject_17807052494200/Dashboard3)
 
