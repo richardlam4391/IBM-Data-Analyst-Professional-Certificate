@@ -47,14 +47,14 @@ The program focuses on practical, hands-on learning of data analysis tools, meth
 ## 📌 Project Overview
 The technology landscape evolves rapidly, making it crucial for software companies, recruiters, and educational entities to know which programming languages, cloud environments, and database architectures dominate the market. 
 
-* **The Business Task:** Collected, cleaned, analyzed, and visualized real-world tech stack data (derived from the comprehensive Stack Overflow Developer Survey) to identify technology skills in current and future times and demographics. 
-* **The Goal:** Build an end-to-end analytical pipeline and present a functional business dashboard detailing high-value technology insights for future strategic planning.
+* **The Business Task:** Collected, cleaned, analyzed, and visualized real-world tech stack data, which is found in the comprehensive Stack Overflow Developer Survey, to identify technology skills in current and future times and demographics. 
+* **The Goal:** Built a functional business dashboard detailing high-value technology insights for future strategic planning.
 
 ## 🛠️ Technical Stack & Tools
 * **Data Ingestion:** Python, REST APIs, BeautifulSoup (Web Scraping)
 * **Data Transformation & Wrangling:** Pandas, NumPy (Handling duplicates, missing values, and numeric outliers)
 * **Exploratory Analytics:** SQL
-* **Data Visualization & Dashboards:** Tableau (or Excel / Tableau)
+* **Data Visualization & Dashboards:** Tableau or Excel
 * **Reporting:** PowerPoint/PDF executive slide presentations
 
 > 📊 **Dashboard View:** [The Analysis of Current and Future Trends in Technical Skills Dashboard](https://public.tableau.com/app/profile/richardlam4391/viz/IBMDataAnalystCapstoneProject_17807052494200/Dashboard3)
