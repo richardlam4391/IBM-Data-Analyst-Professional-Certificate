@@ -12,14 +12,14 @@ The project demonstrates the ability to select the right visual elements and to 
 
 ## Core Objectives:
 *   **Excel Dashboarding:** Build functional spreadsheet dashboards using advanced charts, dynamic sorting, and slicers.
-*   **Cognos Analytics:** Develop an enterprise-grade interactive dashboard featuring advanced tabbed navigation and automated widget linkages.
+*   **Cognos Analytics/Tableau:** Develop an enterprise-grade interactive dashboard featuring advanced tabbed navigation and automated widget linkages.
 *   **Data Storytelling:** Translate raw numbers into visual trends that support strategic business decisions.
 
 ---
 
 ## 🛠️ Tech Stack & Visual Features
 *   **Microsoft Excel:** Pivot Charts (Combo charts, Treemaps, Sunbursts), Slicers, Timelines, Conditional Formatting, and KPI Cards.
-*   **IBM Cognos Analytics:** Multi-page/Tabbed layouts, Interactive Filters, Custom Themes, Maps/Geospatial Visualizations, and Word Clouds.
+*   **IBM Cognos Analytics/Tableau:** Multi-page/Tabbed layouts, Interactive Filters, Custom Themes, Maps/Geospatial Visualizations, and Word Clouds.
 *   **Data Source:** Multi-region sales, customer satisfaction, and operational metrics.
 
 ---
