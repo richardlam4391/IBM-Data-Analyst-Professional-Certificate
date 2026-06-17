@@ -32,21 +32,3 @@ The project mimics a real-world scenario where unformatted, messy CSV/text data 
 [Peer-Graded Assignment: Final Assignment – Part 1](https://author-ide.skills.network/render?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZF9pbnN0cnVjdGlvbnNfdXJsIjoiaHR0cHM6Ly9jZi1jb3Vyc2VzLWRhdGEuczMudXMuY2xvdWQtb2JqZWN0LXN0b3JhZ2UuYXBwZG9tYWluLmNsb3VkL0lCTURldmVsb3BlclNraWxsc05ldHdvcmstREEwMTMwRU4tU2tpbGxzTmV0d29yay9IYW5kcy1vbiUyMExhYnMvUGVlciUyMEdyYWRlZCUyMEFzc2lnbm1lbnQlMjAtJTIwUGFydCUyMDEvaW5zdHJ1Y3Rpb25zLm1kIiwidG9vbF90eXBlIjoiaW5zdHJ1Y3Rpb25hbC1sYWIiLCJhZG1pbiI6ZmFsc2UsImlhdCI6MTY3MjIwMTYzOX0.9TjMi9IFi3e9W_d-E9fEYZiniRRtcidwjQKJlSlJUXA)
 
 [Peer-Graded Assignment: Final Assignment – Part 2](https://author-ide.skills.network/render?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZF9pbnN0cnVjdGlvbnNfdXJsIjoiaHR0cHM6Ly9jZi1jb3Vyc2VzLWRhdGEuczMudXMuY2xvdWQtb2JqZWN0LXN0b3JhZ2UuYXBwZG9tYWluLmNsb3VkL0lCTURldmVsb3BlclNraWxsc05ldHdvcmstREEwMTMwRU4tU2tpbGxzTmV0d29yay9IYW5kcy1vbiUyMExhYnMvUGVlciUyMEdyYWRlZCUyMEFzc2lnbm1lbnQlMjAtJTIwUGFydCUyMDIvaW5zdHJ1Y3Rpb25zLm1kIiwidG9vbF90eXBlIjoiaW5zdHJ1Y3Rpb25hbC1sYWIiLCJhZG1pbiI6ZmFsc2UsImlhdCI6MTY3MjIzMDgyOX0.5KNbjkFaS1kZXvRNpwaGwHA5B2bnVqOdRtydVFZjd3E)
-
-
-## 📊 Project Overview
-This repository contains the data cleaning pipelines and initial analysis completed for the Excel Basics for Data Analysis course framework. The project mimics a real-world scenario where unformatted, messy CSV/text data must be transformed into structured business insights.
-
-### Core Objectives:
-*   **Data Quality & Cleansing:** Handle missing elements, remove duplicates, and standardize inconsistent entries.
-*   **Wrangling & Transformation:** Leverage string, logical, and lookup formulas to enrich raw tables.
-*   **Exploratory Analysis:** Summarize key business metrics (e.g., inventory counts, total revenue, regional patterns) using automated Pivot Tables.
-
----
-
-## 🛠️ Excel Toolset & Features Used
-*   **Data Ingestion:** Text-to-Columns, Web/CSV Data Import, and Data Type Standardizing.
-*   **Data Hygiene:** `TRIM()`, `PROPER()`, `UPPER()`, Duplicate Removal, and Flash Fill.
-*   **Logical & Lookup Formulas:** `IF()`, `AND()`, `OR()`, `VLOOKUP()`, `XLOOKUP()`, and `IFERROR()`.
-*   **Aggregations & Summary:** `COUNTIF()`, `SUMIFS()`, `AVERAGEIF()`.
-*   **Reporting:** Dynamic Pivot Tables, Conditional Formatting, and basic chart generation.
