@@ -4,9 +4,9 @@
 
 This course tells you how to visualize the data, to make the interactive dashboards and to generate the reports within the data visualization tools. 
 
-An end-to-end data visualization project focused on turning raw operational and sales data into interactive, executive-ready business dashboards using both Microsoft Excel and IBM Cognos Analytics in April 2025. 
+This repository contains turning raw operational and sales data into interactive, executive-ready business dashboards completed in April 2025. 
 
-The project demonstrates the ability to select the right visual elements to tell a clear data story on a mix of spreadsheet design and enterprise business intelligence (BI) software
+The project demonstrates the ability to select the right visual elements and to tell a clear data story on both spreadsheet and enterprise business intelligence (BI) softwares.
 
 ---
 
