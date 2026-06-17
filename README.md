@@ -90,36 +90,30 @@ Provide a brief summary of your final Capstone Project. Who was the stakeholder,
 ---
 
 ## 📂 Repository Structure 
-This repository structures that shows you. 
-├── Introduction-to-Data-Analytics/
-│   └── README.md/                 # Documentations and courseworks  
-├── Excel-Basics-for-Data-Analysis/
-│   ├── xlsx/                      # Microsoft Excel of this mini project (.xlsx)
-│   └── README.md/                 # Documentations and courseworks
-├── Data-Visualization-and-Dashboards-with-Excel-and-Cognos/
-│   ├── xlsx/                      # Microsoft Excel of this mini project (.xlsx)
+├── 1-Introduction-to-Data-Analytics/
+│   └── assignments/               # Initial case studies on the data ecosystem
+├── 2-Excel-Basics-for-Data-Analysis/
+│   ├── raw-data/                  # Uncleaned source spreadsheets (.xlsx)
+│   └── spreadsheets/              # Cleaned sheets using VLOOKUP, XLOOKUP, & IF logic
+├── 3-Data-Visualization-and-Dashboards-with-Excel-and-Cognos/
+│   ├── templates/                 # Interactive pivot charts & multi-tab structures
 │   └── dashboard-exports/         # PDF/PNG static views of IBM Cognos Analytics builds
-│   ├── xlsx/                      # Microsoft Excel of this mini project (.xlsx)
-├── Python-for-Data-Science-AI-Development/
-│   └── README.md/                 # Documentations and courseworks 
-├── Python-Project-for-Data-Science/
+├── 4-Python-for-Data-Science-AI-Development/
+│   └── notebooks/                 # Standard labs using NumPy, Pandas, & basic REST APIs
+├── 5-Python-Project-for-Data-Science/
 │   ├── scripts/                   # Web scraping automation using BeautifulSoup & yfinance
 │   └── notebooks/                 # Financial data extraction & tracking scripts
-├── Databases-and-SQL-for-Data-Science-with-Python/
+├── 6-Databases-and-SQL-for-Data-Science-with-Python/
 │   ├── sql-queries/               # Composed SQL scripts analyzing public socio-economic metrics
 │   └── notebooks/                 # Db2/PostgreSQL connections initiated via Python (ibm_db)
-├── Data-Analysis-with-Python/
+├── 7-Data-Analysis-with-Python/
 │   └── notebooks/                 # Exploratory Data Analysis (EDA), handling missing values, & regression models
-├── Data-Visualization-with-Python/
+├── 8-Data-Visualization-with-Python/
 │   ├── app/                       # Interactive web apps built with Plotly & Dash
 │   └── notebooks/                 # Custom visual generation using Matplotlib & Seaborn
-├── IBM-Data-Analyst-Capstone-Project/
+├── 9-IBM-Data-Analyst-Capstone-Project/
 │   ├── raw-data/                  # Raw Stack Overflow developer survey data
 │   ├── wrangling-notebooks/       # End-to-end data cleansing, outlier filtering, & data preparation
 │   ├── presentation/              # Final deliverable slide deck for stakeholder delivery
 │   └── final-dashboard/           # Final dynamic data visualization summaries
-├── Generative AI: Enhance your Data Analytics Career/
-│   ├── README.md/                 # Documentations and courseworks
-├── Data Analyst Career Guide and Interview Preparation/
-│   ├── README.md/                 # Documentations and courseworks
 └── README.md                      # Main portfolio documentation and certification overview
