@@ -47,6 +47,8 @@ The project demonstrates the ability to select the right visual elements and to 
 ![Sales Dashboard](https://github.com/richardlam4391/IBM-Data-Analyst-Professional-Certificate/blob/main/Data%20Visualization%20and%20Dashboards%20with%20Excel%20and%20Cognos/Sales%20(2).png)
 ![Service Dashboard](https://github.com/richardlam4391/IBM-Data-Analyst-Professional-Certificate/blob/main/Data%20Visualization%20and%20Dashboards%20with%20Excel%20and%20Cognos/Service%20(2).png)
 
+---
+
 ## 📂 Repository Structure
 ```text
 ├── AU_Car_Recalls.xlsx                                               # Excel file of the course project
