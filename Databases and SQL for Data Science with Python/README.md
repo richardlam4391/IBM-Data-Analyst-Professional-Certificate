@@ -32,4 +32,12 @@ The project demonstrates the ability to interact with relational databases (RDBM
 * **Python Libraries:** `pandas`, `ipython-sql`, `SQLAlchemy`, `ibm_db`
 * **Environment:** Jupyter Notebook / SQL Query Editor
 
+---
 
+## 📂 Repository Structure
+```text
+├── ChicagoCensusData.csv                                             # Comma separated values (CSV) in Microsoft Excel
+├── ChicagoCrimeData.csv                                              # Comma separated values (CSV) in Microsoft Excel
+├── ChicagoPublicSchool.csv                                           # Comma separated values (CSV) in Microsoft Excel
+├── mod5_final_project.ipynb                                          # Image file of the course project
+└── README.md                                                         # Whole project documentation and courseworks 
