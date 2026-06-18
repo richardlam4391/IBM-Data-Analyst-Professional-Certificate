@@ -1,54 +1,47 @@
 # Details of Python for Data Visualization with Python
 
-This course tells you how to make different types of charts, graphs and plots and to generate interactive dashboards within the data visualizations in Python. 
-
-## Key Skills
-
-- Python Programming
-
-- Dashboard
-
-- Heat Map
-
-- Data Analysis
-
-- Data Visualization Software
-
-- Interactive Data Visualization
-
-- Data Presentation
-
-- Geospatial Information and TEchnology
-
-- Data Visualization
-
-- Pandas (Python Package)
-
-- Jupyter
-
-- Plotly
-
-- Data Manipulation
-
-- Scatter Plots
-
-- Histogram
-
-- Matplotlib
-
-- Seaborn
-
-- Box Plots
-
 ## Title: Historical Automobile Sales
 
-Completed Date: May 2025
+This course tells you how to make different types of charts, graphs and plots and to generate interactive dashboards within the data visualizations in Python. 
+
+This repository contains building static statistical graphics, interactive web charts, and custom geospatial maps using the Python visualization ecosystem. 
+
+The project demonstrates to transition from basic descriptive plots to interactive data applications and ensure that business stakeholders can easily slice, filter, and interpret many dimensions data.
+
+---
 
 ## Core Tasks
 
 - Utilized two Python libraries, which are Matplotlib and Seaborn, to visualize the data and to make a graph.
 - Utilize Python library, which is Plotly Dash, and Tableau to create the interactive dashboard on the website.
-- Perform the programmatic apps to dynamically change layouts and graphs baosed on user dropdown selections. 
+- Perform the programmatic apps to dynamically change layouts and graphs baosed on user dropdown selections.
+
+---
+
+### Core Objectives:
+1. **Exploratory Data Analysis (EDA):** Generate line, bar, scatter, pie, and histogram plots to understand raw data distributions.
+2. **Advanced Statistical Charting:** Leverage Seaborn for multi-plot grids, regression trends, and categorical distribution charts.
+3. **Geospatial Analysis:** Build interactive choropleth maps and marker clusters using Folium to track variables geographically.
+4. **Interactive Applications:** Develop unified dashboards using Plotly and Dash to allow user-driven real-time data exploration.
+
+---
+
+## 🛠️ Technical Skills
+* **Core Visualization:** `Matplotlib` (Pyplot architecture), `Seaborn`
+* **Interactive Visualization:** `Plotly` (Express and Graph Objects)
+* **Web Dashboarding:** `Dash` (Components and Callbacks)
+* **Geospatial Mapping:** `Folium`
+* **Data Processing:** `Pandas`, `NumPy`
+
+---
+
+## Core Tasks
+
+- Utilized two Python libraries, which are Matplotlib and Seaborn, to visualize the data and to make a graph.
+- Utilize Python library, which is Plotly Dash, and Tableau to create the interactive dashboard on the website.
+- Perform the programmatic apps to dynamically change layouts and graphs baosed on user dropdown selections.
+
+---
 
 ## Link Tableau Public
 
