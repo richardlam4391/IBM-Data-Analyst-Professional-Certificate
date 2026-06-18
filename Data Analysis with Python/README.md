@@ -16,7 +16,9 @@ The project demonstrates the ability to transition from unclear dataset into str
 - Wrangle data, identify missing data, replace null values with non-null values and normalize skewed values.
 - Use correlation matrice and regression to perform Exploratory Data Analysis (EDA) and to predict property values statistically. 
 
-### Core Objectives:
+---
+
+## Core Objectives:
 1. **Data Wrangling & Preprocessing:** Identify and handle missing values, normalize features, and transform data types.
 2. **Exploratory Data Analysis (EDA):** Utilize descriptive statistics, correlation matrices, and data visualizations to surface key underlying patterns.
 3. **Model Development:** Implement and compare Simple Linear Regression, Multiple Linear Regression, and Polynomial regressions.
