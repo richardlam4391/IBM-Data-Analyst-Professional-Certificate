@@ -24,7 +24,7 @@ The project demonstrates the ability to select the right visual elements and to 
 
 ---
 
-## 🛠️ Tech Stack & Visual Features
+## 🛠️ Technical Skills
 *   **Microsoft Excel:** Pivot Charts (Combo charts, Treemaps, Sunbursts), Slicers, Timelines, Conditional Formatting, and KPI Cards.
 *   **IBM Cognos Analytics/Tableau:** Multi-page/Tabbed layouts, Interactive Filters, Custom Themes, Maps/Geospatial Visualizations, and Word Clouds.
 *   **Data Source:** Multi-region sales, customer satisfaction, and operational metrics.
