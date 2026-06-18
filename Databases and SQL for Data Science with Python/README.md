@@ -32,10 +32,4 @@ The project demonstrates the ability to interact with relational databases (RDBM
 * **Python Libraries:** `pandas`, `ipython-sql`, `SQLAlchemy`, `ibm_db`
 * **Environment:** Jupyter Notebook / SQL Query Editor
 
-### Dataset Schema Analyzed:
-The analysis integrates multiple real-world civic datasets (e.g., City of Chicago Dataset):
-1.  **Socioeconomic Indicators:** Tracks hardship indexes, per capita income, and poverty rates by community area.
-2.  **Public School Data:** Documents school performance, safety scores, and attendance rates.
-3.  **Crime Data:** Tracks reported incidents, locations, and arrest outcomes over time.
-
 
