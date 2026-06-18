@@ -8,7 +8,6 @@ This repository contains extracting, cleaning, and visualizing historical financ
 
 The project demonstrates the ability to to analyze the relationship between a company's underlying earnings and its market valuation trends.
 
-
 ---
 
 ## Core Tasks
@@ -26,7 +25,7 @@ The project demonstrates the ability to to analyze the relationship between a co
 
 ---
 
-## 🛠️ Technology Stack
+## 🛠️ Technical Skills
 * **Language:** Python 
 * **Data Retrieval:** `yfinance` (Yahoo Finance API), `requests`
 * **Web Scraping:** `BeautifulSoup4`, `html5lib` / `lxml`
