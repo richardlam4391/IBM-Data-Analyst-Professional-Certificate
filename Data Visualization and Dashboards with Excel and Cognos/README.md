@@ -58,8 +58,8 @@ The project demonstrates the ability to select the right visual elements and to 
 ├── AU_Sentiment.xlsx                                                 # Excel file of the course project
 ├── CarSalesByModelEnd.xlsx                                           # Excel file of the course project
 ├── Sale and Dashboard Services Tableau.pdf                           # pdf file of the course project
-├── Sales(2).png                                                      # png file of the course project
-├── Service (2).png                                                   # png file of the course project
+├── Sales(2).png                                                      # image file of the course project
+├── Service (2).png                                                   # image file of the course project
 ├── cust_loyalty_table.xlsx                                           # Excel file of the course project
 ├── cust_table.xlsx                                                   # Excel file of the course project
 └── README.md                                                         # Whole project documentation and courseworks 
