@@ -10,14 +10,6 @@ The project demonstrates the ability to interact with relational databases (RDBM
 
 ---
 
-### Core Objectives:
-* **Database Management:** Create tables, define primary/foreign keys, and load large CSV datasets into an active SQL database instance.
-* **Advanced SQL Querying:** Write optimized scripts utilizing aggregate functions, nested subqueries, and table grouping.
-* **Relational Operations:** Execute Inner, Outer, Left, and Right Joins to synthesize insights from disjointed data tables.
-* **Python Integration:** Leverage SQL magic commands (`%sql`) and DB-APIs (`ibm_db` or `sqlite3` / `SQLAlchemy`) to stream query results directly into Pandas DataFrames for downstream analytics.
-
----
-
 ## Core Tasks
 
 - Utilized Structured Query Language (SQL) to write queries and to find the safety correlations. 
@@ -26,7 +18,15 @@ The project demonstrates the ability to interact with relational databases (RDBM
 
 ---
 
-## 🛠️ Tech Stack & Database Architecture
+### Core Objectives:
+* **Database Management:** Create tables, define primary/foreign keys, and load large CSV datasets into an active SQL database instance.
+* **Advanced SQL Querying:** Write optimized scripts utilizing aggregate functions, nested subqueries, and table grouping.
+* **Relational Operations:** Execute Inner, Outer, Left, and Right Joins to synthesize insights from disjointed data tables.
+* **Python Integration:** Leverage SQL magic commands (`%sql`) and DB-APIs (`ibm_db` or `sqlite3` / `SQLAlchemy`) to stream query results directly into Pandas DataFrames for downstream analytics.
+
+---
+
+## 🛠️ Technical Skills
 * **Database Engines:** IBM Db2 Cloud Instance / PostgreSQL / SQLite
 * **Languages:** SQL (Structured Query Language), Python 3.x
 * **Python Libraries:** `pandas`, `ipython-sql`, `SQLAlchemy`, `ibm_db`
