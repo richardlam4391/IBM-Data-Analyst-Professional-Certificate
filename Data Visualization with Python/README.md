@@ -18,7 +18,7 @@ The project demonstrates to transition from basic descriptive plots to interacti
 
 ---
 
-### Core Objectives:
+## Core Objectives:
 1. **Exploratory Data Analysis (EDA):** Generate line, bar, scatter, pie, and histogram plots to understand raw data distributions.
 2. **Advanced Statistical Charting:** Leverage Seaborn for multi-plot grids, regression trends, and categorical distribution charts.
 3. **Geospatial Analysis:** Build interactive choropleth maps and marker clusters using Folium to track variables geographically.
