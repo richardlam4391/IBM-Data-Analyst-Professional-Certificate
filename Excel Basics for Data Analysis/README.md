@@ -10,6 +10,13 @@ The project mimics a real-world scenario where unformatted, messy CSV/text data 
 
 ---
 
+## Core Tasks
+- Clean, organize and gather the data in raw stock market spreadsheets.
+- Use data analysis tool to clean a dataset
+- Make pivot tables to summarize the data by the columns, which are sector and region. 
+
+---
+
 ## Core Objectives:
 
 *   **Data Quality & Cleansing:** Handle missing elements, remove duplicates, and standardize inconsistent entries.
@@ -26,10 +33,9 @@ The project mimics a real-world scenario where unformatted, messy CSV/text data 
 *   **Aggregations & Summary:** `COUNTIF()`, `SUMIFS()`, `AVERAGEIF()`.
 *   **Reporting:** Dynamic Pivot Tables, Conditional Formatting, and basic chart generation.
 
-## Core Tasks
-- Clean, organize and gather the data in raw stock market spreadsheets.
-- Use data analysis tool to clean a dataset
-- Make pivot tables to summarize the data by the columns, which are sector and region. 
+---
+
+## Instruction
 
 [Peer-Graded Assignment: Final Assignment – Part 1](https://author-ide.skills.network/render?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZF9pbnN0cnVjdGlvbnNfdXJsIjoiaHR0cHM6Ly9jZi1jb3Vyc2VzLWRhdGEuczMudXMuY2xvdWQtb2JqZWN0LXN0b3JhZ2UuYXBwZG9tYWluLmNsb3VkL0lCTURldmVsb3BlclNraWxsc05ldHdvcmstREEwMTMwRU4tU2tpbGxzTmV0d29yay9IYW5kcy1vbiUyMExhYnMvUGVlciUyMEdyYWRlZCUyMEFzc2lnbm1lbnQlMjAtJTIwUGFydCUyMDEvaW5zdHJ1Y3Rpb25zLm1kIiwidG9vbF90eXBlIjoiaW5zdHJ1Y3Rpb25hbC1sYWIiLCJhZG1pbiI6ZmFsc2UsImlhdCI6MTY3MjIwMTYzOX0.9TjMi9IFi3e9W_d-E9fEYZiniRRtcidwjQKJlSlJUXA)
 
