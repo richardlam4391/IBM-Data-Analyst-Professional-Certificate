@@ -10,6 +10,13 @@ The project demonstrates the ability to select the right visual elements and to 
 
 ---
 
+## Core Tasks
+- Utilize Excel formula to clean and organize the historical sales dataset. 
+- Utilize Tableau to create the interactive graphs and dashboards. 
+- Import Comma Separated Values (CSV) file from Excel to Tableau to analyze the dataset. 
+
+---
+
 ## Core Objectives:
 *   **Excel Dashboarding:** Build functional spreadsheet dashboards using advanced charts, dynamic sorting, and slicers.
 *   **Cognos Analytics/Tableau:** Develop an enterprise-grade interactive dashboard featuring advanced tabbed navigation and automated widget linkages.
@@ -21,13 +28,6 @@ The project demonstrates the ability to select the right visual elements and to 
 *   **Microsoft Excel:** Pivot Charts (Combo charts, Treemaps, Sunbursts), Slicers, Timelines, Conditional Formatting, and KPI Cards.
 *   **IBM Cognos Analytics/Tableau:** Multi-page/Tabbed layouts, Interactive Filters, Custom Themes, Maps/Geospatial Visualizations, and Word Clouds.
 *   **Data Source:** Multi-region sales, customer satisfaction, and operational metrics.
-
----
-
-## Core Tasks
-- Utilize Excel formula to clean and organize the historical sales dataset. 
-- Utilize Tableau to create the interactive graphs and dashboards. 
-- Import Comma Separated Values (CSV) file from Excel to Tableau to analyze the dataset. 
 
 ---
 
