@@ -37,6 +37,6 @@ The project demonstrates the ability to transition from unclear dataset into str
 ## 📂 Repository Structure
 ```text
 ├── Lab6b Project.ipynb                                               # Completed Jyputer Notebook of the course project
-├── kc_house_data_NaN.csv.xlsx                                        # unclear dataset in comma separated valuable (CSV) from Microsoft Excel 
+├── kc_house_data_NaN.csv.xlsx                                        # unclear comma separated valuable (CSV) in Microsoft Excel 
 └── README.md                                                         # Whole project documentation and courseworks 
 
