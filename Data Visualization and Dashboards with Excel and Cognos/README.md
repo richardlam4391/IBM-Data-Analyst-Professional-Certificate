@@ -4,7 +4,7 @@
 
 This course tells you how to visualize the data, to make the interactive dashboards and to generate the reports within the data visualization tools. 
 
-This repository contains turning raw operational and sales data into interactive dashboards completed in April 2025. 
+This repository contains turning raw operational and sales data into interactive dashboards. This course is completed in April 2025
 
 The project demonstrates the ability to select the right visual elements and to tell a clear data story on both spreadsheet and enterprise business intelligence (BI) softwares.
 
@@ -46,3 +46,18 @@ The project demonstrates the ability to select the right visual elements and to 
 ## Graph from Tableau Public
 ![Sales Dashboard](https://github.com/richardlam4391/IBM-Data-Analyst-Professional-Certificate/blob/main/Data%20Visualization%20and%20Dashboards%20with%20Excel%20and%20Cognos/Sales%20(2).png)
 ![Service Dashboard](https://github.com/richardlam4391/IBM-Data-Analyst-Professional-Certificate/blob/main/Data%20Visualization%20and%20Dashboards%20with%20Excel%20and%20Cognos/Service%20(2).png)
+
+## 📂 Repository Structure
+```text
+├── AU_Car_Recalls.xlsx                                               # Excel file of the course project
+├── AU_Daily_Sales.xlsx                                               # Excel file of the course project
+├── AU_Dealers.xlsx                                                   # Excel file of the course project
+├── AU_Sales_By_Model.xlsx                                            # Excel file of the course project
+├── AU_Sentiment.xlsx                                                 # Excel file of the course project
+├── CarSalesByModelEnd.xlsx                                           # Excel file of the course project
+├── Sale and Dashboard Services Tableau.pdf                           # pdf file of the course project
+├── Sales(2).png                                                      # png file of the course project
+├── Service (2).png                                                   # png file of the course project
+├── cust_loyalty_table.xlsx                                           # Excel file of the course project
+├── cust_table.xlsx                                                   # Excel file of the course project
+└── README.md                                                         # Whole project documentation and courseworks 
