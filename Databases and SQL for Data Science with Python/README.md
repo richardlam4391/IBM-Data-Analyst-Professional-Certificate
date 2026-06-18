@@ -18,7 +18,7 @@ The project demonstrates the ability to interact with relational databases (RDBM
 
 ---
 
-### Core Objectives:
+## Core Objectives:
 * **Database Management:** Create tables, define primary/foreign keys, and load large CSV datasets into an active SQL database instance.
 * **Advanced SQL Querying:** Write optimized scripts utilizing aggregate functions, nested subqueries, and table grouping.
 * **Relational Operations:** Execute Inner, Outer, Left, and Right Joins to synthesize insights from disjointed data tables.
