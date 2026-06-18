@@ -1,4 +1,4 @@
-# Details of Python for Data Visualization with Python
+# Python for Data Visualization with Python
 
 ## Title: Historical Automobile Sales
 
