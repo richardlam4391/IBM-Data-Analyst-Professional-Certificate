@@ -43,8 +43,5 @@ The project mimics a real-world scenario where unformatted, messy CSV/text data 
 
 ## 📂 Repository Structure
 ```text
-├── Data/
-│   ├── raw_fleet_inventory.csv       # Original, untouched dataset
-│   └── cleaned_fleet_data.xlsx       # Final processed workbook with analysis
-├── Screenshots/                      # Visual evidence of formulas & Pivot Tables
-└── README.md                         # Project documentation
+├── Montgomery_Fleet_Equipment_Inventory_FA_PART_START.xslx.xlsx      # Excel file of the course project
+└── README.md                                                         # Project documentation and courseworks overview
