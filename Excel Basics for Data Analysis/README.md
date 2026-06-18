@@ -25,7 +25,7 @@ The project mimics a real-world scenario where unformatted, messy CSV/text data 
 
 ---
 
-## 🛠️ Excel Toolset & Features Used
+## 🛠️ Technical Skills
 
 *   **Data Ingestion:** Text-to-Columns, Web/CSV Data Import, and Data Type Standardizing.
 *   **Data Hygiene:** `TRIM()`, `PROPER()`, `UPPER()`, Duplicate Removal, and Flash Fill.
