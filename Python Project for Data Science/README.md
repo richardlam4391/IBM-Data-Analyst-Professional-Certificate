@@ -6,7 +6,7 @@ This course tells you how to understand the data fundamentals and structures and
 
 This repository contains extracting, cleaning, and visualizing historical financial and revenue data for major corporations (e.g., Tesla and GameStop) completed in April 2025. 
 
-The project demonstrates the ability to to analyze the relationship between a company's underlying earnings and its market valuation trends.
+The project demonstrates the ability to analyze the relationship between a company's underlying earnings and its market valuation trends.
 
 ---
 
