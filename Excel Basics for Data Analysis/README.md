@@ -40,3 +40,11 @@ The project mimics a real-world scenario where unformatted, messy CSV/text data 
 [Peer-Graded Assignment: Final Assignment – Part 1](https://author-ide.skills.network/render?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZF9pbnN0cnVjdGlvbnNfdXJsIjoiaHR0cHM6Ly9jZi1jb3Vyc2VzLWRhdGEuczMudXMuY2xvdWQtb2JqZWN0LXN0b3JhZ2UuYXBwZG9tYWluLmNsb3VkL0lCTURldmVsb3BlclNraWxsc05ldHdvcmstREEwMTMwRU4tU2tpbGxzTmV0d29yay9IYW5kcy1vbiUyMExhYnMvUGVlciUyMEdyYWRlZCUyMEFzc2lnbm1lbnQlMjAtJTIwUGFydCUyMDEvaW5zdHJ1Y3Rpb25zLm1kIiwidG9vbF90eXBlIjoiaW5zdHJ1Y3Rpb25hbC1sYWIiLCJhZG1pbiI6ZmFsc2UsImlhdCI6MTY3MjIwMTYzOX0.9TjMi9IFi3e9W_d-E9fEYZiniRRtcidwjQKJlSlJUXA)
 
 [Peer-Graded Assignment: Final Assignment – Part 2](https://author-ide.skills.network/render?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZF9pbnN0cnVjdGlvbnNfdXJsIjoiaHR0cHM6Ly9jZi1jb3Vyc2VzLWRhdGEuczMudXMuY2xvdWQtb2JqZWN0LXN0b3JhZ2UuYXBwZG9tYWluLmNsb3VkL0lCTURldmVsb3BlclNraWxsc05ldHdvcmstREEwMTMwRU4tU2tpbGxzTmV0d29yay9IYW5kcy1vbiUyMExhYnMvUGVlciUyMEdyYWRlZCUyMEFzc2lnbm1lbnQlMjAtJTIwUGFydCUyMDIvaW5zdHJ1Y3Rpb25zLm1kIiwidG9vbF90eXBlIjoiaW5zdHJ1Y3Rpb25hbC1sYWIiLCJhZG1pbiI6ZmFsc2UsImlhdCI6MTY3MjIzMDgyOX0.5KNbjkFaS1kZXvRNpwaGwHA5B2bnVqOdRtydVFZjd3E)
+
+## 📂 Repository Structure
+```text
+├── Data/
+│   ├── raw_fleet_inventory.csv       # Original, untouched dataset
+│   └── cleaned_fleet_data.xlsx       # Final processed workbook with analysis
+├── Screenshots/                      # Visual evidence of formulas & Pivot Tables
+└── README.md                         # Project documentation
