@@ -1,56 +1,35 @@
-# Details of Data Analyst Capstone Project
+# Data Analyst Capstone Project
 
-This course tells you how to make the interactive dashboards and data visualizations with data analysis tools, including Python and Business Intelligence (BI).
-
-## Key Skills
-
-- Data Cleansing
-
-- Statistical Analysis
-
-- Interactive Data Visualization
-
-- Data Collection
-
-- Web Scraping
-
-- Data Manipulation
-
-- Pandas (Python Package)
-
-- Exploratory Data Analysis 
-
-- Scatter Plots 
-
-- Data Analysis
-
-- Data Visualization
-
-- Matplotlib
-
-- Dashbard
-
-- IBM Cognos Analytics
-
-- Tableau
-
-- Data Wrangling
-
-- Data Storytelling
-
-- Data Presentation
-  
 ## Title: The Analysis of Current and Future Trends in Technical Skills
-Date Completed: May 2025
+
+This course tells you how to analyde=ze the real-world dataset, make the interactive dashboards and data visualizations with data analysis tools, including Python and Business Intelligence (BI). This was completed in May 2025.
+
+This repository contains my final capstone project for the **IBM Data Analyst Professional Certificate**. 
+
+The project demonstrates to encompasses the entire data analysis lifecycle: data collection (web scraping and APIs), data wrangling, exploratory data analysis (EDA), statistical analysis, and data visualization.
+
+---
 
 ## Core Tasks
 - Created interactive dashboards to present the technology tools for many people with different age and education in present and future.
 - Collected, scraped and wrangled data in technology trends from many web sources.
 - Cleaned and normalized the large datasets to handle the missing, repetitive and unnecessary data values and to enhance accuracy.   
 
+---
+
+## 🛠️ Technical Stack & Tools
+* **Languages:** Python (Pandas, NumPy, BeautifulSoup, Requests), SQL
+* **Data Visualization:** Tableau, Plotly, Seaborn, Matplotlib
+* **Environment:** Jupyter Notebooks, IBM Cloud / Local IDE
+* **Database:** SQLite / IBM Db2
+
+---
+
 ## Assignment
 Please see the link in the dataset 
 [Capstone Project Assignment](https://author-ide.skills.network/render?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZF9pbnN0cnVjdGlvbnNfdXJsIjoiaHR0cHM6Ly9jZi1jb3Vyc2VzLWRhdGEuczMudXMuY2xvdWQtb2JqZWN0LXN0b3JhZ2UuYXBwZG9tYWluLmNsb3VkL1RSUldzXzgtX3ZobGU2MHNVQmZlSHcvUGVlciUyMEdyYWRlZCUyMEFzc2lnbm1lbnQtQnVpbGRpbmclMjBhJTIwZGFzaGJvYXJkJTIwMWEtdjIubWQ_dD0xNzQ2MTI2OTc3IiwidG9vbF90eXBlIjoiaW5zdHJ1Y3Rpb25hbC1sYWIiLCJhdGxhc19maWxlX2lkIjoxNjQzMzksImFkbWluIjpmYWxzZSwiaWF0IjoxNzU3Njk2OTU5fQ.JERDozM3PbNumlOzN4-nVWXUyRLEzIkgzcErn-rGRwY)
+
+---
 
 ## Link Tableau Public 
 [The Analysis of Current and Future Trends in Technical Skills Dashboard](https://public.tableau.com/app/profile/richardlam4391/viz/IBMDataAnalystCapstoneProject_17807052494200/Dashboard3)
@@ -59,3 +38,15 @@ Please see the link in the dataset
 ![Current Technology Usage](https://github.com/richardlam4391/IBM-Data-Analyst-Professional-Certificate/blob/main/IBM%20Data%20Analyst%20Capstone%20Project/Current%20Technology%20Usage.png)
 ![Future Technology Trend](https://github.com/richardlam4391/IBM-Data-Analyst-Professional-Certificate/blob/main/IBM%20Data%20Analyst%20Capstone%20Project/Future%20Technology%20Trends.png)
 ![Demographics](https://github.com/richardlam4391/IBM-Data-Analyst-Professional-Certificate/blob/main/IBM%20Data%20Analyst%20Capstone%20Project/Demographics.png)
+
+---
+
+## 📂 Repository Structure
+```text
+├── 2025 IBM Capstone Project Data Analyst Presentation.pdf           # PDF file of the capstone project
+├── 2025 IBM Capstone Project Data Analyst Presentation.pptx          # Powerpoints file of the capstone project
+├── Current Technology Usage.png                                      # Image file of the capstone project
+├── Demographics.png                                                  # Image file of the capstone project
+├── Future Technology Trends.png                                      # Image file of the capstone project
+├── IBM Data Analyst Capstone Project Tableau.pdf                     # PDF file of the capstone project
+└── README.md                                                         # Whole project documentation and courseworks 
