@@ -8,6 +8,14 @@ This repository contains extracting, cleaning, and visualizing historical financ
 
 The project demonstrates the ability to to analyze the relationship between a company's underlying earnings and its market valuation trends.
 
+
+---
+
+## Core Tasks
+- Utilize Python library, which is yfinance, to download the dataset from the financial history. 
+- Use BeautifulSoup to webscrape the revenue data from HyperText Markup Language (HTML) tables. 
+- Utilize Python library to combine one of many datasets into a whole dashboard. 
+
 ---
 
 ### Core Objectives:
@@ -25,9 +33,3 @@ The project demonstrates the ability to to analyze the relationship between a co
 * **Data Manipulation:** `Pandas`, `NumPy`
 * **Data Visualization:** `Plotly` (Graph Objects / Express), `Jupyter Notebooks`
 
----
-
-## Core Tasks
-- Utilize Python library, which is yfinance, to download the dataset from the financial history. 
-- Use BeautifulSoup to webscrape the revenue data from HyperText Markup Language (HTML) tables. 
-- Utilize Python library to combine one of many datasets into a whole dashboard. 
