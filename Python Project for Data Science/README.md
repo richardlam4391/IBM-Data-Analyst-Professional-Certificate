@@ -1,4 +1,4 @@
-# Details of Python Project for Data Science
+# Python Project for Data Science
 
 ## Title: Extracting and Visualizing Stock Data
 
@@ -32,3 +32,9 @@ The project demonstrates the ability to analyze the relationship between a compa
 * **Data Manipulation:** `Pandas`, `NumPy`
 * **Data Visualization:** `Plotly` (Graph Objects / Express), `Jupyter Notebooks`
 
+---
+
+## 📂 Repository Structure
+```text
+├── Final Assignment Richard Lam.ipynb                                # Completed Jyputer Notebook of the course project
+└── README.md                                                         # Whole project documentation and courseworks 
