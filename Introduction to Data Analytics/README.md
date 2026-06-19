@@ -6,7 +6,7 @@ This repository contains mapping out the modern data analysis ecosystem, disting
 
 ---
 
-### Core Objectives:
+## Core Objectives:
 * **The Data Lifecycle:** Understand the phases of data generation, collection, processing, analysis, and visualization.
 * **Role Distinction:** Clarify the functional boundaries and collaboration patterns between Data Analysts, Data Engineers, and Data Scientists.
 * **Data Literacy:** Distinguish between structured, semi-structured, and unstructured data types and their respective storage mediums.
