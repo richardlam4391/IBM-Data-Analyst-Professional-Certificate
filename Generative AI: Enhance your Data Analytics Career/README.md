@@ -14,7 +14,7 @@ This repository contains demonstrating the integration of Generative AI framewor
 
 ---
 
-## 🛠️ AI Toolset & Analytics Stack
+## 🛠️ Technical Skills
 * **Generative AI Systems:** ChatGPT (Advanced Data Analysis), Claude, or IBM watsonx.ai
 * **Prompt Methodologies:** Few-Shot Prompting, Chain-of-Thought (CoT), System Role Definition
 * **Traditional Stack:** Python (`pandas`, `numpy`), SQL, Jupyter Notebooks
