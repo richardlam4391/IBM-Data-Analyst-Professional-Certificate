@@ -47,7 +47,7 @@ The program focuses on practical, hands-on learning of data analysis tools, meth
 
 ## 📌 Project Overview
 * **The Business Task:** The technology company wants to know the technology tools and skills for many people with different age and education in present and future
-* **Gold** Collected data via Web Scraping and APIs → Cleaned data in Python → Stored in SQL → Created a comprehensive dashboard in IBM Cognos.
+* **Gold** Collected data via Web Scraping and APIs → Cleaned data in Python → Stored in SQL → Created a comprehensive dashboard in data visualization tools.
 
 ## 🛠️ Technical Stack & Tools
 * **Data Ingestion:** Python, REST APIs, BeautifulSoup (Web Scraping)
