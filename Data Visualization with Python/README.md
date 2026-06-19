@@ -41,8 +41,8 @@ The project demonstrates to transition from basic descriptive plots to interacti
 
 ## Graph from Tableau Public
 
-![Regression Period Statistics](https://github.com/richardlam4391/IBM-Data-Analyst-Professional-Certificate/blob/main/Data%20Visualization%20with%20Python/Regression%20Period%20Statistics%20(1).png)
-![Yearly Statistics](https://github.com/richardlam4391/IBM-Data-Analyst-Professional-Certificate/blob/main/Data%20Visualization%20with%20Python/Yearly%20Statistics.png)
+![Regression Period Statistics](https://github.com/richardlam4391/IBM_Data_Science_Professional_Certificate/blob/main/Data%20Visualization%20with%20Python/Regression%20Period%20Statistics%20(1).png)
+![Yearly Statistics](https://github.com/richardlam4391/IBM_Data_Science_Professional_Certificate/blob/main/Data%20Visualization%20with%20Python/Yearly%20Statistics.png)
 
 ---
 
