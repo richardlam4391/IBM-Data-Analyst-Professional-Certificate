@@ -1,4 +1,4 @@
-# Details of Introduction to Data Analytics
+# Introduction to Data Analytics
 
 This course tells you why Data Analytics tools and career roles are important.  
 
