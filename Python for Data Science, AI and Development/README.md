@@ -1,29 +1,27 @@
-# Details of Python for Data Science, AI and Development
+# Python for Data Science, AI and Development
 
 This course tells you how to learn the basic syntax, data types, expressions, variables and string operations and to understand the data structure and web-based data by web scraping. 
 
-## Key Skills
+This repository contains tracking foundational Python programming paradigms, data structures, object-oriented principles, and initial data engineering layers using NumPy and Pandas frameworks.
 
-- Programming Principles
+---
 
-- Python Programming Pandas (Python Package)
+### Core Objectives:
+1. **Python Control Flow & Logic:** Implement clean conditional branches, loops, and robust error-handling (`try-except` blocks).
+2. **Data Structure Architecture:** Manipulate built-in collections including Lists, Tuples, Dictionaries, and Sets.
+3. **Object-Oriented Programming (OOP):** Design custom classes, handle object states, and utilize inheritance methods.
+4. **Data Manipulation Foundations:** Ingest external files and perform multi-dimensional vector math using Pandas and NumPy arrays.
 
-- Data Structure
+---
 
-- Restful API
+## 🛠️ Tech Stack & Foundations
+* **Language:** Python 3.x
+* **Core Computational Libraries:** `Pandas`, `NumPy`
+* **Built-in modules:** `sys`, `os`, `math`
+* **Development Environment:** Jupyter Notebook / Python CLI
 
-- Automation
+---
 
-- Object Oriented Programming (OOP)
-
-- JSON
-
-- File I/O
-
-- Jupyter
-
-- Data Import/Export
-
-- Data Manipulation
-
-- Numpy
+## 📂 Repository Structure
+```text
+├── README.md                     #Whole project documentation and courseworks
