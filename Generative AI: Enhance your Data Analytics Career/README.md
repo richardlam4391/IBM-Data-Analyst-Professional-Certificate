@@ -1,4 +1,4 @@
-# =Generative AI: Enhance Your Data Analytics Career
+# Generative AI: Enhance Your Data Analytics Career
 
 This course tells you how to analyze the data within the Generative AI tools and techniques. 
 
