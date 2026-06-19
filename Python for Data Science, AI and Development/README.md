@@ -14,7 +14,7 @@ This repository contains tracking foundational Python programming paradigms, dat
 
 ---
 
-## 🛠️ Tech Stack & Foundations
+## 🛠️ Technical Skills
 * **Language:** Python 3.x
 * **Core Computational Libraries:** `Pandas`, `NumPy`
 * **Built-in modules:** `sys`, `os`, `math`
