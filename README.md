@@ -1,92 +1,60 @@
-# IBM-Data-Analyst-Professional-Certificate
+# IBM Data Analyst Professional Certificate Portfolio
 
-The IBM Data Analyst Professional Certificate is an online course program that helps the beginning learners to prepare for the entry-level data analytics career role. The learners know how to use the data analysis tools, including Excel, SQL, data visualization tools, and gain technical experiences in data cleaning, data reports, data visualizations and statistical analysis. There are 11 chapters in this online course program. 
+Welcome to my portfolio repository for the **IBM Data Analyst Professional Certificate** offered through Coursera. This program consists of 11 intensive courses designed to build job-ready, entry-level skills in data analytics. 
 
-This repository contains non-capstone and capstone projects completed during the **IBM Data Analyst Professional Certificate** program on Coursera in June 2025. 
-
-The program focuses on practical, hands-on learning of data analysis tools, methodologies, and real-world problem-solving.
+Through this program, I have gained extensive hands-on experience covering the entire data lifecycle—from data collection, cleaning, and database management to exploratory data analysis, visualization, interactive dashboard construction, and predictive modeling.
 
 ---
 
-## 🚀 Key Technical Skills Acquired
-* **Languages:** Python (Pandas, NumPy, Beautiful Soup, Seaborn, Matplotlib), SQL (MySQL, IBM Db2)
-* **Data Tools:** Microsoft Excel, Jupyter Notebooks, Web Scraping, APIs
-* **Data Visualization & Dashboards:** Tableau, IBM Cognos, Dash / Plotly
+## 🚀 Key Skills Gained
+
+* **Data Analysis & Wrangling:** Data cleaning, missing value handling, pivot tables, VLOOKUPs, data frame manipulation, and feature engineering.
+* **Database Management & SQL:** Designing relational databases, writing advanced SQL queries (JOINs, Subqueries, Aggregations), and querying cloud databases using Python.
+* **Python Programming:** Leveraging data ecosystems including **Pandas**, **NumPy**, **SciPy**, and **Scikit-learn** for scientific computing and statistical analysis.
+* **Data Visualization & BI:** Designing static and interactive charts, geographic heat maps, and operational dashboards using **Matplotlib**, **Seaborn**, **Folium**, **Plotly**, **Excel**, **Tableau** and **IBM Cognos Analytics**.
+* **Generative AI for Analytics:** Utilizing prompt engineering and foundational models to accelerate data preparation, synthesize insights, and automate routine analytical tasks.
 
 ---
 
-## 🗂️ Program Structure & Completed Modules
+## 🛠️ Tools & Technologies
 
-### 1. Data Analysis with Python
-* Cleaned the data and analyzed real-world datasets through exploratory data analysis (EDA) and statistcal analysis
-* **Key Lab:** Used Pandas and Scikit-Learn to analyze and predict housing prices.
-
-### 2. Databases and SQL for Data Science with Python
-* Wrote queries and databases with Structure Query Language (SQL) techniques, including IBM Db2 and MySQL.
-* **Key Lab:** Analyzed real-world socio-economic and public school datasets for the city of Chicago.
-
-### 3. Data Visualization with Python
-* Created interactive dashboards within Matplotlib, Seaborn, Plotly, and Dash.
-* **Key Lab:** Built a dashboard tracking historical automobile sales trends during recession periods.
-
-### 4. Data visualization and Dashboard with Excel and Cognos
-* Created interactive dashboards within Tableau
-* **Key Lab:** Built a dashboard for the sales and service in the number of recalls per model and in the price and quantity sold by model
-
-### 5. Excel Basics for Data Analysis
-* Focused on the data analysis tools in Microsoft Excel
-* **Key Lab:** Built the Pivot Table to summarize the Department, Equipment Class and Sum Equipment Count
-
-### 6. Python Project for Data Science
-* Focused on understanding the data fundamentals and structures and extracted the data from a dataset within yfiance and webscraping
-*  **Key Lab:** Extracted stock and revenue data and plot stocks and revenue graphs
+* **Languages:** Python, SQL
+* **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Folium, Plotly, Beautiful Soup (Web Scraping)
+* **Databases & Environments:** IBM Db2, SQLite, Jupyter Notebooks, VS Code
+* **BI & Spreadsheets:** Microsoft Excel, IBM Cognos Analytics, Tableau
 
 ---
 
-## 🏆 Capstone Project: [The Analysis of Current and Future Trends in Technical Skills](https://github.com/richardlam4391/IBM-Data-Analyst-Professional-Certificate/tree/main/IBM%20Data%20Analyst%20Capstone%20Project)
+## 📂 Curriculum & Repository Structure
 
-## 📌 Project Overview
-* **The Business Task:** The technology company wants to know the technology tools and skills for many people with different age and education in present and future
-* **Gold** Collected data via Web Scraping and APIs → Cleaned data in Python → Stored in SQL → Created a comprehensive dashboard in data visualization tools.
+Below is an overview of the completed modules and the corresponding projects included in this repository:
 
-## 🛠️ Technical Stack & Tools
-* **Data Ingestion:** Python, REST APIs, BeautifulSoup (Web Scraping)
-* **Data Transformation & Wrangling:** Pandas, NumPy (Handling duplicates, missing values, and numeric outliers)
-* **Exploratory Analytics:** SQL
-* **Data Visualization & Dashboards:** Tableau or Excel
-* **Reporting:** PowerPoint/PDF executive slide presentations
-
-📊 **Dashboard View:** [The Analysis of Current and Future Trends in Technical Skills Dashboard](https://public.tableau.com/app/profile/richardlam4391/viz/IBMDataAnalystCapstoneProject_17807052494200/Dashboard3)
-
-![Current Technology Usage](https://github.com/richardlam4391/IBM-Data-Analyst-Professional-Certificate/blob/main/IBM%20Data%20Analyst%20Capstone%20Project/Current%20Technology%20Usage.png)
-![Future Technology Trend](https://github.com/richardlam4391/IBM-Data-Analyst-Professional-Certificate/blob/main/IBM%20Data%20Analyst%20Capstone%20Project/Future%20Technology%20Trends.png)
-![Demographics](https://github.com/richardlam4391/IBM-Data-Analyst-Professional-Certificate/blob/main/IBM%20Data%20Analyst%20Capstone%20Project/Demographics.png)
-
----
-
-## Course Topics
-
-- [Introduction to Data Analystics](https://github.com/richardlam4391/IBM-Data-Analyst-Professional-Certificate/tree/main/Introduction%20to%20Data%20Analytics)
-
-- [Excel Basics for Data Analysis](https://github.com/richardlam4391/IBM-Data-Analyst-Professional-Certificate/tree/main/Excel%20Basics%20for%20Data%20Analysis)
-
-- [Data Visualization and Dashboards with Excel and Cognos](https://github.com/richardlam4391/IBM-Data-Analyst-Professional-Certificate/tree/main/Data%20Visualization%20and%20Dashboards%20with%20Excel%20and%20Cognos)
-
-- [Python for Data Science, AI and Development](https://github.com/richardlam4391/IBM-Data-Analyst-Professional-Certificate/tree/main/Python%20for%20Data%20Science%2C%20AI%20and%20Development)
-
-- [Python Project for Data Science](https://github.com/richardlam4391/IBM-Data-Analyst-Professional-Certificate/tree/main/Python%20Project%20for%20Data%20Science)
-
-- [Databases and SQL for Data Science with Python](https://github.com/richardlam4391/IBM-Data-Analyst-Professional-Certificate/tree/main/Databases%20and%20SQL%20for%20Data%20Science%20with%20Python)
-
-- [Data Analysis with Python](https://github.com/richardlam4391/IBM-Data-Analyst-Professional-Certificate/tree/main/Data%20Analysis%20with%20Python)  
-
-- [Data Visualization with Python](https://github.com/richardlam4391/IBM-Data-Analyst-Professional-Certificate/tree/main/Data%20Visualization%20with%20Python)
-
-- [IBM Data Analyst Capstone Project](https://github.com/richardlam4391/IBM-Data-Analyst-Professional-Certificate/tree/main/IBM%20Data%20Analyst%20Capstone%20Project)
-
-- [Generative AI: Enhance yout Data Analytics Career](https://github.com/richardlam4391/IBM-Data-Analyst-Professional-Certificate/tree/main/Generative%20AI%3A%20Enhance%20your%20Data%20Analytics%20Career)
-
-- [Data Analyst Career Guide and Interview Prepartion](https://github.com/richardlam4391/IBM-Data-Analyst-Professional-Certificate/tree/main/Data%20Analyst%20Career%20Guide%20and%20Interview%20Preparation)
+| # | Course Module | Core Focus / Technologies | Status |
+| :--- | :--- | :--- | :---: |
+| **01** | Introduction to Data Analytics | Data Ecosystem, Lifecycle, Data Roles | ✅ Completed in March 2025 |
+| **02** | Excel Basics for Data Analysis | Data Cleaning, Filtering, Sorting, Pivot Tables | ✅ Completed in March 2025 |
+| **03** | Data Visualization & Dashboards with Excel & Cognos | Interactive BI Dashboards, Trend Analysis | ✅ Completed in April 2025 |
+| **04** | Python for Data Science, AI & Development | Python Syntax, Data Structures, Logic, APIs | ✅ Completed in April 2025 |
+| **05** | Python Project for Data Science | Web Scraping financial data, Extract-Transform-Load | ✅ Completed in April 2025 | 
+| **06** | Databases and SQL for Data Science with Python | SQLite/Db2, Joins, Cloud Database Connections | ✅ Completed in April 2025 |
+| **07** | Data Analysis with Python | Exploratory Data Analysis (EDA), Regression Modeling | ✅ Completed in May 2025 | 
+| **08** | Data Visualization with Python | Folium Maps, Plotly Dash Interactive Dashboards | ✅ Completed in May 2025 |
+| **09** | **IBM Data Analyst Capstone Project** | End-to-end Real-World Case Study (Details Below) | ✅ Completed in May 2025 | 
+| **10** | Generative AI: Enhance your Data Analytics Career | AI-Assisted Querying, Automated Storytelling | ✅ Completed in May 2025 |
+| **11** | Data Analyst Career Guide and Interview Preparation | Data Lifecycle Management, Business Acumen & Metrics | ✅ Completed in June 2025 |
 
 ---
 
+## 🏆 Highlight: IBM Data Analyst Capstone Project
+
+The culmination of this certificate program is an intensive, multi-phase capstone project utilizing a real-world dataset to solve a comprehensive business analytical problem.
+
+* **Objective:** Analyze tech ecosystem survey and job market trend data to assist an organization in identifying in-demand skills, salary distributions, and demographic insights for data professional talent.
+* **Key Phases Executed:**
+  1. **Data Collection & Extraction:** Collected data utilizing web scraping with `BeautifulSoup` and integrated multiple source APIs.
+  2. **Data Wrangling & Cleaning:** Normalized datasets, addressed missing entries, and eliminated duplicate rows using **Pandas**.
+  3. **Exploratory Data Analysis (EDA):** Discovered underlying patterns, outliers, and distribution frequencies using SQL and basic statistical techniques.
+  4. **Data Visualization & Dashboarding:** Built dynamic, interactive visualization dashboards using **Plotly** and **IBM Cognos** to visually capture tech trends, geographic insights, and demographic data.
+  5. **Final Presentation:** Synthesized analytical findings into a formal executive slide deck and delivered an objective data-driven narrative.
+
+👉 **View the Capstone Folder:** [The Analysis of Current and Future Trends in Technical Skills]([./09_IBM_Data_Analyst_Capstone_Project/](https://github.com/richardlam4391/IBM-Data-Analyst-Professional-Certificate/tree/main/IBM%20Data%20Analyst%20Capstone%20Project))
