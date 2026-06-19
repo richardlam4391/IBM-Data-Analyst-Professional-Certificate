@@ -1,4 +1,4 @@
-# Databases and SQL for Databases and SQL for Data Science with Python
+# Databases and SQL for Data Science with Python
 
 ## Title: Chicago Socioeconomic Data 
 
