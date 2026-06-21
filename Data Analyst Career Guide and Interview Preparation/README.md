@@ -11,6 +11,6 @@
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 ```text
 ├── README.md                     #Whole project documentation and courseworks
