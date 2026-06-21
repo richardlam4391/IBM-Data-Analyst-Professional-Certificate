@@ -49,15 +49,15 @@ The project demonstrates the ability to select the right visual elements and to 
 
 ## Repository Structure
 ```text
-├── AU_Car_Recalls.xlsx                                  # Clear Excel file of the course project
-├── AU_Daily_Sales.xlsx                                  # Clear Excel file of the course project
-├── AU_Dealers.xlsx                                      # Clear Excel file of the course project
-├── AU_Sales_By_Model.xlsx                               # Clear Excel file of the course project
-├── AU_Sentiment.xlsx                                    # Clear Excel file of the course project
-├── CarSalesByModelEnd.xlsx                              # Clear Excel file of the course project
-├── Sale and Dashboard Services Tableau.pdf              # Pdf file of the course project
-├── Sales(2).png                                         # Image file of the course project
-├── Service (2).png                                      # Image file of the course project
-├── cust_loyalty_table.xlsx                              # Clear Excel file of the course project
-├── cust_table.xlsx                                      # Clear Excel file of the course project
-└── README.md                                            # Whole project documentation and courseworks
+├── AU_Car_Recalls.xlsx                                     # Clear Excel file of the course project
+├── AU_Daily_Sales.xlsx                                     # Clear Excel file of the course project
+├── AU_Dealers.xlsx                                         # Clear Excel file of the course project
+├── AU_Sales_By_Model.xlsx                                  # Clear Excel file of the course project
+├── AU_Sentiment.xlsx                                       # Clear Excel file of the course project
+├── CarSalesByModelEnd.xlsx                                 # Clear Excel file of the course project
+├── Sale and Dashboard Services Tableau.pdf                 # Pdf file of the course project
+├── Sales(2).png                                            # Image file of the course project
+├── Service (2).png                                         # Image file of the course project
+├── cust_loyalty_table.xlsx                                 # Clear Excel file of the course project
+├── cust_table.xlsx                                         # Clear Excel file of the course project
+└── README.md                                               # Whole project documentation and courseworks
