@@ -29,7 +29,7 @@ Through this program, I have gained extensive hands-on experience covering the e
 
 Below is an overview of the completed modules and the corresponding projects included in this repository:
 
-| # | Course Module | Core Focus / Technologies | Status |
+| # | Course Module | Status |
 | :--- | :--- | :---: |
 | **01** | Introduction to Data Analytics | ✅ Completed in March 2025 |
 | **02** | Excel Basics for Data Analysis | ✅ Completed in March 2025 |
