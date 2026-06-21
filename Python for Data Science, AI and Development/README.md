@@ -1,8 +1,6 @@
 # Python for Data Science, AI and Development
 
-This course tells you how to learn the basic syntax, data types, expressions, variables and string operations and to understand the data structure and web-based data by web scraping. 
-
-This repository contains tracking foundational Python programming paradigms, data structures, object-oriented principles, and initial data engineering layers using NumPy and Pandas frameworks.
+**Python for Data Science, AI and Development** contains tracking foundational Python programming paradigms, data structures, object-oriented principles, and initial data engineering layers using NumPy and Pandas frameworks.
 
 ---
 
@@ -14,7 +12,7 @@ This repository contains tracking foundational Python programming paradigms, dat
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 * **Language:** Python 3.x
 * **Core Computational Libraries:** `Pandas`, `NumPy`
 * **Built-in modules:** `sys`, `os`, `math`
@@ -22,6 +20,6 @@ This repository contains tracking foundational Python programming paradigms, dat
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 ```text
 ├── README.md                     #Whole project documentation and courseworks
