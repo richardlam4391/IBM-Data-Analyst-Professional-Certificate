@@ -6,7 +6,7 @@ Through this program, I have gained extensive hands-on experience covering the e
 
 ---
 
-## 🚀 Key Skills Gained
+## Key Skills Gained
 
 * **Data Analysis & Wrangling:** Data cleaning, missing value handling, pivot tables, VLOOKUPs, data frame manipulation, and feature engineering.
 * **Database Management & SQL:** Designing relational databases, writing advanced SQL queries (JOINs, Subqueries, Aggregations), and querying cloud databases using Python.
@@ -16,7 +16,7 @@ Through this program, I have gained extensive hands-on experience covering the e
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 * **Languages:** Python, SQL
 * **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Folium, Plotly, Beautiful Soup (Web Scraping)
@@ -25,7 +25,7 @@ Through this program, I have gained extensive hands-on experience covering the e
 
 ---
 
-## 📂 Curriculum & Repository Structure
+## Curriculum & Repository Structure
 
 Below is an overview of the completed modules and the corresponding projects included in this repository:
 
@@ -45,7 +45,7 @@ Below is an overview of the completed modules and the corresponding projects inc
 
 ---
 
-## 🏆 Highlight: IBM Data Analyst Capstone Project
+## Highlight: IBM Data Analyst Capstone Project
 
 The culmination of this certificate program is an intensive, multi-phase capstone project utilizing a real-world dataset to solve a comprehensive business analytical problem.
 
