@@ -65,10 +65,10 @@ Please see the link in the dataset
 ├── Lab 22 Stacked Charts.ipynb                                       # Completed Jyputer Notebook of the course project
 ├── Lab 23 Line Charts.ipynb                                          # Completed Jyputer Notebook of the course project
 ├── Lab 24 Bar Charts.ipynb                                           # Completed Jyputer Notebook of the course project
-├── 2025 IBM Capstone Project Data Analyst Presentation.pdf           # PDF file of the capstone project
-├── 2025 IBM Capstone Project Data Analyst Presentation.pptx          # Powerpoints file of the capstone project
-├── Current Technology Usage.png                                      # Image file of the capstone project
-├── Future Technology Trends.png                                      # Image file of the capstone project
-├── Demographics.png                                                  # Image file of the capstone project
-├── IBM Data Analyst Capstone Project Tableau.pdf                     # PDF file of the capstone project
-└── README.md                                                         # Whole project documentation and courseworks 
+├── 2025IBMCapstoneProjectDataAnalystPresentation.pdf       # PDF file of the capstone project
+├── 2025IBMCapstoneProjectDataAnalystPresentation.pptx      # Powerpoints file of the capstone project
+├── Current Technology Usage.png                            # Image file of the capstone project
+├── Future Technology Trends.png                            # Image file of the capstone project
+├── Demographics.png                                        # Image file of the capstone project
+├── IBM Data Analyst Capstone Project Tableau.pdf           # PDF file of the capstone project
+└── README.md                                               # Whole project documentation and courseworks
