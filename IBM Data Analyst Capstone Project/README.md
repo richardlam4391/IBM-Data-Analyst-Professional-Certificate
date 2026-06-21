@@ -41,8 +41,6 @@ Please see the link in the dataset
 
 ## Repository Structure
 ```text
-├── 2025 IBM Capstone Project Data Analyst Presentation.pdf           # PDF file of the capstone project
-├── 2025 IBM Capstone Project Data Analyst Presentation.pptx          # Powerpoints file of the capstone project
 ├── Lab 1 Requests_HTTP.ipynb                                         # PDF file of the capstone project
 ├── Lab 2 Collecting Job Data Using APIs.ipynb                        # Powerpoints file of the capstone project
 ├── Lab 3 Web-Scraping-Review-Lab.ipynb                               # Image file of the capstone project
@@ -67,8 +65,10 @@ Please see the link in the dataset
 ├── Lab 22 Finding Duplicates.ipynb                                   # Powerpoints file of the capstone project
 ├── Lab 23 Removing Duplicates.ipynb                                  # Image file of the capstone project
 ├── Lab 24 Finding Missing Values.ipynb                               # Image file of the capstone project
+├── 2025 IBM Capstone Project Data Analyst Presentation.pdf           # PDF file of the capstone project
+├── 2025 IBM Capstone Project Data Analyst Presentation.pptx          # Powerpoints file of the capstone project
 ├── Current Technology Usage.png                                      # Image file of the capstone project
-├── Demographics.png                                                  # Image file of the capstone project
 ├── Future Technology Trends.png                                      # Image file of the capstone project
+├── Demographics.png                                                  # Image file of the capstone project
 ├── IBM Data Analyst Capstone Project Tableau.pdf                     # PDF file of the capstone project
 └── README.md                                                         # Whole project documentation and courseworks 
