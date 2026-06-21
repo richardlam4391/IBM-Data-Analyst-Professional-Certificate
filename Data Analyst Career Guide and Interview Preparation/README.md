@@ -1,8 +1,6 @@
 # Data Analyst Career Guide and Interview Preparation 
 
-This course tells you how to preapre for the Data Analytics Career 
-
-This repository consolidating technical data structures, conceptual system breakdowns, behavioral storytelling frameworks, and case study approaches compiled during my career preparation phase. This completed in June 2025.
+**Data Analyst Career Guide and Interview Preparation** consolidating technical data structures, conceptual system breakdowns, behavioral storytelling frameworks, and case study approaches compiled during my career preparation phase. This completed in June 2025.
 
 ---
 
