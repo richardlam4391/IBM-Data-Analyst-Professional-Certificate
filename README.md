@@ -30,18 +30,18 @@ Through this program, I have gained extensive hands-on experience covering the e
 Below is an overview of the completed modules and the corresponding projects included in this repository:
 
 | # | Course Module | Core Focus / Technologies | Status |
-| :--- | :--- | :--- | :---: |
-| **01** | Introduction to Data Analytics | Data Ecosystem, Lifecycle, Data Roles | ✅ Completed in March 2025 |
-| **02** | Excel Basics for Data Analysis | Data Cleaning, Filtering, Sorting, Pivot Tables | ✅ Completed in March 2025 |
-| **03** | Data Visualization & Dashboards with Excel & Cognos | Interactive BI Dashboards, Trend Analysis | ✅ Completed in April 2025 |
-| **04** | Python for Data Science, AI & Development | Python Syntax, Data Structures, Logic, APIs | ✅ Completed in April 2025 |
-| **05** | Python Project for Data Science | Web Scraping financial data, Extract-Transform-Load | ✅ Completed in April 2025 | 
-| **06** | Databases and SQL for Data Science with Python | SQLite/Db2, Joins, Cloud Database Connections | ✅ Completed in April 2025 |
-| **07** | Data Analysis with Python | Exploratory Data Analysis (EDA), Regression Modeling | ✅ Completed in May 2025 | 
-| **08** | Data Visualization with Python | Folium Maps, Plotly Dash Interactive Dashboards | ✅ Completed in May 2025 |
-| **09** | **IBM Data Analyst Capstone Project** | End-to-end Real-World Case Study (Details Below) | ✅ Completed in May 2025 | 
-| **10** | Generative AI: Enhance your Data Analytics Career | AI-Assisted Querying, Automated Storytelling | ✅ Completed in May 2025 |
-| **11** | Data Analyst Career Guide and Interview Preparation | Data Lifecycle Management, Business Acumen & Metrics | ✅ Completed in June 2025 |
+| :--- | :--- | :---: |
+| **01** | Introduction to Data Analytics | ✅ Completed in March 2025 |
+| **02** | Excel Basics for Data Analysis | ✅ Completed in March 2025 |
+| **03** | Data Visualization & Dashboards with Excel & Cognos | ✅ Completed in April 2025 |
+| **04** | Python for Data Science, AI & Development | ✅ Completed in April 2025 |
+| **05** | Python Project for Data Science | ✅ Completed in April 2025 | 
+| **06** | Databases and SQL for Data Science with Python | ✅ Completed in April 2025 |
+| **07** | Data Analysis with Python | ✅ Completed in May 2025 | 
+| **08** | Data Visualization with Python | ✅ Completed in May 2025 |
+| **09** | **IBM Data Analyst Capstone Project** | ✅ Completed in May 2025 | 
+| **10** | Generative AI: Enhance your Data Analytics Career | ✅ Completed in May 2025 |
+| **11** | Data Analyst Career Guide and Interview Preparation | ✅ Completed in June 2025 |
 
 ---
 
