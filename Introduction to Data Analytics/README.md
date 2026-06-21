@@ -1,8 +1,6 @@
 # Introduction to Data Analytics
 
-This course tells you why Data Analytics tools and career roles are important.  
-
-This repository contains mapping out the modern data analysis ecosystem, distinguishing data roles, exploring data lifecycles, and reviewing the core methodologies used to extract business insights from raw information structures. This completed in March 2025.
+**Introduction to Data Analytics** contains mapping out the modern data analysis ecosystem, distinguishing data roles, exploring data lifecycles, and reviewing the core methodologies used to extract business insights from raw information structures. This completed in March 2025.
 
 ---
 
@@ -14,14 +12,13 @@ This repository contains mapping out the modern data analysis ecosystem, disting
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 * **Data Ecosystem Architecture:** Modern Data Warehouses vs. Data Lakes.
 * **Analytical Types:** Descriptive (What happened?), Diagnostic (Why did it happen?), Predictive (What will happen?), and Prescriptive (How can we make it happen?).
 * **Core Toolkit Taxonomy:** Distinguishing the application layer of Excel, SQL, Python/R, and BI Dashboards (Tableau/Cognos).
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 ```text
 ├── README.md                     #Whole project documentation and courseworks
-
