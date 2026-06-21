@@ -43,5 +43,5 @@ The project mimics a real-world scenario where unformatted, messy CSV/text data 
 
 ## Repository Structure
 ```text
-├── Montgomery_Fleet_Equipment_Inventory_FA_PART_START.xslx.xlsx      # Completed Excel file of the course project
-└── README.md                                                         # Project documentation and courseworks overview
+├── Montgomery_Fleet_Equipment_Inventory_FA_PART_START.xslx # Completed Excel file of the course project
+└── README.md                                               # Whole project documentation and courseworks
