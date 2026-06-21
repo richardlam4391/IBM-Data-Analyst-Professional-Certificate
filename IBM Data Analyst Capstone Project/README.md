@@ -43,6 +43,30 @@ Please see the link in the dataset
 ```text
 ├── 2025 IBM Capstone Project Data Analyst Presentation.pdf           # PDF file of the capstone project
 ├── 2025 IBM Capstone Project Data Analyst Presentation.pptx          # Powerpoints file of the capstone project
+├── Lab 1 Requests_HTTP.ipynb                                         # PDF file of the capstone project
+├── Lab 2 Collecting Job Data Using APIs.ipynb                        # Powerpoints file of the capstone project
+├── Lab 3 Web-Scraping-Review-Lab.ipynb                               # Image file of the capstone project
+├── Lab 4 Web-Scraping-Lab.ipynb                                      # Image file of the capstone project
+├── Lab 5 ExploreDataSet.ipynb                                        # PDF file of the capstone project
+├── Lab 6 Finding Duplicates.ipynb                                    # Powerpoints file of the capstone project
+├── Lab 7 Removing Duplicates.ipynb                                   # Image file of the capstone project
+├── Lab 8 Finding Missing Values.ipynb                                # Image file of the capstone project
+├── Lab 9 Imput Missing Values.ipynb                                  # PDF file of the capstone project
+├── Lab 10 Normalizing Data.ipynb                                     # Powerpoints file of the capstone project
+├── Lab 11 DataWrangling.ipynb                                        # Image file of the capstone project
+├── Lab 12 Exploratory Data Analysis.ipynb                            # Image file of the capstone project
+├── Lab 13 ExploreDataSet.ipynb                                       # PDF file of the capstone project
+├── Lab 14 Finding Duplicates.ipynb                                   # Powerpoints file of the capstone project
+├── Lab 15 Removing Duplicates.ipynb                                  # Image file of the capstone project
+├── Lab 16 Finding Missing Values.ipynb                               # Image file of the capstone project
+├── Lab 17 ExploreDataSet.ipynb                                       # PDF file of the capstone project
+├── Lab 18 Finding Duplicates.ipynb                                   # Powerpoints file of the capstone project
+├── Lab 19 Removing Duplicates.ipynb                                  # Image file of the capstone project
+├── Lab 20 Finding Missing Values.ipynb                               # Image file of the capstone project
+├── Lab 21 ExploreDataSet.ipynb                                       # PDF file of the capstone project
+├── Lab 22 Finding Duplicates.ipynb                                   # Powerpoints file of the capstone project
+├── Lab 23 Removing Duplicates.ipynb                                  # Image file of the capstone project
+├── Lab 24 Finding Missing Values.ipynb                               # Image file of the capstone project
 ├── Current Technology Usage.png                                      # Image file of the capstone project
 ├── Demographics.png                                                  # Image file of the capstone project
 ├── Future Technology Trends.png                                      # Image file of the capstone project
