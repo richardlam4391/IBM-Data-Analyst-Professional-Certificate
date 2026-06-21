@@ -2,9 +2,7 @@
 
 **Title Project: Montgomery Fleet Equipment Inventory FA**
 
-This course tells you how to focus on the major tasks and data analysis in Microsoft Excel (spreadsheet software). 
-
-This repository contains the data cleaning pipelines and initial analysis completed for the Excel Basics for Data Analysis course framework in March 2025. 
+**Excel Basics for Data Analysis** contains the data cleaning pipelines and initial analysis completed for the Excel Basics for Data Analysis course framework in March 2025. 
 
 The project mimics a real-world scenario where unformatted, messy CSV/text data must be transformed into structured business insights.
 
@@ -25,7 +23,7 @@ The project mimics a real-world scenario where unformatted, messy CSV/text data 
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 *   **Data Ingestion:** Text-to-Columns, Web/CSV Data Import, and Data Type Standardizing.
 *   **Data Hygiene:** `TRIM()`, `PROPER()`, `UPPER()`, Duplicate Removal, and Flash Fill.
