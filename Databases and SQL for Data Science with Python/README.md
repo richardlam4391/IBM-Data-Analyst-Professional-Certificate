@@ -37,5 +37,5 @@ The project demonstrates the ability to interact with relational databases (RDBM
 ├── ChicagoCensusData.csv                                             # Comma separated values (CSV) in Microsoft Excel
 ├── ChicagoCrimeData.csv                                              # Comma separated values (CSV) in Microsoft Excel
 ├── ChicagoPublicSchool.csv                                           # Comma separated values (CSV) in Microsoft Excel
-├── mod5_final_project.ipynb                                          # Image file of the course project
+├── mod5_final_project.ipynb                                          # Completed Jyputer Notebook of the course project
 └── README.md                                                         # Whole project documentation and courseworks 
