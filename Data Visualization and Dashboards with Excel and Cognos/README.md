@@ -1,10 +1,8 @@
 # Data Visualization and Dashboards with Excel and Cognos
 
 ## Title: Sales and Services Dashboard
-
-This course tells you how to visualize the data, to make the interactive dashboards and to generate the reports within the data visualization tools. 
-
-This repository contains turning raw operational and sales data into interactive dashboards. This course is completed in April 2025
+ 
+**Data Visualization and Dashboards with Excel and Cognos** contains turning raw operational and sales data into interactive dashboards. This course is completed in April 2025
 
 The project demonstrates the ability to select the right visual elements and to tell a clear data story on both spreadsheet and enterprise business intelligence (BI) softwares.
 
@@ -24,7 +22,7 @@ The project demonstrates the ability to select the right visual elements and to 
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 *   **Microsoft Excel:** Pivot Charts (Combo charts, Treemaps, Sunbursts), Slicers, Timelines, Conditional Formatting, and KPI Cards.
 *   **IBM Cognos Analytics/Tableau:** Multi-page/Tabbed layouts, Interactive Filters, Custom Themes, Maps/Geospatial Visualizations, and Word Clouds.
 *   **Data Source:** Multi-region sales, customer satisfaction, and operational metrics.
@@ -49,7 +47,7 @@ The project demonstrates the ability to select the right visual elements and to 
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 ```text
 ├── AU_Car_Recalls.xlsx                                               # Clear Excel file of the course project
 ├── AU_Daily_Sales.xlsx                                               # Clear Excel file of the course project
