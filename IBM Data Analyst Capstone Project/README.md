@@ -2,9 +2,7 @@
 
 ## Title: The Analysis of Current and Future Trends in Technical Skills
 
-This course tells you how to analyde=ze the real-world dataset, make the interactive dashboards and data visualizations with data analysis tools, including Python and Business Intelligence (BI). This was completed in May 2025.
-
-This repository contains my final capstone project for the **IBM Data Analyst Professional Certificate**. 
+**IBM Data Analyst Professional Certificate** contains my final capstone project. This was completed in May 2025.
 
 The project demonstrates to encompasses the entire data analysis lifecycle: data collection (web scraping and APIs), data wrangling, exploratory data analysis (EDA), statistical analysis, and data visualization.
 
@@ -17,7 +15,7 @@ The project demonstrates to encompasses the entire data analysis lifecycle: data
 
 ---
 
-## 🛠️ Technical Stack & Tools
+## Technical Stack & Tools
 * **Languages:** Python (Pandas, NumPy, BeautifulSoup, Requests), SQL
 * **Data Visualization:** Tableau, Plotly, Seaborn, Matplotlib
 * **Environment:** Jupyter Notebooks, IBM Cloud / Local IDE
@@ -41,7 +39,7 @@ Please see the link in the dataset
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 ```text
 ├── 2025 IBM Capstone Project Data Analyst Presentation.pdf           # PDF file of the capstone project
 ├── 2025 IBM Capstone Project Data Analyst Presentation.pptx          # Powerpoints file of the capstone project
