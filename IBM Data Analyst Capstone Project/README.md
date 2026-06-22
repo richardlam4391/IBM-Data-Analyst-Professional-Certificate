@@ -98,14 +98,6 @@ The Tableau dashboard includes:
 
 ---
 
-## 📝 Notes
-
-This project was completed as the capstone for the **IBM Data Analyst Professional Certificate** on Coursera. It demonstrates proficiency in the entire analytics workflow from raw data to actionable insights.
-
-For detailed lab-by-lab breakdowns, see individual Jupyter notebooks.
-
----
-
 ## 🔗 Links
 
 - **Dashboard:** [Tableau Public](https://public.tableau.com/app/profile/richardlam4391/viz/IBMDataAnalystCapstoneProject_17807052494200/Dashboard3)
