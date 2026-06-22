@@ -65,38 +65,6 @@ This capstone project analyzes technology adoption trends across demographics to
 
 ---
 
-## 🚀 Quick Start
-
-### Prerequisites
-```bash
-pip install pandas numpy beautifulsoup4 requests plotly seaborn matplotlib jupyter
-```
-
-### Run the Analysis
-1. Clone the repository
-2. Navigate to the `IBM Data Analyst Capstone Project` directory
-3. Start Jupyter:
-   ```bash
-   jupyter notebook
-   ```
-4. Open any `.ipynb` file and run cells sequentially
-5. View the final dashboard: [Tableau Public Link](https://public.tableau.com/app/profile/richardlam4391/viz/IBMDataAnalystCapstoneProject_17807052494200/Dashboard3)
-
-### Core Workflow
-```
-Data Collection (Labs 1-4)
-    ↓
-Data Cleaning & Wrangling (Labs 5-11)
-    ↓
-Exploratory Analysis (Labs 12-15)
-    ↓
-Visualization & Insights (Labs 16-24)
-    ↓
-Tableau Dashboard & Presentation
-```
-
----
-
 ## 📊 Data Sources
 
 Data collected from:
