@@ -1,22 +1,22 @@
 # IBM Data Analyst Professional Certificate Portfolio
 
-Welcome to my portfolio repository for the **IBM Data Analyst Professional Certificate** offered through Coursera. This program consists of 11 intensive courses designed to build job-ready, entry-level skills in data analytics. 
+Welcome to my portfolio repository for the **IBM Data Analyst Professional Certificate** offered through Coursera. This program consists of 11 intensive courses designed to build job-ready, entry-level data analyst skills.
 
-Through this program, I have gained extensive hands-on experience covering the entire data lifecycle—from data collection, cleaning, and database management to exploratory data analysis, visualization, interactive dashboard construction, and predictive modeling.
+Through this program, I have gained extensive hands-on experience covering the entire data lifecycle—from data collection, cleaning, and database management to exploratory data analysis, visualization, and business intelligence.
 
 ---
 
-## Key Skills Gained
+## 📊 **Key Skills Gained**
 
 * **Data Analysis & Wrangling:** Data cleaning, missing value handling, pivot tables, VLOOKUPs, data frame manipulation, and feature engineering.
 * **Database Management & SQL:** Designing relational databases, writing advanced SQL queries (JOINs, Subqueries, Aggregations), and querying cloud databases using Python.
 * **Python Programming:** Leveraging data ecosystems including **Pandas**, **NumPy**, **SciPy**, and **Scikit-learn** for scientific computing and statistical analysis.
-* **Data Visualization & BI:** Designing static and interactive charts, geographic heat maps, and operational dashboards using **Matplotlib**, **Seaborn**, **Folium**, **Plotly**, **Excel**, **Tableau** and **IBM Cognos Analytics**.
+* **Data Visualization & BI:** Designing static and interactive charts, geographic heat maps, and operational dashboards using **Matplotlib**, **Seaborn**, **Folium**, **Plotly**, **Excel**, and **Tableau**.
 * **Generative AI for Analytics:** Utilizing prompt engineering and foundational models to accelerate data preparation, synthesize insights, and automate routine analytical tasks.
 
 ---
 
-## Tools & Technologies
+## 🛠️ **Tools & Technologies**
 
 * **Languages:** Python, SQL
 * **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Folium, Plotly, Beautiful Soup (Web Scraping)
@@ -25,7 +25,7 @@ Through this program, I have gained extensive hands-on experience covering the e
 
 ---
 
-## Curriculum & Repository Structure
+## 📋 **Curriculum & Repository Structure**
 
 Below is an overview of the completed modules and the corresponding projects included in this repository:
 
@@ -45,16 +45,68 @@ Below is an overview of the completed modules and the corresponding projects inc
 
 ---
 
-## Highlight: IBM Data Analyst Capstone Project
+## 🏆 **Highlight: IBM Data Analyst Capstone Project**
 
 The culmination of this certificate program is an intensive, multi-phase capstone project utilizing a real-world dataset to solve a comprehensive business analytical problem.
 
-* **Objective:** Analyze tech ecosystem survey and job market trend data to assist an organization in identifying in-demand skills, salary distributions, and demographic insights for data professional talent.
+**Project:** The Analysis of Current and Future Trends in Technical Skills
+
+* **Objective:** Analyze tech ecosystem survey and job market trend data to assist an organization in identifying in-demand skills, salary distributions, and demographic insights for data professionals.
 * **Key Phases Executed:**
   1. **Data Collection & Extraction:** Collected data utilizing web scraping with `BeautifulSoup` and integrated multiple source APIs.
   2. **Data Wrangling & Cleaning:** Normalized datasets, addressed missing entries, and eliminated duplicate rows using **Pandas**.
   3. **Exploratory Data Analysis (EDA):** Discovered underlying patterns, outliers, and distribution frequencies using SQL and basic statistical techniques.
-  4. **Data Visualization & Dashboarding:** Built dynamic, interactive visualization dashboards using **Plotly** and **IBM Cognos** to visually capture tech trends, geographic insights, and demographic data.
+  4. **Data Visualization & Dashboarding:** Built dynamic, interactive visualization dashboards using **Plotly** and **IBM Cognos** to visually capture tech trends, geographic insights, and demographic patterns.
   5. **Final Presentation:** Synthesized analytical findings into a formal executive slide deck and delivered an objective data-driven narrative.
 
-👉 **View the Capstone Folder:** [The Analysis of Current and Future Trends in Technical Skills]([./09_IBM_Data_Analyst_Capstone_Project/](https://github.com/richardlam4391/IBM-Data-Analyst-Professional-Certificate/tree/main/IBM%20Data%20Analyst%20Capstone%20Project))
+👉 **[Explore the Capstone Project](./IBM%20Data%20Analyst%20Capstone%20Project)**
+
+---
+
+## 📚 **Notable Projects**
+
+### **Core Analysis Projects**
+- **[Data Analysis with Python: House Sales in King County, USA](./Data%20Analysis%20with%20Python)** — Regression modeling on real estate data
+- **[Databases and SQL for Data Science: Chicago Socioeconomic Data](./Databases%20and%20SQL%20for%20Data%20Science%20with%20Python)** — SQL queries and relational data analysis
+- **[Python Project for Data Science: Stock Data Analysis](./Python%20Project%20for%20Data%20Science)** — Financial data extraction and visualization
+
+### **Dashboard & Visualization**
+- **[Data Visualization with Python](./Data%20Visualization%20with%20Python)** — Interactive Plotly visualizations
+- **[Excel & Cognos Dashboards](./Data%20Visualization%20and%20Dashboards%20with%20Excel%20and%20Cognos)** — Business intelligence reporting
+
+---
+
+## 🎯 **My Data Analysis Process**
+
+1. **Define Business Problem** → Clarify stakeholder objectives and success metrics
+2. **Collect & Explore Data** → Source and understand data characteristics
+3. **Clean & Prepare Data** → Handle missing values, outliers, and ensure consistency
+4. **Analyze & Visualize** → Discover patterns and communicate findings visually
+5. **Present Insights** → Deliver actionable, data-driven recommendations
+
+---
+
+## 🎓 **Certification**
+
+✅ **[IBM Data Analyst Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/IJ3TFHW44GSH)** — June 2025
+
+---
+
+## 📊 **Getting Started**
+
+To explore projects in this repository:
+
+1. Clone or download the repository
+2. Navigate to specific course folders
+3. Open Jupyter notebooks (`.ipynb` files)
+4. Install required dependencies: `pip install pandas numpy matplotlib seaborn plotly beautifulsoup4`
+5. Run cells sequentially to reproduce analysis and visualizations
+
+---
+
+**Repository Last Updated:** June 2025  
+**Certificate Awarded:** June 2025  
+**Total Courses:** 11  
+**Program Duration:** 3 months  
+
+For more information about this program, visit [IBM Data Analyst Professional Certificate on Coursera](https://www.coursera.org/professional-certificates/ibm-data-analyst).
