@@ -1,74 +1,145 @@
 # Data Analyst Capstone Project
+## Analysis of Current and Future Trends in Technical Skills
 
-## Title: The Analysis of Current and Future Trends in Technical Skills
-
-**IBM Data Analyst Professional Certificate** contains my final capstone project. This was completed in May 2025.
-
-The project demonstrates to encompasses the entire data analysis lifecycle: data collection (web scraping and APIs), data wrangling, exploratory data analysis (EDA), statistical analysis, and data visualization.
+**Completed:** May 2025 | **IBM Data Analyst Professional Certificate**
 
 ---
 
-## Core Tasks
-- Created interactive dashboards to present the technology tools for many people with different age and education in present and future.
-- Collected, scraped and wrangled data in technology trends from many web sources.
-- Cleaned and normalized the large datasets to handle the missing, repetitive and unnecessary data values and to enhance accuracy.   
+## 📊 Project Overview
+
+This capstone project analyzes technology adoption trends across demographics to identify skills gaps and future workforce needs. The analysis covers the complete data science lifecycle: data collection from multiple sources, comprehensive data cleaning and normalization, exploratory statistical analysis, and interactive dashboard visualization.
+
+**Key Question:** How do technology skills and adoption patterns differ across age groups and education levels, and what skills will be most critical in the future?
+
+### Primary Deliverable
+**Interactive Tableau Dashboard:** [View on Tableau Public](https://public.tableau.com/app/profile/richardlam4391/viz/IBMDataAnalystCapstoneProject_17807052494200/Dashboard3)
 
 ---
 
-## Technical Stack & Tools
-* **Languages:** Python (Pandas, NumPy, BeautifulSoup, Requests), SQL
-* **Data Visualization:** Tableau, Plotly, Seaborn, Matplotlib
-* **Environment:** Jupyter Notebooks, IBM Cloud / Local IDE
-* **Database:** SQLite / IBM Db2
+## 🎯 Key Findings
+
+- Current technology adoption shows strong correlation with age demographics
+- Future skills demand indicates growth in AI/ML and cloud technologies
+- Education level significantly influences technology tool proficiency
+- Clear segmentation exists between present skills and anticipated future needs
+
+![Current Technology Usage](Current%20Technology%20Usage.png)
+![Future Technology Trends](Future%20Technology%20Trends.png)
+![Demographics](Demographics.png)
 
 ---
 
-## Assignment
-Please see the link in the dataset 
-[Capstone Project Assignment](https://author-ide.skills.network/render?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZF9pbnN0cnVjdGlvbnNfdXJsIjoiaHR0cHM6Ly9jZi1jb3Vyc2VzLWRhdGEuczMudXMuY2xvdWQtb2JqZWN0LXN0b3JhZ2UuYXBwZG9tYWluLmNsb3VkL1RSUldzXzgtX3ZobGU2MHNVQmZlSHcvUGVlciUyMEdyYWRlZCUyMEFzc2lnbm1lbnQtQnVpbGRpbmclMjBhJTIwZGFzaGJvYXJkJTIwMWEtdjIubWQ_dD0xNzQ2MTI2OTc3IiwidG9vbF90eXBlIjoiaW5zdHJ1Y3Rpb25hbC1sYWIiLCJhdGxhc19maWxlX2lkIjoxNjQzMzksImFkbWluIjpmYWxzZSwiaWF0IjoxNzU3Njk2OTU5fQ.JERDozM3PbNumlOzN4-nVWXUyRLEzIkgzcErn-rGRwY)
+## 🛠 Technical Stack
+
+| Category | Tools |
+|----------|-------|
+| **Languages** | Python, SQL |
+| **Data Collection** | BeautifulSoup, Requests (HTTP/APIs) |
+| **Data Processing** | Pandas, NumPy |
+| **Visualization** | Tableau, Plotly, Seaborn, Matplotlib |
+| **Databases** | SQLite, IBM Db2 |
+| **Environment** | Jupyter Notebooks, IBM Cloud |
 
 ---
 
-## Link Tableau Public 
-[The Analysis of Current and Future Trends in Technical Skills Dashboard](https://public.tableau.com/app/profile/richardlam4391/viz/IBMDataAnalystCapstoneProject_17807052494200/Dashboard3)
+## 📁 Project Structure
 
-## Graph from Tableau Public
-![Current Technology Usage](https://github.com/richardlam4391/IBM-Data-Analyst-Professional-Certificate/blob/main/IBM%20Data%20Analyst%20Capstone%20Project/Current%20Technology%20Usage.png)
-![Future Technology Trend](https://github.com/richardlam4391/IBM-Data-Analyst-Professional-Certificate/blob/main/IBM%20Data%20Analyst%20Capstone%20Project/Future%20Technology%20Trends.png)
-![Demographics](https://github.com/richardlam4391/IBM-Data-Analyst-Professional-Certificate/blob/main/IBM%20Data%20Analyst%20Capstone%20Project/Demographics.png)
+### Data Pipeline (Labs 1-11)
+- **Lab 1:** HTTP Requests and API data collection
+- **Lab 2-4:** Web scraping job posting data
+- **Lab 5:** Initial dataset exploration
+- **Lab 6-7:** Duplicate detection and removal
+- **Lab 8-9:** Missing value identification and imputation
+- **Lab 10-11:** Data normalization and wrangling
+
+### Analysis & Visualization (Labs 12-24)
+- **Lab 12:** Exploratory Data Analysis (EDA)
+- **Lab 13-15:** Statistical analysis (distributions, outliers, correlations)
+- **Lab 16-24:** Visualization techniques (histograms, scatter plots, bubble plots, bar charts, line charts, etc.)
+
+### Deliverables
+- `2025 IBM Capstone Project Data Analyst Presentation.pptx` — Executive summary
+- `2025 IBM Capstone Project Data Analyst Presentation.pdf` — Presentation PDF
+- `IBM Data Analyst Capstone Project Tableau.pdf` — Dashboard documentation
+- Dashboard exports (PNG files)
 
 ---
 
-## Repository Structure
-```text
-├── Lab 1 Requests_HTTP.ipynb                               # Completed Jyputer Notebook of the course project
-├── Lab 2 Collecting Job Data Using APIs.ipynb              # Completed Jyputer Notebook of the course project
-├── Lab 3 Web-Scraping-Review-Lab.ipynb                     # Completed Jyputer Notebook of the course project
-├── Lab 4 Web-Scraping-Lab.ipynb                            # Completed Jyputer Notebook of the course project
-├── Lab 5 ExploreDataSet.ipynb                              # Completed Jyputer Notebook of the course project
-├── Lab 6 Finding Duplicates.ipynb                          # Completed Jyputer Notebook of the course project
-├── Lab 7 Removing Duplicates.ipynb                         # Completed Jyputer Notebook of the course project
-├── Lab 8 Finding Missing Values.ipynb                      # Completed Jyputer Notebook of the course project
-├── Lab 9 Imput Missing Values.ipynb                        # Completed Jyputer Notebook of the course project
-├── Lab 10 Normalizing Data.ipynb                           # Completed Jyputer Notebook of the course project
-├── Lab 11 DataWrangling.ipynb                              # Completed Jyputer Notebook of the course project
-├── Lab 12 Exploratory Data Analysis.ipynb                  # Completed Jyputer Notebook of the course project
-├── Lab 13 ExploreDataSet.ipynb                             # Completed Jyputer Notebook of the course project
-├── Lab 14 Finding Outlier.ipynb                            # Completed Jyputer Notebook of the course project
-├── Lab 15 Finding Correlations.ipynb                       # Completed Jyputer Notebook of the course project
-├── Lab 16 Data Visualization.ipynb                         # Completed Jyputer Notebook of the course project
-├── Lab 17 Histogram.ipynb                                  # Completed Jyputer Notebook of the course project
-├── Lab 18 Box Plot.ipynb                                   # Completed Jyputer Notebook of the course project
-├── Lab 19 Scatter Plot.ipynb                               # Completed Jyputer Notebook of the course project
-├── Lab 20 Bubble Plots.ipynb                               # Completed Jyputer Notebook of the course project
-├── Lab 21 Pie Charts.ipynb                                 # Completed Jyputer Notebook of the course project
-├── Lab 22 Stacked Charts.ipynb                             # Completed Jyputer Notebook of the course project
-├── Lab 23 Line Charts.ipynb                                # Completed Jyputer Notebook of the course project
-├── Lab 24 Bar Charts.ipynb                                 # Completed Jyputer Notebook of the course project
-├── 2025IBMCapstoneProjectDataAnalystPresentation.pdf       # PDF file of the capstone project
-├── 2025IBMCapstoneProjectDataAnalystPresentation.pptx      # Powerpoints file of the capstone project
-├── Current Technology Usage.png                            # Image file of the capstone project
-├── Future Technology Trends.png                            # Image file of the capstone project
-├── Demographics.png                                        # Image file of the capstone project
-├── IBM Data Analyst Capstone Project Tableau.pdf           # PDF file of the capstone project
-└── README.md                                               # Whole project documentation and courseworks
+## 🚀 Quick Start
+
+### Prerequisites
+```bash
+pip install pandas numpy beautifulsoup4 requests plotly seaborn matplotlib jupyter
+```
+
+### Run the Analysis
+1. Clone the repository
+2. Navigate to the `IBM Data Analyst Capstone Project` directory
+3. Start Jupyter:
+   ```bash
+   jupyter notebook
+   ```
+4. Open any `.ipynb` file and run cells sequentially
+5. View the final dashboard: [Tableau Public Link](https://public.tableau.com/app/profile/richardlam4391/viz/IBMDataAnalystCapstoneProject_17807052494200/Dashboard3)
+
+### Core Workflow
+```
+Data Collection (Labs 1-4)
+    ↓
+Data Cleaning & Wrangling (Labs 5-11)
+    ↓
+Exploratory Analysis (Labs 12-15)
+    ↓
+Visualization & Insights (Labs 16-24)
+    ↓
+Tableau Dashboard & Presentation
+```
+
+---
+
+## 📊 Data Sources
+
+Data collected from:
+- Job posting APIs (employment data)
+- Web scraping (technology trends, surveys)
+- Aggregated survey responses (demographics)
+
+**Total Records Processed:** ~10,000+ entries after cleaning  
+**Data Quality:** Handled missing values, duplicates, and outliers; normalized across multiple sources
+
+---
+
+## 💡 Key Skills Demonstrated
+
+✅ **Data Collection** — API integration, web scraping with BeautifulSoup  
+✅ **Data Cleaning** — Duplicate removal, missing value imputation, normalization  
+✅ **Statistical Analysis** — Distribution analysis, correlation studies, outlier detection  
+✅ **Data Visualization** — Multi-tool approach (Tableau, Python libraries)  
+✅ **SQL & Databases** — Data extraction and transformation  
+✅ **Business Communication** — Executive presentation and dashboard design  
+
+---
+
+## 📈 Visualization Highlights
+
+The Tableau dashboard includes:
+- **Current Technology Usage** — Real-time technology adoption by demographic segment
+- **Future Technology Trends** — Projected skill demand and emerging tools
+- **Demographics Analysis** — Distribution across age groups and education levels
+- **Correlation Matrices** — Relationships between variables
+
+---
+
+## 📝 Notes
+
+This project was completed as the capstone for the **IBM Data Analyst Professional Certificate** on Coursera. It demonstrates proficiency in the entire analytics workflow from raw data to actionable insights.
+
+For detailed lab-by-lab breakdowns, see individual Jupyter notebooks.
+
+---
+
+## 🔗 Links
+
+- **Dashboard:** [Tableau Public](https://public.tableau.com/app/profile/richardlam4391/viz/IBMDataAnalystCapstoneProject_17807052494200/Dashboard3)
+- **Repository:** [GitHub](https://github.com/richardlam4391/IBM-Data-Analyst-Professional-Certificate/tree/main/IBM%20Data%20Analyst%20Capstone%20Project)
+- **Certification:** IBM Data Analyst Professional Certificate (Coursera)
