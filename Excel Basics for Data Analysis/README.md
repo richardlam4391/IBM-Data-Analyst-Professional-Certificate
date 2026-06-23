@@ -22,13 +22,6 @@ The capstone project for this course involves analyzing a real-world business da
 ---
 
 ## 🛠 Technical Stack
-
-* **Software:** Microsoft Excel / Excel for the Web
-* **Key Features Utilized:**
-  * Data Cleaning Tools (Flash Fill, Remove Duplicates, Text to Columns)
-  * Formulas & Advanced Functions (VLOOKUP, INDEX, MATCH, IF/IFS, COUNTIF)
-  * Data Aggregation & Analysis (Pivot Tables, Slicers)
-  * Visualization (Combo Charts, Bar Charts, Line Charts)
  
  | Category | Tools |
 |----------|-------|
