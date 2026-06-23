@@ -22,9 +22,44 @@ This project serves as the final capstone element for the **Python Project for D
 | Category | Tools |
 |----------|-------|
 | **Language:** | Python 3.x |
-| **Data Extraction Libraries:** | `yfinance` (For programmatic API retrieval of stock splits, historical prices, and volume), BeautifulSoup4` & `requests` (For web scraping financial data from HTML tables) |
+| **Data Extraction Libraries:** | `yfinance` (For programmatic API retrieval of stock splits, historical prices, and volume), 'BeautifulSoup4` & `requests` (For web scraping financial data from HTML tables) |
 | **Data Manipulation & Processing** | `pandas`, `numpy` |
 | **Data Visualization** | `plotly.graph_objects` / `plotly.express` |
 | **Development Environment** | Jupyter Notebooks / Google Colab |
 
 ---
+
+## 📁 Project Structure
+
+### Deliverables
+- `Final Assignment Richard Lam` — Jupyter Notebook documentation
+
+---
+
+## 📊 Data Source
+
+**Stock Market Data** - Programmatically requested and streamed directly from the official Yahoo Finance (yfinance) API, capturing open, high, low, close, and volume metrics.
+**Historical Revenue Data** - Extracted by web scraping macrotrends.net HTML files to pull quarterly financial disclosures spanning multiple fiscal years.
+
+---
+
+## 💡 Key Skills Demonstrated
+
+- **API Integration** - Using specialized financial libraries (yfinance) to query complex ticker data seamlessly.
+- **Web Scraping & DOM Parsing** - Constructing programmatic HTTP requests, bypassing basic scraping barriers, and navigating HTML tree structures with BeautifulSoup to find hidden table nodes.
+- **Data Preprocessing & Wrangling** - Parsing string values containing currency characters ($) and punctuation (commas), handling missing data rows, and converting target vectors into optimized numeric and datetime types.
+- **Interactive Dashboard Development** - Designing a robust helper function using Plotly to output dual-graph interactive dashboards with slider filters.
+
+---
+
+## 📈 Visualization Highlights
+
+- **Historical Share Price Char** - A clean, time-series line plot tracking closing values across the company's lifespan.
+- **Historical Revenue Chart** - A matching timeline bar or line chart tracking actual revenue figures side-by-side.
+
+---
+
+## 🔗 Links
+
+- **Repository:** [GitHub](https://github.com/richardlam4391/IBM-Data-Analyst-Professional-Certificate/tree/main/Python%20Project%20for%20Data%20Science)
+- **Certification:** IBM Data Analyst Professional Certificate (Coursera)
