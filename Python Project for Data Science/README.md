@@ -1,38 +1,30 @@
-# Python Project for Data Science
+# Python Project for Data Science: Stock & Revenue Data Analysis
+## Extracting and Visualizing Stock Data
 
-## Title: Extracting and Visualizing Stock Data
-
-**Python Project for Data Science** contains extracting, cleaning, and visualizing historical financial and revenue data for major corporations (e.g., Tesla and GameStop) completed in April 2025. 
-
-The project demonstrates the ability to analyze the relationship between a company's underlying earnings and its market valuation trends.
+**Completed:** April 2025 | **IBM Data Analyst Professional Certificate**
 
 ---
 
-## Core Tasks
-- Utilize Python library, which is yfinance, to download the dataset from the financial history. 
-- Use BeautifulSoup to webscrape the revenue data from HyperText Markup Language (HTML) tables. 
-- Utilize Python library to combine one of many datasets into a whole dashboard. 
+## 📌 Course Overview
+This project serves as the final capstone element for the **Python Project for Data Science** mini-course, a key module within the **IBM Data Analyst Professional Certificate**. In this project, I assumed the role of a Data Analyst / Data Scientist tasked with extracting essential financial data from public companies (specifically Tesla and GameStop) to analyze performance trends. The project demonstrates a complete programmatic pipeline: gathering stock data using libraries, web scraping historical revenue records, processing text into clean data frames, and building a consolidated visual dashboard to compare price movements against financial revenue trends.
 
 ---
 
-### Core Objectives:
-* **API Data Extraction:** Programmatically retrieve historical stock data using the `yfinance` library.
-* **Web Scraping (`BeautifulSoup`):** Extract and parse unstructured HTML tables from macrotrends web pages to isolate company revenue.
-* **Data Pipelines & Engineering:** Clean and format messy data structures into structured Pandas DataFrames.
-* **Dynamic Visualizations:** Build an interactive dual-axis data dashboard using `Plotly` to map revenue against historical stock prices.
+## 🎯 Key Findings
+* **Tesla (TSLA):** Historical stock trends reveal massive, exponential valuation growth starting around 2020. This trajectory closely mimics the aggressive, multi-billion dollar upward trend seen in their parsed revenue metrics, showcasing a strong correlation between operational scaling and market capitalization.
+* **GameStop (GME):** The data captures the historical early-2021 volatility spike driven by retail trading dynamics. The visualization highlights a distinct divergence during this period, where stock prices surged exponentially without an equivalent underlying spike in quarterly company revenue.
+* **Data Synthesis:** Combining raw automated APIs with unstructured web scraped tables proves critical. Looking at stock graphs alone misses fundamental fiscal context; overlaying revenue graphs helps rapidly distinguish organic long-term growth from sudden market anomalies.
 
 ---
 
-## Technical Skills
-* **Language:** Python 
-* **Data Retrieval:** `yfinance` (Yahoo Finance API), `requests`
-* **Web Scraping:** `BeautifulSoup4`, `html5lib` / `lxml`
-* **Data Manipulation:** `Pandas`, `NumPy`
-* **Data Visualization:** `Plotly` (Graph Objects / Express), `Jupyter Notebooks`
+## 🛠️ Technical Stack
+
+| Category | Tools |
+|----------|-------|
+| **Language:** | Python 3.x |
+| **Data Extraction Libraries:** | `yfinance` (For programmatic API retrieval of stock splits, historical prices, and volume), BeautifulSoup4` & `requests` (For web scraping financial data from HTML tables) |
+| **Data Manipulation & Processing** | `pandas`, `numpy` |
+| **Data Visualization** | `plotly.graph_objects` / `plotly.express` |
+| **Development Environment** | Jupyter Notebooks / Google Colab |
 
 ---
-
-## Repository Structure
-```text
-├── Final Assignment Richard Lam.ipynb                      # Completed Jyputer Notebook of the course project
-└── README.md                                               # Whole project documentation and courseworks
