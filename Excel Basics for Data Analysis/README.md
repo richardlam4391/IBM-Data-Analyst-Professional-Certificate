@@ -47,17 +47,17 @@ The data used in this project is provided by IBM Skills Network as part of the p
 
 ## 💡 Key Skills Demonstrated
 
-**Data Quality & Preparation** - Handling null values, formatting dates, removing duplicate entries, and standardizing text to ensure a single source of truth.
-**Advanced Lookup & Reference** - Implementing dynamic lookups using VLOOKUP and INDEX/MATCH to merge disparate data sheets seamlessly.
-**Descriptive Analytics** - Utilizing summary statistics and COUNTIF/SUMIF logic to isolate key performance indicators (KPIs).
-**Pivot Table Architecture** - Creating cross-tabulations, filtering with interactive slicers, and grouping temporal data (months/quarters) for deeper structural analysis.
+- **Data Quality & Preparation** - Handling null values, formatting dates, removing duplicate entries, and standardizing text to ensure a single source of truth.
+- **Advanced Lookup & Reference** - Implementing dynamic lookups using VLOOKUP and INDEX/MATCH to merge disparate data sheets seamlessly.
+- **Descriptive Analytics** - Utilizing summary statistics and COUNTIF/SUMIF logic to isolate key performance indicators (KPIs).
+- **Pivot Table Architecture** - Creating cross-tabulations, filtering with interactive slicers, and grouping temporal data (months/quarters) for deeper structural analysis.
 
 ---
 
 ## 📈 Visualization Highlights
 
-**Interactive Dashboard Element** - Designed an executive summary layer utilizing Pivot Charts tied to dynamic slicers, allowing stakeholders to filter performance by region or product type seamlessly.
-**Trend Analysis** - Created multi-axis combo charts to simultaneously display volume changes alongside revenue growth trends over time.
+- **Interactive Dashboard Element** - Designed an executive summary layer utilizing Pivot Charts tied to dynamic slicers, allowing stakeholders to filter performance by region or product type seamlessly.
+- **Trend Analysis** - Created multi-axis combo charts to simultaneously display volume changes alongside revenue growth trends over time.
 
 ---
 
