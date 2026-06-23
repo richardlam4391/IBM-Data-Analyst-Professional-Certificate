@@ -38,8 +38,8 @@ This project serves as the final capstone element for the **Python Project for D
 
 ## 📊 Data Source
 
-**Stock Market Data** - Programmatically requested and streamed directly from the official Yahoo Finance (yfinance) API, capturing open, high, low, close, and volume metrics.
-**Historical Revenue Data** - Extracted by web scraping macrotrends.net HTML files to pull quarterly financial disclosures spanning multiple fiscal years.
+- **Stock Market Data** - Programmatically requested and streamed directly from the official Yahoo Finance (yfinance) API, capturing open, high, low, close, and volume metrics.
+- **Historical Revenue Data** - Extracted by web scraping macrotrends.net HTML files to pull quarterly financial disclosures spanning multiple fiscal years.
 
 ---
 
@@ -54,7 +54,7 @@ This project serves as the final capstone element for the **Python Project for D
 
 ## 📈 Visualization Highlights
 
-- **Historical Share Price Char** - A clean, time-series line plot tracking closing values across the company's lifespan.
+- **Historical Share Price Chart** - A clean, time-series line plot tracking closing values across the company's lifespan.
 - **Historical Revenue Chart** - A matching timeline bar or line chart tracking actual revenue figures side-by-side.
 
 ---
