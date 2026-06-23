@@ -19,6 +19,10 @@ This project focuses on converting raw operational, sales, customer satisfaction
 - Derived insights by tracking customer satisfaction alongside product sentiment to isolate variables influencing brand loyalty.
 - Strategic Visual Insights: Translated abstract data matrices into actionable visual trends, such as tracking product recalls against daily automotive sales metrics.
 
+![Sales (2).png](https://github.com/richardlam4391/IBM-Data-Analyst-Professional-Certificate/blob/main/Data%20Visualization%20and%20Dashboards%20with%20Excel%20and%20Cognos/Sales%20(2).png)
+![services (2).png]([Future%20Technology%20Trends.png](https://github.com/richardlam4391/IBM-Data-Analyst-Professional-Certificate/blob/main/Data%20Visualization%20and%20Dashboards%20with%20Excel%20and%20Cognos/Service%20(2).png))
+
+
 ---
 
 ## 🛠 Technical Stack
