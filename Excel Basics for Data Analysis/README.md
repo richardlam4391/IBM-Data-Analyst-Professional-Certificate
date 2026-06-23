@@ -1,4 +1,4 @@
- # Excel Basics for Data Analysis
+# Excel Basics for Data Analysis
 ## Montgomery Fleet Equipment Inventory FA
 
 **Completed:** March 2025 | **IBM Data Analyst Professional Certificate**
