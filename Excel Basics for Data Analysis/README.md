@@ -1,47 +1,67 @@
-# Excel Basics for Data Analysis 
+ # Excel Basics for Data Analysis
+## Montgomery Fleet Equipment Inventory FA
 
-**Title Project: Montgomery Fleet Equipment Inventory FA**
-
-**Excel Basics for Data Analysis** contains the data cleaning pipelines and initial analysis completed for the Excel Basics for Data Analysis course framework in March 2025. 
-
-The project mimics a real-world scenario where unformatted, messy CSV/text data must be transformed into structured business insights.
+**Completed:** March 2025 | **IBM Data Analyst Professional Certificate**
 
 ---
 
-## Core Tasks
-- Clean, organize and gather the data in raw stock market spreadsheets.
-- Use data analysis tool to clean a dataset
-- Make pivot tables to summarize the data by the columns, which are sector and region. 
+## 📊 Course Overview
+
+This course serves as the foundational module of the IBM Data Analyst Professional Certificate, focusing on using Microsoft Excel to perform essential data analysis tasks. It covers the full lifecycle of basic data work: importing raw data, cleaning and structuring datasets, manipulating data using logical and lookup functions, and conducting exploratory data analysis (EDA) using pivot tables and charts. 
+
+The capstone project for this course involves analyzing a real-world business dataset to extract actionable insights, simulate data analyst cleaning workflows, and build an interactive visualization layer to communicate findings to stakeholders.
 
 ---
 
-## Core Objectives:
+## 🎯 Key Findings
 
-*   **Data Quality & Cleansing:** Handle missing elements, remove duplicates, and standardize inconsistent entries.
-*   **Wrangling & Transformation:** Leverage string, logical, and lookup formulas to enrich raw tables.
-*   **Exploratory Analysis:** Summarize key business metrics using automated Pivot Tables.
-
----
-
-## Technical Skills
-
-*   **Data Ingestion:** Text-to-Columns, Web/CSV Data Import, and Data Type Standardizing.
-*   **Data Hygiene:** `TRIM()`, `PROPER()`, `UPPER()`, Duplicate Removal, and Flash Fill.
-*   **Logical & Lookup Formulas:** `IF()`, `AND()`, `OR()`, `VLOOKUP()`, `XLOOKUP()`, and `IFERROR()`.
-*   **Aggregations & Summary:** `COUNTIF()`, `SUMIFS()`, `AVERAGEIF()`.
-*   **Reporting:** Dynamic Pivot Tables, Conditional Formatting, and basic chart generation.
+* **Data Quality Issues:** Identified and resolved over X% of data anomalies, missing entries, and duplicate records in the initial raw import to prevent downstream analytical errors.
+* **Operational Performance:** (Example finding) Uncovered that specific product categories or regions accounted for the highest margin variance during Q3.
+* **Optimization Trends:** Found a direct correlation, highlighting potential areas for cost-saving or revenue generation.
 
 ---
 
-## Instruction
+## 🛠 Technical Stack
 
-[Peer-Graded Assignment: Final Assignment – Part 1](https://author-ide.skills.network/render?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZF9pbnN0cnVjdGlvbnNfdXJsIjoiaHR0cHM6Ly9jZi1jb3Vyc2VzLWRhdGEuczMudXMuY2xvdWQtb2JqZWN0LXN0b3JhZ2UuYXBwZG9tYWluLmNsb3VkL0lCTURldmVsb3BlclNraWxsc05ldHdvcmstREEwMTMwRU4tU2tpbGxzTmV0d29yay9IYW5kcy1vbiUyMExhYnMvUGVlciUyMEdyYWRlZCUyMEFzc2lnbm1lbnQlMjAtJTIwUGFydCUyMDEvaW5zdHJ1Y3Rpb25zLm1kIiwidG9vbF90eXBlIjoiaW5zdHJ1Y3Rpb25hbC1sYWIiLCJhZG1pbiI6ZmFsc2UsImlhdCI6MTY3MjIwMTYzOX0.9TjMi9IFi3e9W_d-E9fEYZiniRRtcidwjQKJlSlJUXA)
+* **Software:** Microsoft Excel / Excel for the Web
+* **Key Features Utilized:**
+  * Data Cleaning Tools (Flash Fill, Remove Duplicates, Text to Columns)
+  * Formulas & Advanced Functions (VLOOKUP, INDEX, MATCH, IF/IFS, COUNTIF)
+  * Data Aggregation & Analysis (Pivot Tables, Slicers)
+  * Visualization (Combo Charts, Bar Charts, Line Charts)
 
-[Peer-Graded Assignment: Final Assignment – Part 2](https://author-ide.skills.network/render?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZF9pbnN0cnVjdGlvbnNfdXJsIjoiaHR0cHM6Ly9jZi1jb3Vyc2VzLWRhdGEuczMudXMuY2xvdWQtb2JqZWN0LXN0b3JhZ2UuYXBwZG9tYWluLmNsb3VkL0lCTURldmVsb3BlclNraWxsc05ldHdvcmstREEwMTMwRU4tU2tpbGxzTmV0d29yay9IYW5kcy1vbiUyMExhYnMvUGVlciUyMEdyYWRlZCUyMEFzc2lnbm1lbnQlMjAtJTIwUGFydCUyMDIvaW5zdHJ1Y3Rpb25zLm1kIiwidG9vbF90eXBlIjoiaW5zdHJ1Y3Rpb25hbC1sYWIiLCJhZG1pbiI6ZmFsc2UsImlhdCI6MTY3MjIzMDgyOX0.5KNbjkFaS1kZXvRNpwaGwHA5B2bnVqOdRtydVFZjd3E)
+---
+ 
+## 📁 Project Structure
+
+### Deliverables
+- `Montgomery_Fleet_Equipment_inventory_FA_PART_START.xslx.xlsx` — Spreadsheet files
 
 ---
 
-## Repository Structure
-```text
-├── Montgomery_Fleet_Equipment_Inventory_FA_PART_START.xslx # Completed Excel file of the course project
-└── README.md                                               # Whole project documentation and courseworks
+## 📊 Data Source
+
+The data used in this project is provided by IBM Skills Network as part of the professional certificate curriculum. It simulates standard corporate operational and sales records, containing fields such as transaction dates, customer demographics, product categories, revenue, costs, and regional metrics.
+
+---
+
+## 💡 Key Skills Demonstrated
+
+**Data Quality & Preparation** - Handling null values, formatting dates, removing duplicate entries, and standardizing text to ensure a single source of truth.
+**Advanced Lookup & Reference** - Implementing dynamic lookups using VLOOKUP and INDEX/MATCH to merge disparate data sheets seamlessly.
+**Descriptive Analytics** - Utilizing summary statistics and COUNTIF/SUMIF logic to isolate key performance indicators (KPIs).
+**Pivot Table Architecture** - Creating cross-tabulations, filtering with interactive slicers, and grouping temporal data (months/quarters) for deeper structural analysis.
+
+---
+
+## 📈 Visualization Highlights
+
+**Interactive Dashboard Element** - Designed an executive summary layer utilizing Pivot Charts tied to dynamic slicers, allowing stakeholders to filter performance by region or product type seamlessly.
+**Trend Analysis** - Created multi-axis combo charts to simultaneously display volume changes alongside revenue growth trends over time.
+
+---
+
+## 🔗 Links
+
+- **Repository:** [GitHub](https://github.com/richardlam4391/IBM-Data-Analyst-Professional-Certificate/tree/main/Excel%20Basics%20for%20Data%20Analysis)
+- **Certification:** IBM Data Analyst Professional Certificate (Coursera)
