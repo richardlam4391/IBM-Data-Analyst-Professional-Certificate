@@ -29,6 +29,13 @@ The capstone project for this course involves analyzing a real-world business da
   * Formulas & Advanced Functions (VLOOKUP, INDEX, MATCH, IF/IFS, COUNTIF)
   * Data Aggregation & Analysis (Pivot Tables, Slicers)
   * Visualization (Combo Charts, Bar Charts, Line Charts)
+ 
+ | Category | Tools |
+|----------|-------|
+| **Software** | Microsoft Excel / Excel for the Web |
+| **Formulas & Advanced Functions** | VLOOKUP, INDEX, MATCH, IF/IFS, COUNTIF |
+| **Data Aggregation & Analysis** | Pivot Tables, Slicers |
+| **Visualization** | Combo Charts, Bar Charts, Line Charts |
 
 ---
  
