@@ -17,18 +17,7 @@ This module focuses on working with relational database systems, utilizing SQL (
 - Map-based and frequency-based analysis pinpointed specific areas with disproportionately high frequencies of specific crime categories, providing actionable insight for public resource allocation.
 - Demonstrated that moving heavy data-filtering and aggregation workloads to the database engine via SQL significantly reduces memory overhead in Python compared to processing raw data entirely within Pandas.
 
-🛠️ Technical Stack
-Languages: SQL, Python
-
-Database Management Systems: IBM Db2 (Cloud/Lite), SQLite
-
-Python Libraries: * ipython-sql (SQL Magic commands for Jupyter Notebooks)
-
-ibm_db & ibm_db_sa (IBM Db2 driver and SQLAlchemy adapter)
-
-pandas (Data manipulation and analysis)
-
-matplotlib / seaborn (Data visualization)
+---
 
 ## 🛠️ Technical Stack
 
@@ -43,7 +32,8 @@ matplotlib / seaborn (Data visualization)
 ## 📁 Project Structure
 
 ### Deliverables
-- `Final Assignment Richard Lam` — Jupyter Notebook documentation
+- `mod5_final_project` — Jupyter Notebook documentation
+- Dataset exports (CSV files)
 
 ---
 
