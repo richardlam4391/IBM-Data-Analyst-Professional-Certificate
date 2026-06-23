@@ -1,63 +1,52 @@
 # Data Visualization and Dashboards with Excel and Cognos
-
 ## Title: Sales and Services Dashboard
- 
-**Data Visualization and Dashboards with Excel and Cognos** contains turning raw operational and sales data into interactive dashboards. This course is completed in April 2025
 
-The project demonstrates the ability to select the right visual elements and to tell a clear data story on both spreadsheet and enterprise business intelligence (BI) softwares.
+**Completed:** March 2025 | **IBM Data Analyst Professional Certificate**
 
 ---
 
-## Core Tasks
-- Utilize Excel formula to clean and organize the historical sales dataset. 
-- Utilize Tableau to create the interactive graphs and dashboards. 
-- Import Comma Separated Values (CSV) file from Excel to Tableau to analyze the dataset. 
+## 📊 Course Overview
+This project focuses on converting raw operational, sales, customer satisfaction, and multi-region data into polished, interactive analytical dashboards. Completed in April 2025 as part of the IBM Data Analyst Professional Certificate, the course demonstrates practical proficiency in choosing appropriate visual communication elements and conveying data-driven stories across spreadsheet and enterprise business intelligence (BI) software platforms.
 
 ---
 
-## Core Objectives:
-*   **Excel Dashboarding:** Build functional spreadsheet dashboards using advanced charts, dynamic sorting, and slicers.
-*   **Cognos Analytics/Tableau:** Develop an enterprise-grade interactive dashboard featuring advanced tabbed navigation and automated widget linkages.
-*   **Data Storytelling:** Translate raw numbers into visual trends that support strategic business decisions.
+## 🎯 Key Findings
+
+- Successfully linked separate operational and multi-region commercial datasets to surface comprehensive trends in performance.
+- Derived insights by tracking customer satisfaction alongside product sentiment to isolate variables influencing brand loyalty.
+- Strategic Visual Insights: Translated abstract data matrices into actionable visual trends, such as tracking product recalls against daily automotive sales metrics.
 
 ---
 
-## Technical Skills
-*   **Microsoft Excel:** Pivot Charts (Combo charts, Treemaps, Sunbursts), Slicers, Timelines, Conditional Formatting, and KPI Cards.
-*   **IBM Cognos Analytics/Tableau:** Multi-page/Tabbed layouts, Interactive Filters, Custom Themes, Maps/Geospatial Visualizations, and Word Clouds.
-*   **Data Source:** Multi-region sales, customer satisfaction, and operational metrics.
+## 🛠 Technical Stack
+
+| Category | Tools |
+|----------|-------|
+| **Spreadsheet Software** | Microsoft Excel (Advanced charts, formula-based data cleaning, pivot structures) |
+| **BI & Visualization Platforms** | Tableau Public, IBM Cognos Analytics |
+| **Data Interchange Formats** | Comma-Separated Values (CSV), Excel Spreadsheets (.xlsx) |
 
 ---
 
-## Instruction
-[Peer-Graded Assignment: Final Assignment – Part 1](https://author-ide.skills.network/render?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZF9pbnN0cnVjdGlvbnNfdXJsIjoiaHR0cHM6Ly9jZi1jb3Vyc2VzLWRhdGEuczMudXMuY2xvdWQtb2JqZWN0LXN0b3JhZ2UuYXBwZG9tYWluLmNsb3VkL0lCTURldmVsb3BlclNraWxsc05ldHdvcmstRFYwMTMwRU4tU2tpbGxzTmV0d29yay9IYW5kcy1vbiUyMExhYnMvUGVlciUyMEdyYWRlZCUyMEFzc2lnbm1lbnQlMjAtJTIwUGFydCUyMDEvaW5zdHJ1Y3Rpb25zLm1kIiwidG9vbF90eXBlIjoiaW5zdHJ1Y3Rpb25hbC1sYWIiLCJhZG1pbiI6ZmFsc2UsImlhdCI6MTY3MTU5ODU1NX0.zOnJssZ2ix6WBxvkJCqCAyKxM6xOorlxtAtcEO9SvjU)
+## 📁 Project Structure
 
-[Peer-Graded Assignment: Final Assignment – Part 2](https://author-ide.skills.network/render?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZF9pbnN0cnVjdGlvbnNfdXJsIjoiaHR0cHM6Ly9jZi1jb3Vyc2VzLWRhdGEuczMudXMuY2xvdWQtb2JqZWN0LXN0b3JhZ2UuYXBwZG9tYWluLmNsb3VkL0lCTURldmVsb3BlclNraWxsc05ldHdvcmstRFYwMTMwRU4tU2tpbGxzTmV0d29yay9IYW5kcy1vbiUyMExhYnMvUGVlciUyMEdyYWRlZCUyMEFzc2lnbm1lbnQlMjAtJTIwUGFydCUyMDIvaW5zdHJ1Y3Rpb25zLm1kIiwidG9vbF90eXBlIjoiaW5zdHJ1Y3Rpb25hbC1sYWIiLCJhZG1pbiI6ZmFsc2UsImlhdCI6MTY3MTUzMzQ2NX0.5-sseC3q4Pcahc4AZVzg0oVhPWdfAu-fvpUIgPQIt7A)
+### Deliverables
+- `Sale and Dashboard Services Tableau.pdf` — Dashboard documentation
+- Cleaned Excel exports — Spreadsheet documentation
+- Dashboard exports (PNG files)
 
----
+## 📊 Data Source
 
-## Link Tableau Public
-[My Sales and Service Dashboard](https://public.tableau.com/app/profile/richardlam4391/viz/SaleandDashboardServices/Service)
-
----
-
-## Graph from Tableau Public
-![Sales Dashboard](https://github.com/richardlam4391/IBM-Data-Analyst-Professional-Certificate/blob/main/Data%20Visualization%20and%20Dashboards%20with%20Excel%20and%20Cognos/Sales%20(2).png)
-![Service Dashboard](https://github.com/richardlam4391/IBM-Data-Analyst-Professional-Certificate/blob/main/Data%20Visualization%20and%20Dashboards%20with%20Excel%20and%20Cognos/Service%20(2).png)
+The dashboard leverages real-world operational datasets spanning:
+- Regional automotive sales logs and vehicle model volumes.
+- Dealership fulfillment and daily operations.
+- Customer experience metrics, including loyalty tables, sentiment ratings, and product safety recall distributions.
 
 ---
 
-## Repository Structure
-```text
-├── AU_Car_Recalls.xlsx                                     # Clear Excel file of the course project
-├── AU_Daily_Sales.xlsx                                     # Clear Excel file of the course project
-├── AU_Dealers.xlsx                                         # Clear Excel file of the course project
-├── AU_Sales_By_Model.xlsx                                  # Clear Excel file of the course project
-├── AU_Sentiment.xlsx                                       # Clear Excel file of the course project
-├── CarSalesByModelEnd.xlsx                                 # Clear Excel file of the course project
-├── Sale and Dashboard Services Tableau.pdf                 # Pdf file of the course project
-├── Sales(2).png                                            # Image file of the course project
-├── Service (2).png                                         # Image file of the course project
-├── cust_loyalty_table.xlsx                                 # Clear Excel file of the course project
-├── cust_table.xlsx                                         # Clear Excel file of the course project
-└── README.md                                               # Whole project documentation and courseworks
+## 💡 Key Skills Demonstrated
+- **Data Cleaning & Wrangling** - Using built-in spreadsheet functions to cross-reference tables and normalize operational records.
+- **Interactive Interface Construction** - Developing automated linkages, dynamic slicers, unified filtering cards, and fluid cross-navigation tabs.
+- **Focal Reporting** - Creating high-impact Key Performance Indicator (KPI) blocks to present business indicators immediately to decision-makers.
+
+
