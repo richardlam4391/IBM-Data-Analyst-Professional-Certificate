@@ -5,12 +5,12 @@
 
 ---
 
-## 📖 Course Overview
+## 📊 Course Overview
 This module focuses on working with relational database systems, utilizing SQL (Structured Query Language) to manage, query, and analyze data, and integrating these database operations directly into Python workflows. The curriculum covers foundational database concepts, writing advanced SQL queries (including joins, subqueries, and analytical functions), and connecting to cloud-hosted databases using Python libraries. The final capstone elements involve analyzing real-world datasets—such as socioeconomic indicators, public school performance, and crime statistics—to solve complex, data-driven problems.
 
 ---
 
-## 🔑 Key Findings
+## 🎯 Key Findings
 
 - Identified distinct correlations between community hardship indexes, per capita income levels, and local enrollment rates.
 - Uncovered structural patterns in school safety scores and academic success metrics across different neighborhood demographics.
