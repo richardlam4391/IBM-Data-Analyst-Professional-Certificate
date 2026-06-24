@@ -101,5 +101,5 @@ The Tableau dashboard includes:
 ## 🔗 Links
 
 - **Dashboard:** [Tableau Public](https://public.tableau.com/app/profile/richardlam4391/viz/IBMDataAnalystCapstoneProject_17807052494200/Dashboard3)
-- **Repository:** [GitHub](https://github.com/richardlam4391/IBM-Data-Analyst-Professional-Certificate/tree/main/IBM%20Data%20Analyst%20Capstone%20Project)
+- **Repository:** [GitHub](https://github.com/richardlam4391/IBM-Data-Analyst-Professional-Certificate/tree/main/Introduction%20to%20Data%20Analytics)
 - **Certification:** IBM Data Analyst Professional Certificate (Coursera)
