@@ -11,7 +11,7 @@ This module focuses on moving from raw data to actionable data-driven insights u
 
 ---
 
-##  Key Findings
+## 🎯 Key Findings
 
 - Identified that features such as highway-mpg, engine-size, and horsepower share the strongest Pearson correlations with the target pricing index.Model
 - Moving from a Simple Linear Regression model to a Multiple Linear Regression model reduced the Mean Squared Error (MSE) significantly and boosted the $R^2$ score.
