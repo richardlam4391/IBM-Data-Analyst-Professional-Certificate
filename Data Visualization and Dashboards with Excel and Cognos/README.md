@@ -6,7 +6,7 @@
 ---
 
 ## 📊 Course Overview
-This project focuses on converting raw operational, sales, customer satisfaction, and multi-region data into polished, interactive analytical dashboards. Completed in April 2025 as part of the IBM Data Analyst Professional Certificate, the course demonstrates practical proficiency in choosing appropriate visual communication elements and conveying data-driven stories across spreadsheet and enterprise business intelligence (BI) software platforms.
+This project focuses on converting raw operational, sales, customer satisfaction, and multi-region data into polished, interactive analytical dashboards. The course demonstrates practical proficiency in choosing appropriate visual communication elements and conveying data-driven stories across spreadsheet and enterprise business intelligence (BI) software platforms.
 
 ### Primary Deliverable
 **Interactive Tableau Dashboard:** [View on Tableau Public](https://public.tableau.com/app/profile/richardlam4391/viz/SaleandDashboardServices/Service)
