@@ -53,5 +53,5 @@ This project forms a core component of the IBM Data Analyst Professional Certifi
 
 ## 🔗 Links
 
-- **Repository:** [GitHub](https://github.com/richardlam4391/IBM_Data_Science_Professional_Certificate/tree/main/Applied%20Data%20Science%20Capstone)
+- **Repository:** [GitHub](https://github.com/richardlam4391/IBM-Data-Analyst-Professional-Certificate/tree/main/Python%20for%20Data%20Science%2C%20AI%20and%20Development)
 - **Certification:** IBM Data Analyst Professional Certificate (Coursera)
