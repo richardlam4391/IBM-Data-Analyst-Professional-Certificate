@@ -44,5 +44,5 @@ This project serves as a foundational exploration into the field of data analyti
 
 ## 🔗 Link 
 
-- **Repository:** [GitHub](https://github.com/richardlam4391/Data_Analysis_And_Visualization_Foundations/tree/main/Introduction%20to%20Data%20Analytics)
+- **Repository:** [GitHub](https://github.com/richardlam4391/IBM-Data-Analyst-Professional-Certificate/tree/main/Introduction%20to%20Data%20Analytics)
 - **Certification:** IBM Data Analyst Professional Certificate (Coursera)
