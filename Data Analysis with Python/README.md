@@ -47,7 +47,7 @@ This module focuses on moving from raw data to actionable data-driven insights u
 
 ---
 
-## 📈 Key Skills Demonstrated
+## 💡 Key Skills Demonstrated
 
 - **Data Wrangling & Quality Assurance** - Identifying and dropping/imputing missing values (`dropna()`, `fillna()`), standardizing units, normalizing numerical metrics (min-max / z-score), and data binning for categorical alignment.
 - **Advanced Exploratory Data Analysis (EDA)** - Computing descriptive statistics, calculating Pearson correlation coefficients, and executing ANOVA (Analysis of Variance) tests to determine statistical significance between categorical groups and a target variable.
