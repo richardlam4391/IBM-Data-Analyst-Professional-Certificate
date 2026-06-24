@@ -40,6 +40,7 @@ This module focuses on moving from raw data to actionable data-driven insights u
 ---
 
 ## 📊 Data Source
+
 * **Primary Dataset** - Automobile Pricing Database / King County House Sales (Standard IBM Data Source)
 * **Description** - Contains comprehensive technical, structural, and performance metrics utilized to predict market valuations.
 * **Attributes** - Features a mix of categorical, continuous numerical, and discrete variables requiring format conversions and imputation.
@@ -47,12 +48,25 @@ This module focuses on moving from raw data to actionable data-driven insights u
 ---
 
 ## 📈 Key Skills Demonstrated
-1. **Data Wrangling & Quality Assurance** - Identifying and dropping/imputing missing values (`dropna()`, `fillna()`), standardizing units, normalizing numerical metrics (min-max / z-score), and data binning for categorical alignment.
-2. **Advanced Exploratory Data Analysis (EDA)** - Computing descriptive statistics, calculating Pearson correlation coefficients, and executing ANOVA (Analysis of Variance) tests to determine statistical significance between categorical groups and a target variable.
-3. **Predictive Modeling** - Developing Simple Linear Regression (SLR), Multiple Linear Regression (MLR), and multi-degree Polynomial models.
-4. **Model Regularization & Optimization** - Implementing Ridge Regression to prevent overfitting and using `GridSearchCV` for hyperparameter optimization.
+
+- **Data Wrangling & Quality Assurance** - Identifying and dropping/imputing missing values (`dropna()`, `fillna()`), standardizing units, normalizing numerical metrics (min-max / z-score), and data binning for categorical alignment.
+- **Advanced Exploratory Data Analysis (EDA)** - Computing descriptive statistics, calculating Pearson correlation coefficients, and executing ANOVA (Analysis of Variance) tests to determine statistical significance between categorical groups and a target variable.
+- **Predictive Modeling** - Developing Simple Linear Regression (SLR), Multiple Linear Regression (MLR), and multi-degree Polynomial models.
+- **Model Regularization & Optimization** - Implementing Ridge Regression to prevent overfitting and using `GridSearchCV` for hyperparameter optimization.
 
 ---
+
+## 📈 Visualization Highlights
+
+- Leveraging Matplotlib and Seaborn, the following visual assets were developed to unlock dataset narratives:
+
+    * **Regression Plots (sns.regplot)** - Utilized to isolate linear trends between continuous engine features and price.
+
+    * **Residual Plots (sns.residplot)** - Employed to analyze error variances and confirm the appropriateness of linear models versus polynomial transformations.
+
+    * **Distribution Plots (sns.kdeplot)** - Overlaid actual data targets against predicted outputs to visually assess model accuracy across different pricing brackets.
+
+    * **Box Plots (sns.boxplot)** - Created to observe variations in price distributions across categorical segments like drive-wheels or engine location.
 
 ## 🔗 Links
 
