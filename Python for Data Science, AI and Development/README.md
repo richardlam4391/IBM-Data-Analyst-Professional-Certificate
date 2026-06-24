@@ -2,6 +2,8 @@
 
 **Completed:** April 2025 | **IBM Data Analyst Professional Certificate** 
 
+---
+
 ## 📊 Course Overview
 
 This project forms a core component of the IBM Data Analyst Professional Certificate. It covers the fundamentals of programming in Python, starting from basic syntax and data structures to object-oriented programming (OOP), logic control, web scraping, and interacting with data via APIs. The course is designed to equip learners with essential Python foundations required to manipulate, analyze, and build web or AI solutions using data science libraries.
