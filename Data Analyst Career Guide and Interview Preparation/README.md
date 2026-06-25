@@ -33,10 +33,10 @@
 
 ## 💡 Key Skills Demonstrated
 
-**Data Profiling & Aggregation** - Writing highly efficient SQL queries to calculate business-critical metrics such as month-over-month growth, customer churn, and regional revenue performance.
-**Spreadsheet Modeling** - Constructing dynamic, error-free spreadsheets to rapidly isolate data trends and summarize high-volume operational metrics.
-**Stakeholder Communication** - Presenting complex analytical findings through concise summaries, focusing heavily on the "so what?" behind the data.
-**Exploratory Data Analysis (EDA)** - Systematically auditing new datasets to detect missing values, inconsistencies, and key structural patterns prior to reporting.
+- **Data Profiling & Aggregation** - Writing highly efficient SQL queries to calculate business-critical metrics such as month-over-month growth, customer churn, and regional revenue performance.
+- **Spreadsheet Modeling** - Constructing dynamic, error-free spreadsheets to rapidly isolate data trends and summarize high-volume operational metrics.
+- **Stakeholder Communication** - Presenting complex analytical findings through concise summaries, focusing heavily on the "so what?" behind the data.
+- **Exploratory Data Analysis (EDA)** - Systematically auditing new datasets to detect missing values, inconsistencies, and key structural patterns prior to reporting.
 
 ---
 
