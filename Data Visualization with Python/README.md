@@ -36,6 +36,8 @@ This project focuses on harnessing the power of data visualization to extract me
 ## 📁 Project Structure
 
 ### Deliverables
+
+- .csv files - Source and processed datasets
 - `Lab5c Final Project` — Jupyter Notebook project
 - Dashboard exports (PNG files)
 - Dashboard plotly (py files)
