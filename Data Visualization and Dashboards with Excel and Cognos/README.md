@@ -28,7 +28,7 @@ This project focuses on converting raw operational, sales, customer satisfaction
 ## 🛠 Technical Stack
 
 | Category | Tools |
-|----------|-------|
+| :--- | :--- |
 | **Spreadsheet Software** | Microsoft Excel (Advanced charts, formula-based data cleaning, pivot structures) |
 | **BI & Visualization Platforms** | Tableau Public, IBM Cognos Analytics |
 | **Data Interchange Formats** | Comma-Separated Values (CSV), Excel Spreadsheets (.xlsx) |
