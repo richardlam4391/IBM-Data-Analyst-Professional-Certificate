@@ -28,7 +28,7 @@ Machine Learning Environment: Scikit-learn, Jupyter Notebooks / IBM Watson Studi
 Version Control: Git, GitHub
 
 | Category | Tools |
-|----------|-------|
+| :--- | :--- |
 | **Languages** | Python 3.x, SQL |
 | **Generative AI Frameworks & Tools** | OpenAI GPT-3.5/4 API, ChatCSV, tomat.ai, Generative Adversarial Networks (GANs), Autoencoders|
 | **Data Processing & Manipulation** | Pandas, NumPy |
