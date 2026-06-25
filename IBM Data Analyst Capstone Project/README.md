@@ -32,7 +32,7 @@ This capstone project analyzes technology adoption trends across demographics to
 ## 🛠 Technical Stack
 
 | Category | Tools |
-|----------|-------|
+| :--- | :--- |
 | **Languages** | Python, SQL |
 | **Data Collection** | BeautifulSoup, Requests (HTTP/APIs) |
 | **Data Processing** | Pandas, NumPy |
