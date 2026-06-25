@@ -50,5 +50,5 @@
 
 ## 🔗 Link
 
-- **Repository:** [GitHub](https://github.com/richardlam4391/IBM_Data_Science_Professional_Certificate/tree/main/Data%20Scientist%20Career%20Guide%20and%20Interview%20Preparation)
+- **Repository:** [GitHub](https://github.com/richardlam4391/IBM-Data-Analyst-Professional-Certificate/tree/main/Data%20Analyst%20Career%20Guide%20and%20Interview%20Preparation)
 - **Certification:** IBM Data Analyst Professional Certificate (Coursera)
