@@ -17,7 +17,7 @@
 ## 🛠️ Technical Stack
 
 | Category | Tools |
-|----------|-------|
+| :--- | :--- |
 | **Programming & Scripting** | Python (Data cleaning, basic automation, and scripting) |
 | **Database Querying & Management** | SQL (Aggregations, multi-table joins, subqueries, and window functions)|
 | **Data Manipulation & Reporting** | Microsoft Excel / Google Sheets (Advanced formulas, Pivot Tables, and VLOOKUP/XLOOKUP) |
