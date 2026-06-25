@@ -92,18 +92,6 @@ The culmination of this certificate program is an intensive, multi-phase capston
 
 ---
 
-## 📊 **Getting Started**
-
-To explore projects in this repository:
-
-1. Clone or download the repository
-2. Navigate to specific course folders
-3. Open Jupyter notebooks (`.ipynb` files)
-4. Install required dependencies: `pip install pandas numpy matplotlib seaborn plotly beautifulsoup4`
-5. Run cells sequentially to reproduce analysis and visualizations
-
----
-
 **Repository Last Updated:** June 2025  
 **Certificate Awarded:** June 2025  
 **Total Courses:** 11  
