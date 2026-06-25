@@ -21,7 +21,7 @@ This project forms a core component of the **IBM Data Analyst Professional Certi
 * **Development Environment:** Jupyter Notebook / Python CLI
 
 | Category | Tools |
-|----------|-------|
+| :--- | :--- |
 | **Languages** | Python 3.x |
 | **Core Computational Libraries** | `Pandas`, `NumPy` |
 | **Built-in modules** | `sys`, `os`, `math` |
