@@ -59,5 +59,5 @@ Version Control: Git, GitHub
 
 ## 🔗 Links
 
-- **Repository:** [GitHub](https://github.com/richardlam4391/IBM_Data_Science_Professional_Certificate/tree/main/Data%20Visualization%20with%20Python)
+- **Repository:** [GitHub](https://github.com/richardlam4391/IBM-Data-Analyst-Professional-Certificate/tree/main/Generative%20AI%3A%20Enhance%20your%20Data%20Analytics%20Career)
 - **Certification:** IBM Data Analyst Professional Certificate (Coursera)
