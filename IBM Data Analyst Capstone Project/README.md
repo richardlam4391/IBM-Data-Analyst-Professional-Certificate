@@ -61,7 +61,7 @@ This capstone project analyzes technology adoption trends across demographics to
 - `2025 IBM Capstone Project Data Analyst Presentation.pptx` — Executive summary
 - `2025 IBM Capstone Project Data Analyst Presentation.pdf` — Presentation PDF
 - `IBM Data Analyst Capstone Project Tableau.pdf` — Dashboard documentation
-- Dashboard exports (PNG files)
+- Dashboard exports (PNG files) - Visualizations and dashboard screenshots
 
 ---
 
