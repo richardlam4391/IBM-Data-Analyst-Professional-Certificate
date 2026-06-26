@@ -16,9 +16,6 @@ This capstone project analyzes technology adoption trends across demographics to
 ### Primary Deliverable
 **Interactive Tableau Dashboard:** [View on Tableau Public](https://public.tableau.com/app/profile/richardlam4391/viz/IBMDataAnalystCapstoneProject_17807052494200/Dashboard3)
 
-![Regreesion Period Statistics](https://github.com/richardlam4391/IBM_Data_Science_Professional_Certificate/blob/main/Data%20Visualization%20with%20Python/Regression%20Period%20Statistics.png)
-![Yearly Statistics](https://github.com/richardlam4391/IBM_Data_Science_Professional_Certificate/blob/main/Data%20Visualization%20with%20Python/Yearly%20Statistics.png)
-
 ---
 
 ## 🎯 Key Findings
