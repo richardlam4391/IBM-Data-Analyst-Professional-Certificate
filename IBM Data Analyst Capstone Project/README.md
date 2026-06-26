@@ -1,6 +1,8 @@
 # Data Analyst Capstone Project
 ## Analysis of Current and Future Trends in Technical Skills
 
+---
+
 **Completed:** May 2025 | **IBM Data Analyst Professional Certificate**
 
 ---
