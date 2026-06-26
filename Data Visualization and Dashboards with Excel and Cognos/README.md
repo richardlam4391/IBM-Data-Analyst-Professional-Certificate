@@ -1,6 +1,8 @@
 # Data Visualization and Dashboards with Excel and Cognos
 ## Sales and Services Dashboard
 
+---
+
 **Completed:** March 2025 | **IBM Data Analyst Professional Certificate**
 
 ---
