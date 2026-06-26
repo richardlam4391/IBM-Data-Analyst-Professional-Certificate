@@ -7,15 +7,16 @@
 ---
 
 ## 📊 Course Overview
+
 This module focuses on moving from raw data to actionable data-driven insights using Python's robust scientific ecosystem. The curriculum bridges the gap between basic data manipulation and statistical machine learning, focusing on cleaning messy datasets, identifying critical feature interactions, and building predictive models to estimate continuous variables.
 
 ---
 
 ## 🎯 Key Findings
 
-- Identified that features such as highway-mpg, engine-size, and horsepower share the strongest Pearson correlations with the target pricing index.Model
-- Moving from a Simple Linear Regression model to a Multiple Linear Regression model reduced the Mean Squared Error (MSE) significantly and boosted the $R^2$ score.
-- Applying Ridge Regression with optimized alpha hyperparameters via Grid Search successfully mitigated overfitting trends observed in high-degree polynomial regressions, establishing a highly robust model for deployment.
+- * **Feature Significance:** Identified that technical performance metrics such as `highway-mpg`, `engine-size`, and `horsepower` share the strongest Pearson correlations with the vehicle target pricing index.
+* **Model Optimization:** Moving from a Simple Linear Regression (SLR) model to a Multiple Linear Regression (MLR) model reduced the Mean Squared Error (MSE) significantly and boosted the $R^2$ accuracy score.
+* **Overfitting Mitigation:** Applying Ridge Regression with optimized alpha hyperparameters via Grid Search successfully mitigated overfitting trends observed in high-degree polynomial regressions, establishing a highly robust model for deployment.
 
 ---
 
