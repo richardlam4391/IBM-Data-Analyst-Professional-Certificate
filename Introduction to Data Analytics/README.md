@@ -1,5 +1,7 @@
 # Introduction to Data Analytics
 
+---
+
 **Completed:** March 2025 | **IBM Data Analyst Professional Certificate**
 
 ---
