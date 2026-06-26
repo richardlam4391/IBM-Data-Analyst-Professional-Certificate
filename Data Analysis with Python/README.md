@@ -35,7 +35,9 @@ This module focuses on moving from raw data to actionable data-driven insights u
 ## 📁 Project Structure
 
 ### Deliverables
-'Lab6b Project.ipynb' - Jupyter Notebook project 
+
+- 'Lab6b Project.ipynb' - Core Jupyter Notebook project files
+- `kc_house_data_NaN.csv` - Source and processed datasets
 
 ---
 
