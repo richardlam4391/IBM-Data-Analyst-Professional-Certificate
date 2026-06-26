@@ -1,5 +1,7 @@
 # Data Analyst Career Guide and Interview Preparation
 
+---
+
 **Completed:** June 2025 | **IBM Data Analyst Professional Certificate**
 
 ---
