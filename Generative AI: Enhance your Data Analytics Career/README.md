@@ -1,5 +1,7 @@
 # Generative AI: Elevate Your Data Science Career
 
+---
+
 **Completed:** May 2025 | **IBM Data Analyst Professional Certificate**
 
 ---
