@@ -1,5 +1,7 @@
 # IBM Data Analyst Professional Certificate Portfolio
 
+---
+
 Welcome to my portfolio repository for the **IBM Data Analyst Professional Certificate** offered through Coursera. This program consists of 11 intensive courses designed to build job-ready, entry-level data analyst skills.
 
 Through this program, I have gained extensive hands-on experience covering the entire data lifecycle—from data collection, cleaning, and database management to exploratory data analysis, visualization, and business intelligence.
