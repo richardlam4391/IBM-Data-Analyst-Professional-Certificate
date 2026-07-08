@@ -22,7 +22,7 @@ Through this program, I have gained extensive hands-on experience covering the e
 
 * **Languages:** Python, SQL
 * **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Folium, Plotly, Beautiful Soup (Web Scraping)
-* **Databases & Environments:** IBM Db2, SQLite, Jupyter Notebooks, VS Code
+* **Databases & Environments:** IBM Db2, SQLite, MySQL, Jupyter Notebooks, VS Code
 * **BI & Spreadsheets:** Microsoft Excel, IBM Cognos Analytics, Tableau
 
 ---
