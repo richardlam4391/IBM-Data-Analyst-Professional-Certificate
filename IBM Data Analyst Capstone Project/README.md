@@ -25,9 +25,11 @@ This capstone project analyzes technology adoption trends across demographics to
 - Education level significantly influences technology tool proficiency
 - Clear segmentation exists between present skills and anticipated future needs
 
-![Current Technology Usage](Current%20Technology%20Usage.png)
-![Future Technology Trends](Future%20Technology%20Trends.png)
-![Demographics](Demographics.png)
+1) ![Current Technology Usage](Current%20Technology%20Usage.png)
+
+2) ![Future Technology Trends](Future%20Technology%20Trends.png)
+
+3) ![Demographics](Demographics.png)
 
 ---
 
