@@ -101,4 +101,4 @@ This module focuses on working with relational database systems, utilizing SQL (
 ## 🔗 Links
 
 * **Repository:** [GitHub](https://github.com/richardlam4391/IBM-Data-Analyst-Professional-Certificate/edit/main/Python%20Project%20for%20Data%20Science/README.md)
-* **Certification:** IBM Data Analyst Professional Certificate (Coursera)
+* **Certification:** [Databases and SQL for Data Science with Python (Coursera)](https://www.coursera.org/account/accomplishments/verify/NL7BBVS8KQMB)
