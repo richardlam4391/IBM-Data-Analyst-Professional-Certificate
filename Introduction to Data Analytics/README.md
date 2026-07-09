@@ -30,21 +30,21 @@ This project serves as a foundational exploration into the field of data analyti
 
 ## 📊 Data Sources
 
-- **Data Formats Encountered** - Worked conceptually with various standard formats including Flat Files (CSV, TSV), Structured Data (SQL tables), Semi-Structured Data (JSON, XML), and live feeds streamed via Web APIs or harvested through Web Scraping techniques.
-- **Project Context** Leveraged simulated cross-industry operational and transactional records to model authentic business challenges.
+* **Data Formats Encountered** - Worked conceptually with various standard formats including Flat Files (CSV, TSV), Structured Data (SQL tables), Semi-Structured Data (JSON, XML), and live feeds streamed via Web APIs or harvested through Web Scraping techniques.
+* **Project Context** Leveraged simulated cross-industry operational and transactional records to model authentic business challenges.
 
 ## 💡 Key Skills Demonstrated
 
-- **Ecosystem Architecture Design** - Ability to align specific business analytical goals with the appropriate data store repository (e.g., Data Warehouse vs. Data Lake).
-- **Data Quality Assessment** - Identifying common data anomalies, missing values, duplicates, and structural discrepancies during the gathering and wrangling phase.
-- **Strategic Problem Formulation** - Transforming raw business questions into structured analytical data workflows.
+* **Ecosystem Architecture Design** - Ability to align specific business analytical goals with the appropriate data store repository (e.g., Data Warehouse vs. Data Lake).
+* **Data Quality Assessment** - Identifying common data anomalies, missing values, duplicates, and structural discrepancies during the gathering and wrangling phase.
+* **Strategic Problem Formulation** - Transforming raw business questions into structured analytical data workflows.
 
 ## 📈 Visualization & Communication Highlights
 
-- Analyzed the importance of choosing the correct visualization format (e.g., Line charts for temporal trends, Bar charts for categorical comparisons, Scatter plots for relationships).
-- Emphasized storytelling with data by structuring dashboards to address specific stakeholder KPIs, effectively shifting raw data metrics into strategic, actionable business summaries.
+* Analyzed the importance of choosing the correct visualization format (e.g., Line charts for temporal trends, Bar charts for categorical comparisons, Scatter plots for relationships).
+* Emphasized storytelling with data by structuring dashboards to address specific stakeholder KPIs, effectively shifting raw data metrics into strategic, actionable business summaries.
 
 ## 🔗 Link 
 
-- **Repository:** [GitHub](https://github.com/richardlam4391/IBM-Data-Analyst-Professional-Certificate/tree/main/Introduction%20to%20Data%20Analytics)
-- **Certification:** IBM Data Analyst Professional Certificate (Coursera)
+* **Repository:** [GitHub](https://github.com/richardlam4391/IBM-Data-Analyst-Professional-Certificate/tree/main/Introduction%20to%20Data%20Analytics)
+* **Certification:** IBM Data Analyst Professional Certificate (Coursera)
