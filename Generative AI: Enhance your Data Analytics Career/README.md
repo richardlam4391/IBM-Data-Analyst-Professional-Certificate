@@ -44,11 +44,15 @@ This course explores how generative AI models and tools (such as Large Language 
 * **Prompt Engineering for Data Analytics** - Constructing advanced prompt patterns (few-shot, chain-of-thought) to translate unstructured questions into actionable analytic pipelines.
 * **Responsible AI Implementation** - Navigating data privacy compliance and validating AI code safety before deployment.
 
+---
+
 ## 📈 Visualization Highlights
 
 * **Distribution Comparison Charts** - Side-by-side or overlaid density plots (Matplotlib/Seaborn) mapping Real Data vs. Synthetic GenAI-Generated Data to visually inspect structural similarity and variance.
 * **Feature Importance Dashboards** - Comparative bar charts measuring performance shifts in Machine Learning models before and after AI-driven feature extraction.
 * **Prompt-to-Insight Iteration Flows** - Sequential markdown tables illustrating "Prompt vs. Output Response" cycles to capture the lifecycle of analytical discovery.
+
+---
 
 ## 🔗 Links
 
