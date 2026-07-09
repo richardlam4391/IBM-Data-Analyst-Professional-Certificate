@@ -38,8 +38,8 @@ This module focuses on moving from raw data to actionable data-driven insights u
 
 ### Deliverables
 
-- `House_Sales_in_King_Count_USA.ipynb` - Core Jupyter Notebook project files
-- `kc_house_data_NaN.csv` - Source and processed datasets
+* `House_Sales_in_King_Count_USA.ipynb` - Core Jupyter Notebook project files
+* `kc_house_data_NaN.csv` - Source and processed datasets
 
 ---
 
@@ -53,16 +53,16 @@ This module focuses on moving from raw data to actionable data-driven insights u
 
 ## 💡 Key Skills Demonstrated
 
-- **Data Wrangling & Quality Assurance** - Identifying and dropping/imputing missing values (`dropna()`, `fillna()`), standardizing units, normalizing numerical metrics (min-max / z-score), and data binning for categorical alignment.
-- **Advanced Exploratory Data Analysis (EDA)** - Computing descriptive statistics, calculating Pearson correlation coefficients, and executing ANOVA (Analysis of Variance) tests to determine statistical significance between categorical groups and a target variable.
-- **Predictive Modeling** - Developing Simple Linear Regression (SLR), Multiple Linear Regression (MLR), and multi-degree Polynomial models.
-- **Model Regularization & Optimization** - Implementing Ridge Regression to prevent overfitting and using `GridSearchCV` for hyperparameter optimization.
+* **Data Wrangling & Quality Assurance** - Identifying and dropping/imputing missing values (`dropna()`, `fillna()`), standardizing units, normalizing numerical metrics (min-max / z-score), and data binning for categorical alignment.
+* **Advanced Exploratory Data Analysis (EDA)** - Computing descriptive statistics, calculating Pearson correlation coefficients, and executing ANOVA (Analysis of Variance) tests to determine statistical significance between categorical groups and a target variable.
+* **Predictive Modeling** - Developing Simple Linear Regression (SLR), Multiple Linear Regression (MLR), and multi-degree Polynomial models.
+* **Model Regularization & Optimization** - Implementing Ridge Regression to prevent overfitting and using `GridSearchCV` for hyperparameter optimization.
 
 ---
 
 ## 📈 Visualization Highlights
 
-- Leveraging Matplotlib and Seaborn, the following visual assets were developed to unlock dataset narratives:
+* Leveraging Matplotlib and Seaborn, the following visual assets were developed to unlock dataset narratives:
 
     * **Regression Plots (sns.regplot)** - Utilized to isolate linear trends between continuous engine features and price.
 
@@ -72,7 +72,9 @@ This module focuses on moving from raw data to actionable data-driven insights u
 
     * **Box Plots (sns.boxplot)** - Created to observe variations in price distributions across categorical segments like drive-wheels or engine location.
 
+---
+
 ## 🔗 Links
 
-- **Repository:** [GitHub](https://github.com/richardlam4391/IBM-Data-Analyst-Professional-Certificate/tree/main/Data%20Analysis%20with%20Python)
-- **Certification:** IBM Data Analyst Professional Certificate (Coursera)
+* **Repository:** [GitHub](https://github.com/richardlam4391/IBM-Data-Analyst-Professional-Certificate/tree/main/Data%20Analysis%20with%20Python)
+* **Certification:** IBM Data Analyst Professional Certificate (Coursera)
