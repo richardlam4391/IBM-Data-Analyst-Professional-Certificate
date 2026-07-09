@@ -68,13 +68,13 @@ The culmination of this certificate program is an intensive, multi-phase capston
 ## 📚 **Notable Projects**
 
 ### **Core Analysis Projects**
-- **[Data Analysis with Python: House Sales in King County, USA](./Data%20Analysis%20with%20Python)** — Regression modeling on real estate data
-- **[Databases and SQL for Data Science: Chicago Socioeconomic Data](./Databases%20and%20SQL%20for%20Data%20Science%20with%20Python)** — SQL queries and relational data analysis
-- **[Python Project for Data Science: Stock Data Analysis](./Python%20Project%20for%20Data%20Science)** — Financial data extraction and visualization
+* **[Data Analysis with Python: House Sales in King County, USA](./Data%20Analysis%20with%20Python)** — Regression modeling on real estate data
+* **[Databases and SQL for Data Science: Chicago Socioeconomic Data](./Databases%20and%20SQL%20for%20Data%20Science%20with%20Python)** — SQL queries and relational data analysis
+* **[Python Project for Data Science: Stock Data Analysis](./Python%20Project%20for%20Data%20Science)** — Financial data extraction and visualization
 
 ### **Dashboard & Visualization**
-- **[Data Visualization with Python](./Data%20Visualization%20with%20Python)** — Interactive Plotly visualizations
-- **[Excel & Cognos Dashboards](./Data%20Visualization%20and%20Dashboards%20with%20Excel%20and%20Cognos)** — Business intelligence reporting
+* **[Data Visualization with Python](./Data%20Visualization%20with%20Python)** — Interactive Plotly visualizations
+* **[Excel & Cognos Dashboards](./Data%20Visualization%20and%20Dashboards%20with%20Excel%20and%20Cognos)** — Business intelligence reporting
 
 ---
 
@@ -94,9 +94,9 @@ The culmination of this certificate program is an intensive, multi-phase capston
 
 ---
 
-**Repository Last Updated:** June 2025  
-**Certificate Awarded:** June 2025  
-**Total Courses:** 11  
-**Program Duration:** 3 months  
+* **Repository Last Updated:** June 2025  
+* **Certificate Awarded:** June 2025  
+* **Total Courses:** 11  
+* **Program Duration:** 3 months  
 
 For more information about this program, visit [IBM Data Analyst Professional Certificate on Coursera](https://www.coursera.org/professional-certificates/ibm-data-analyst).
