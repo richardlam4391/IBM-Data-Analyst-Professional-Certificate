@@ -10,6 +10,8 @@
 
 This module bridges the gap between academic data analytics concepts and professional industry practice. It explores the landscape of the data analytics job market, standard business reporting requirements, and comprehensive preparation strategies for both technical SQL/Excel assessments and business case interviews. Through focused exercises, this course builds the core competencies needed to clean messy data under time constraints, translate raw numbers into actionable stakeholder insights, and present a polished analytics portfolio.
 
+---
+
 ## 🎯 Key Findings
 
 * **The Role of the Modern Analyst** - Industry analysis indicates that top-tier data analyst roles prioritize candidates who can go beyond data extraction to provide diagnostic and prescriptive insights that influence business decisions.
