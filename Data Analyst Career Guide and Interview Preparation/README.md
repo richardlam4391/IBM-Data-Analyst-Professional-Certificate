@@ -55,4 +55,4 @@ This module bridges the gap between academic data analytics concepts and profess
 ## 🔗 Link
 
 * **Repository:** [GitHub](https://github.com/richardlam4391/IBM-Data-Analyst-Professional-Certificate/tree/main/Data%20Analyst%20Career%20Guide%20and%20Interview%20Preparation)
-* **Certification:** IBM Data Analyst Professional Certificate (Coursera)
+* **Certification:** [Data Analyst Career Guide and Interview Preparation (Coursera)](https://www.coursera.org/account/accomplishments/records/AS12SK9CUVMG)
