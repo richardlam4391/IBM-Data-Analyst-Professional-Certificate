@@ -74,7 +74,7 @@ The culmination of this certificate program is an intensive, multi-phase capston
 
 ### **Dashboard & Visualization**
 * **[Data Visualization with Python](./Data%20Visualization%20with%20Python)** — Interactive Plotly visualizations
-* **[Excel & Cognos Dashboards](./Data%20Visualization%20and%20Dashboards%20with%20Excel%20and%20Cognos)** — Business intelligence reporting
+* **[Excel & Cognos Dashboards](./Data%20Visualization%20and%20Dashboards%20with%20Excel%20and%20Cognos)** —Interactive dashboards
 
 ---
 
