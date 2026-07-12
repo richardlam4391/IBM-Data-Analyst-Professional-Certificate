@@ -37,6 +37,7 @@ The capstone project for this course involves analyzing a real-world business da
 ## 📁 Project Structure
 
 ### Deliverables
+* .csv files - Source and processed datasets
 * `Montgomery_Fleet_Equipment_inventory_FA_PART_START.xslx.xlsx` — Spreadsheet files
 
 ---
