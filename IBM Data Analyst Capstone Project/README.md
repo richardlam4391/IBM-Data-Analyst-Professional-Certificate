@@ -13,9 +13,6 @@ This capstone project analyzes technology adoption trends across demographics to
 
 **Key Question:** How do technology skills and adoption patterns differ across age groups and education levels, and what skills will be most critical in the future?
 
-## Dataset
-Our dataset comes from [Stack Overflow Annual Developer Survey](https://survey.stackoverflow.co/). This is a comprehensive survey that captures developer insights on technology adoption, tools, languages, and trends across the global developer community. Using Stack Overflow's survey data allows you to analyze real-world technology adoption patterns and predict future skills demand across different demographics (age groups, education levels, etc.).
-
 ### Primary Deliverable
 **Interactive Tableau Dashboard:** [View on Tableau Public](https://public.tableau.com/app/profile/richardlam4391/viz/IBMDataAnalystCapstoneProject_17807052494200/Dashboard3)
 
@@ -77,7 +74,8 @@ Our dataset comes from [Stack Overflow Annual Developer Survey](https://survey.s
 
 ## 📊 Data Sources
 
-Data collected from:
+This project covers [Stack Overflow Annual Developer Survey](https://survey.stackoverflow.co/):
+
 * Job posting APIs (employment data)
 * Web scraping (technology trends, surveys)
 * Aggregated survey responses (demographics)
