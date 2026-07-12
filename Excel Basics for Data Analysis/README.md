@@ -44,7 +44,7 @@ The capstone project for this course involves analyzing a real-world business da
 
 ## 📊 Data Source
 
-The data used in this project is provided by IBM Skills Network as part of the professional certificate curriculum. It simulates standard corporate operational and sales records, containing fields such as transaction dates, customer demographics, product categories, revenue, costs, and regional metrics.
+This project covers [Fleet Equipment Inventory](https://data.montgomerycountymd.gov/Government/Fleet-Equipment-Inventory/93vc-wpdr/about_data). It simulates standard corporate operational and sales records, containing fields such as transaction dates, customer demographics, product categories, revenue, costs, and regional metrics.
 
 ---
 
