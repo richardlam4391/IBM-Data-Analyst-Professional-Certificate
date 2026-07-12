@@ -53,7 +53,7 @@ This project focuses on converting raw operational, sales, customer satisfaction
 
 ## 📊 Data Source
 
-The dashboard leverages real-world operational datasets spanning:
+The dashboard leverages [real-world operational datasets](https://accelerator.ca.analytics.ibm.com/bi/?perspective=authoring&pathRef=.public_folders%2FIBM%2BAccelerator%2BCatalog%2FContent%2FDAT00142&id=i22898C2A4DD748F79E0FC2BD017F4FE8&objRef=i22898C2A4DD748F79E0FC2BD017F4FE8&action=run&format=HTML&cmPropStr=%7B%22id%22%3A%22i22898C2A4DD748F79E0FC2BD017F4FE8%22%2C%22type%22%3A%22reportView%22%2C%22defaultName%22%3A%22DAT00142%22%2C%22permissions%22%3A%5B%22execute%22%2C%22read%22%2C%22traverse%22%5D%7D) spanning:
 * Regional automotive sales logs and vehicle model volumes.
 * Dealership fulfillment and daily operations.
 * Customer experience metrics, including loyalty tables, sentiment ratings, and product safety recall distributions.
