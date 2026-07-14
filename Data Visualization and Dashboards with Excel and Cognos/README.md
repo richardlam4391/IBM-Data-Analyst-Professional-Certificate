@@ -55,10 +55,10 @@ This project focuses on converting raw operational, sales, customer satisfaction
 
 ## 📊 Data Source
 
-The exercises in this module are powered by the [Fleet Equipment Inventory Dataset](https://data.montgomerycountymd.gov/Government/Fleet-Equipment-Inventory/93vc-wpdr/about_data):
-* **Simulation Framework:** Simulates standard corporate business logs, tracking transactional flows across customer segments and product lines.
-* **Core Metrics:** Features transaction details, cost structures, revenue, geographic regions, and demographic variables.
-* **Application:** Used to practice fundamental data cleaning, sorting, filtering, and pivot table summarization in Excel.
+The dashboards and visualizations in this module leverage [real-world operational datasets](https://accelerator.ca.analytics.ibm.com/bi/?perspective=authoring&pathRef=.public_folders%2FIBM%2BAccelerator%2BCatalog%2FContent%2FDAT00142&id=i22898C2A4DD748F79E0FC2BD017F4FE8&objRef=i22898C2A4DD748F79E0FC2BD017F4FE8&action=run&format=HTML&cmPropStr=%7B%22id%22%3A%22i22898C2A4DD748F79E0FC2BD017F4FE8%22%2C%22type%22%3A%22reportView%22%2C%22defaultName%22%3A%22DAT00142%22%2C%22permissions%22%3A%5B%22execute%22%2C%22read%22%2C%22traverse%22%5D%7D) from the IBM Accelerator Catalog:
+* **Sales Performance:** Regional automotive sales logs and vehicle model transaction volumes.
+* **Operations:** Dealership fulfillment workflows and day-to-day operational metrics.
+* **Customer Experience:** Centralized customer profiles, tracking loyalty programs, sentiment feedback, and product safety recall distributions.
 
 ---
 
