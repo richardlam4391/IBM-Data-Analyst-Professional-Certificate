@@ -44,7 +44,10 @@ The capstone project for this course involves analyzing a real-world business da
 
 ## 📊 Data Source
 
-* This project covers [Fleet Equipment Inventory](https://data.montgomerycountymd.gov/Government/Fleet-Equipment-Inventory/93vc-wpdr/about_data). It simulates standard corporate operational and sales records, containing fields such as transaction dates, customer demographics, product categories, revenue, costs, and regional metrics.
+This project utilizes the [Fleet Equipment Inventory Dataset](https://data.montgomerycountymd.gov/Government/Fleet-Equipment-Inventory/93vc-wpdr/about_data) sourced from the Montgomery County Open Data portal:
+* **Dataset Profile:** Emulates realistic corporate operational and sales transactions to model real-world business performance.
+* **Key Attributes:** Captures essential business variables including transaction dates, customer demographics, product categories, operational costs, revenues, and regional metrics.
+* **Analytical Scope:** Serves as the foundation for applying core spreadsheet operations, descriptive statistics, and basic data profiling.
 
 ---
 
