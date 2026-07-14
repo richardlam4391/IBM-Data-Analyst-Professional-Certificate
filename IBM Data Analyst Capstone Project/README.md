@@ -72,15 +72,16 @@ This capstone project analyzes technology adoption trends across demographics to
 
 ---
 
-## 📊 Data Sources
+## 📊 Data Sources & Quality
 
-* This project covers [Stack Overflow Annual Developer Survey](https://survey.stackoverflow.co/):
-  * Job posting APIs (employment data)
-  * Web scraping (technology trends, surveys)
-  * Aggregated survey responses (demographics)
+The analysis is driven by data extracted from the [Stack Overflow Annual Developer Survey](https://survey.stackoverflow.co/) alongside supplementary pipelines:
+* **API Ingestion:** Job postings and employment market data.
+* **Web Scraping:** Online technology adoption and tool tracking trends.
+* **Survey Aggregation:** Global developer demographics and compensation metrics.
 
-**Total Records Processed:** ~10,000+ entries after cleaning  
-**Data Quality:** Handled missing values, duplicates, and outliers; normalized across multiple sources
+**Data Pipeline Summary:**
+* **Scale:** ~10,000+ cleaned entries processed.
+* **Data Hygiene:** Standardized through custom missing-value imputation, deduplication, outlier handling, and cross-source schema normalization.
 
 ---
 
